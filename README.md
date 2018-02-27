@@ -1,2316 +1,586 @@
 
-<html xmlns:v="urn:schemas-microsoft-com:vml"
-xmlns:o="urn:schemas-microsoft-com:office:office"
-xmlns:w="urn:schemas-microsoft-com:office:word"
-xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
-xmlns="http://www.w3.org/TR/REC-html40">
 
-<head>
-<meta http-equiv=Content-Type content="text/html; charset=windows-1252">
-<meta name=ProgId content=Word.Document>
-<meta name=Generator content="Microsoft Word 15">
-<meta name=Originator content="Microsoft Word 15">
-<link rel=File-List
-href="&#7912;ng%20d&#7909;ng%20t&#7911;%20s&#7845;y%20thí%20nghi&#7879;m_files/filelist.xml">
-<!--[if gte mso 9]><xml>
- <o:DocumentProperties>
-  <o:Author>nguyen juzo</o:Author>
-  <o:LastAuthor>nguyen juzo</o:LastAuthor>
-  <o:Revision>5</o:Revision>
-  <o:TotalTime>443</o:TotalTime>
-  <o:Created>2018-02-27T02:29:00Z</o:Created>
-  <o:LastSaved>2018-02-27T02:42:00Z</o:LastSaved>
-  <o:Pages>1</o:Pages>
-  <o:Words>675</o:Words>
-  <o:Characters>3851</o:Characters>
-  <o:Lines>32</o:Lines>
-  <o:Paragraphs>9</o:Paragraphs>
-  <o:CharactersWithSpaces>4517</o:CharactersWithSpaces>
-  <o:Version>16.00</o:Version>
- </o:DocumentProperties>
- <o:OfficeDocumentSettings>
-  <o:AllowPNG/>
- </o:OfficeDocumentSettings>
-</xml><![endif]-->
-<link rel=themeData
-href="&#7912;ng%20d&#7909;ng%20t&#7911;%20s&#7845;y%20thí%20nghi&#7879;m_files/themedata.thmx">
-<link rel=colorSchemeMapping
-href="&#7912;ng%20d&#7909;ng%20t&#7911;%20s&#7845;y%20thí%20nghi&#7879;m_files/colorschememapping.xml">
-<!--[if gte mso 9]><xml>
- <w:WordDocument>
-  <w:SpellingState>Clean</w:SpellingState>
-  <w:GrammarState>Clean</w:GrammarState>
-  <w:TrackMoves>false</w:TrackMoves>
-  <w:TrackFormatting/>
-  <w:PunctuationKerning/>
-  <w:ValidateAgainstSchemas/>
-  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
-  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
-  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
-  <w:DoNotPromoteQF/>
-  <w:LidThemeOther>EN-US</w:LidThemeOther>
-  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
-  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
-  <w:Compatibility>
-   <w:BreakWrappedTables/>
-   <w:SnapToGridInCell/>
-   <w:WrapTextWithPunct/>
-   <w:UseAsianBreakRules/>
-   <w:DontGrowAutofit/>
-   <w:SplitPgBreakAndParaMark/>
-   <w:EnableOpenTypeKerning/>
-   <w:DontFlipMirrorIndents/>
-   <w:OverrideTableStyleHps/>
-  </w:Compatibility>
-  <m:mathPr>
-   <m:mathFont m:val="Cambria Math"/>
-   <m:brkBin m:val="before"/>
-   <m:brkBinSub m:val="&#45;-"/>
-   <m:smallFrac m:val="off"/>
-   <m:dispDef/>
-   <m:lMargin m:val="0"/>
-   <m:rMargin m:val="0"/>
-   <m:defJc m:val="centerGroup"/>
-   <m:wrapIndent m:val="1440"/>
-   <m:intLim m:val="subSup"/>
-   <m:naryLim m:val="undOvr"/>
-  </m:mathPr></w:WordDocument>
-</xml><![endif]--><!--[if gte mso 9]><xml>
- <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="false"
-  DefSemiHidden="false" DefQFormat="false" DefPriority="99"
-  LatentStyleCount="375">
-  <w:LsdException Locked="false" Priority="0" QFormat="true" Name="Normal"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 1"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 2"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 3"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 4"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 5"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 6"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 7"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 8"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="heading 9"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 5"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 6"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 7"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 8"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index 9"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 1"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 2"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 3"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 4"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 5"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 6"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 7"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 8"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" Name="toc 9"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Normal Indent"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="footnote text"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="annotation text"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="header"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="footer"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="index heading"/>
-  <w:LsdException Locked="false" Priority="35" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="caption"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="table of figures"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="envelope address"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="envelope return"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="footnote reference"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="annotation reference"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="line number"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="page number"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="endnote reference"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="endnote text"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="table of authorities"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="macro"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="toa heading"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Bullet"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Number"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List 5"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Bullet 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Bullet 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Bullet 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Bullet 5"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Number 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Number 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Number 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Number 5"/>
-  <w:LsdException Locked="false" Priority="10" QFormat="true" Name="Title"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Closing"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Signature"/>
-  <w:LsdException Locked="false" Priority="1" SemiHidden="true"
-   UnhideWhenUsed="true" Name="Default Paragraph Font"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text Indent"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Continue"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Continue 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Continue 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Continue 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="List Continue 5"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Message Header"/>
-  <w:LsdException Locked="false" Priority="11" QFormat="true" Name="Subtitle"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Salutation"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Date"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text First Indent"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text First Indent 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Note Heading"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text Indent 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Body Text Indent 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Block Text"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Hyperlink"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="FollowedHyperlink"/>
-  <w:LsdException Locked="false" Priority="22" QFormat="true" Name="Strong"/>
-  <w:LsdException Locked="false" Priority="20" QFormat="true" Name="Emphasis"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Document Map"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Plain Text"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="E-mail Signature"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Top of Form"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Bottom of Form"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Normal (Web)"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Acronym"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Address"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Cite"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Code"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Definition"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Keyboard"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Preformatted"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Sample"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Typewriter"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="HTML Variable"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="annotation subject"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="No List"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Outline List 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Outline List 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Outline List 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Simple 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Simple 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Simple 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Classic 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Classic 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Classic 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Classic 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Colorful 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Colorful 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Colorful 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Columns 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Columns 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Columns 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Columns 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Columns 5"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Grid 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Grid 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Grid 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Grid 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Grid 5"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Grid 6"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Grid 7"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Grid 8"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table List 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table List 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table List 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table List 4"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table List 5"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table List 6"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table List 7"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table List 8"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table 3D effects 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table 3D effects 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table 3D effects 3"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Contemporary"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Elegant"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Professional"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Subtle 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Web 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Web 2"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Balloon Text"/>
-  <w:LsdException Locked="false" Priority="39" Name="Table Grid"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Table Theme"/>
-  <w:LsdException Locked="false" SemiHidden="true" Name="Placeholder Text"/>
-  <w:LsdException Locked="false" Priority="1" QFormat="true" Name="No Spacing"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 1"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 1"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 1"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 1"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 1"/>
-  <w:LsdException Locked="false" SemiHidden="true" Name="Revision"/>
-  <w:LsdException Locked="false" Priority="34" QFormat="true"
-   Name="List Paragraph"/>
-  <w:LsdException Locked="false" Priority="29" QFormat="true" Name="Quote"/>
-  <w:LsdException Locked="false" Priority="30" QFormat="true"
-   Name="Intense Quote"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 1"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 1"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 1"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 1"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 1"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 1"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 2"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 2"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 2"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 2"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 2"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 2"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 2"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 2"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 2"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 2"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 2"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 3"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 3"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 3"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 3"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 3"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 3"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 3"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 3"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 3"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 3"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 3"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 4"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 4"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 4"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 4"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 4"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 4"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 4"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 4"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 4"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 4"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 4"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 5"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 5"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 5"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 5"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 5"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 5"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 5"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 5"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 5"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 5"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 5"/>
-  <w:LsdException Locked="false" Priority="60" Name="Light Shading Accent 6"/>
-  <w:LsdException Locked="false" Priority="61" Name="Light List Accent 6"/>
-  <w:LsdException Locked="false" Priority="62" Name="Light Grid Accent 6"/>
-  <w:LsdException Locked="false" Priority="63" Name="Medium Shading 1 Accent 6"/>
-  <w:LsdException Locked="false" Priority="64" Name="Medium Shading 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="65" Name="Medium List 1 Accent 6"/>
-  <w:LsdException Locked="false" Priority="66" Name="Medium List 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="67" Name="Medium Grid 1 Accent 6"/>
-  <w:LsdException Locked="false" Priority="68" Name="Medium Grid 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="69" Name="Medium Grid 3 Accent 6"/>
-  <w:LsdException Locked="false" Priority="70" Name="Dark List Accent 6"/>
-  <w:LsdException Locked="false" Priority="71" Name="Colorful Shading Accent 6"/>
-  <w:LsdException Locked="false" Priority="72" Name="Colorful List Accent 6"/>
-  <w:LsdException Locked="false" Priority="73" Name="Colorful Grid Accent 6"/>
-  <w:LsdException Locked="false" Priority="19" QFormat="true"
-   Name="Subtle Emphasis"/>
-  <w:LsdException Locked="false" Priority="21" QFormat="true"
-   Name="Intense Emphasis"/>
-  <w:LsdException Locked="false" Priority="31" QFormat="true"
-   Name="Subtle Reference"/>
-  <w:LsdException Locked="false" Priority="32" QFormat="true"
-   Name="Intense Reference"/>
-  <w:LsdException Locked="false" Priority="33" QFormat="true" Name="Book Title"/>
-  <w:LsdException Locked="false" Priority="37" SemiHidden="true"
-   UnhideWhenUsed="true" Name="Bibliography"/>
-  <w:LsdException Locked="false" Priority="39" SemiHidden="true"
-   UnhideWhenUsed="true" QFormat="true" Name="TOC Heading"/>
-  <w:LsdException Locked="false" Priority="41" Name="Plain Table 1"/>
-  <w:LsdException Locked="false" Priority="42" Name="Plain Table 2"/>
-  <w:LsdException Locked="false" Priority="43" Name="Plain Table 3"/>
-  <w:LsdException Locked="false" Priority="44" Name="Plain Table 4"/>
-  <w:LsdException Locked="false" Priority="45" Name="Plain Table 5"/>
-  <w:LsdException Locked="false" Priority="40" Name="Grid Table Light"/>
-  <w:LsdException Locked="false" Priority="46" Name="Grid Table 1 Light"/>
-  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2"/>
-  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3"/>
-  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4"/>
-  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark"/>
-  <w:LsdException Locked="false" Priority="51" Name="Grid Table 6 Colorful"/>
-  <w:LsdException Locked="false" Priority="52" Name="Grid Table 7 Colorful"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="Grid Table 1 Light Accent 1"/>
-  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 1"/>
-  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 1"/>
-  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 1"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="Grid Table 6 Colorful Accent 1"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="Grid Table 7 Colorful Accent 1"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="Grid Table 1 Light Accent 2"/>
-  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 2"/>
-  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 2"/>
-  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 2"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="Grid Table 6 Colorful Accent 2"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="Grid Table 7 Colorful Accent 2"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="Grid Table 1 Light Accent 3"/>
-  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 3"/>
-  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 3"/>
-  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 3"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="Grid Table 6 Colorful Accent 3"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="Grid Table 7 Colorful Accent 3"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="Grid Table 1 Light Accent 4"/>
-  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 4"/>
-  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 4"/>
-  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 4"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="Grid Table 6 Colorful Accent 4"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="Grid Table 7 Colorful Accent 4"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="Grid Table 1 Light Accent 5"/>
-  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 5"/>
-  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 5"/>
-  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 5"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="Grid Table 6 Colorful Accent 5"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="Grid Table 7 Colorful Accent 5"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="Grid Table 1 Light Accent 6"/>
-  <w:LsdException Locked="false" Priority="47" Name="Grid Table 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="48" Name="Grid Table 3 Accent 6"/>
-  <w:LsdException Locked="false" Priority="49" Name="Grid Table 4 Accent 6"/>
-  <w:LsdException Locked="false" Priority="50" Name="Grid Table 5 Dark Accent 6"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="Grid Table 6 Colorful Accent 6"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="Grid Table 7 Colorful Accent 6"/>
-  <w:LsdException Locked="false" Priority="46" Name="List Table 1 Light"/>
-  <w:LsdException Locked="false" Priority="47" Name="List Table 2"/>
-  <w:LsdException Locked="false" Priority="48" Name="List Table 3"/>
-  <w:LsdException Locked="false" Priority="49" Name="List Table 4"/>
-  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark"/>
-  <w:LsdException Locked="false" Priority="51" Name="List Table 6 Colorful"/>
-  <w:LsdException Locked="false" Priority="52" Name="List Table 7 Colorful"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="List Table 1 Light Accent 1"/>
-  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 1"/>
-  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 1"/>
-  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 1"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="List Table 6 Colorful Accent 1"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="List Table 7 Colorful Accent 1"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="List Table 1 Light Accent 2"/>
-  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 2"/>
-  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 2"/>
-  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 2"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="List Table 6 Colorful Accent 2"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="List Table 7 Colorful Accent 2"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="List Table 1 Light Accent 3"/>
-  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 3"/>
-  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 3"/>
-  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 3"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="List Table 6 Colorful Accent 3"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="List Table 7 Colorful Accent 3"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="List Table 1 Light Accent 4"/>
-  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 4"/>
-  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 4"/>
-  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 4"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="List Table 6 Colorful Accent 4"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="List Table 7 Colorful Accent 4"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="List Table 1 Light Accent 5"/>
-  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 5"/>
-  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 5"/>
-  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 5"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="List Table 6 Colorful Accent 5"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="List Table 7 Colorful Accent 5"/>
-  <w:LsdException Locked="false" Priority="46"
-   Name="List Table 1 Light Accent 6"/>
-  <w:LsdException Locked="false" Priority="47" Name="List Table 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="48" Name="List Table 3 Accent 6"/>
-  <w:LsdException Locked="false" Priority="49" Name="List Table 4 Accent 6"/>
-  <w:LsdException Locked="false" Priority="50" Name="List Table 5 Dark Accent 6"/>
-  <w:LsdException Locked="false" Priority="51"
-   Name="List Table 6 Colorful Accent 6"/>
-  <w:LsdException Locked="false" Priority="52"
-   Name="List Table 7 Colorful Accent 6"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Mention"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Smart Hyperlink"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Hashtag"/>
-  <w:LsdException Locked="false" SemiHidden="true" UnhideWhenUsed="true"
-   Name="Unresolved Mention"/>
- </w:LatentStyles>
-</xml><![endif]-->
-<style>
-<!--
- /* Font Definitions */
- @font-face
-	{font-family:Wingdings;
-	panose-1:5 0 0 0 0 0 0 0 0 0;
-	mso-font-charset:2;
-	mso-generic-font-family:auto;
-	mso-font-pitch:variable;
-	mso-font-signature:0 268435456 0 0 -2147483648 0;}
-@font-face
-	{font-family:"Cambria Math";
-	panose-1:2 4 5 3 5 4 6 3 2 4;
-	mso-font-charset:0;
-	mso-generic-font-family:roman;
-	mso-font-pitch:variable;
-	mso-font-signature:-536869121 1107305727 33554432 0 415 0;}
-@font-face
-	{font-family:Calibri;
-	panose-1:2 15 5 2 2 2 4 3 2 4;
-	mso-font-charset:0;
-	mso-generic-font-family:swiss;
-	mso-font-pitch:variable;
-	mso-font-signature:-536859905 -1073732485 9 0 511 0;}
- /* Style Definitions */
- p.MsoNormal, li.MsoNormal, div.MsoNormal
-	{mso-style-unhide:no;
-	mso-style-qformat:yes;
-	mso-style-parent:"";
-	margin-top:0cm;
-	margin-right:0cm;
-	margin-bottom:8.0pt;
-	margin-left:0cm;
-	line-height:107%;
-	mso-pagination:widow-orphan;
-	font-size:14.0pt;
-	mso-bidi-font-size:11.0pt;
-	font-family:"Times New Roman",serif;
-	mso-fareast-font-family:Calibri;
-	mso-fareast-theme-font:minor-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:minor-bidi;}
-h2
-	{mso-style-priority:9;
-	mso-style-unhide:no;
-	mso-style-qformat:yes;
-	mso-style-link:"Heading 2 Char";
-	mso-margin-top-alt:auto;
-	margin-right:0cm;
-	mso-margin-bottom-alt:auto;
-	margin-left:0cm;
-	mso-pagination:widow-orphan;
-	mso-outline-level:2;
-	font-size:18.0pt;
-	font-family:"Times New Roman",serif;
-	mso-fareast-font-family:"Times New Roman";
-	font-weight:bold;}
-h3
-	{mso-style-priority:9;
-	mso-style-unhide:no;
-	mso-style-qformat:yes;
-	mso-style-link:"Heading 3 Char";
-	mso-margin-top-alt:auto;
-	margin-right:0cm;
-	mso-margin-bottom-alt:auto;
-	margin-left:0cm;
-	mso-pagination:widow-orphan;
-	mso-outline-level:3;
-	font-size:13.5pt;
-	font-family:"Times New Roman",serif;
-	mso-fareast-font-family:"Times New Roman";
-	font-weight:bold;}
-a:link, span.MsoHyperlink
-	{mso-style-noshow:yes;
-	mso-style-priority:99;
-	color:blue;
-	text-decoration:underline;
-	text-underline:single;}
-a:visited, span.MsoHyperlinkFollowed
-	{mso-style-noshow:yes;
-	mso-style-priority:99;
-	color:#954F72;
-	mso-themecolor:followedhyperlink;
-	text-decoration:underline;
-	text-underline:single;}
-p
-	{mso-style-noshow:yes;
-	mso-style-priority:99;
-	mso-margin-top-alt:auto;
-	margin-right:0cm;
-	mso-margin-bottom-alt:auto;
-	margin-left:0cm;
-	mso-pagination:widow-orphan;
-	font-size:12.0pt;
-	font-family:"Times New Roman",serif;
-	mso-fareast-font-family:"Times New Roman";}
-p.MsoListParagraph, li.MsoListParagraph, div.MsoListParagraph
-	{mso-style-priority:34;
-	mso-style-unhide:no;
-	mso-style-qformat:yes;
-	margin-top:0cm;
-	margin-right:0cm;
-	margin-bottom:8.0pt;
-	margin-left:36.0pt;
-	mso-add-space:auto;
-	line-height:107%;
-	mso-pagination:widow-orphan;
-	font-size:14.0pt;
-	mso-bidi-font-size:11.0pt;
-	font-family:"Times New Roman",serif;
-	mso-fareast-font-family:Calibri;
-	mso-fareast-theme-font:minor-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:minor-bidi;}
-p.MsoListParagraphCxSpFirst, li.MsoListParagraphCxSpFirst, div.MsoListParagraphCxSpFirst
-	{mso-style-priority:34;
-	mso-style-unhide:no;
-	mso-style-qformat:yes;
-	mso-style-type:export-only;
-	margin-top:0cm;
-	margin-right:0cm;
-	margin-bottom:0cm;
-	margin-left:36.0pt;
-	margin-bottom:.0001pt;
-	mso-add-space:auto;
-	line-height:107%;
-	mso-pagination:widow-orphan;
-	font-size:14.0pt;
-	mso-bidi-font-size:11.0pt;
-	font-family:"Times New Roman",serif;
-	mso-fareast-font-family:Calibri;
-	mso-fareast-theme-font:minor-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:minor-bidi;}
-p.MsoListParagraphCxSpMiddle, li.MsoListParagraphCxSpMiddle, div.MsoListParagraphCxSpMiddle
-	{mso-style-priority:34;
-	mso-style-unhide:no;
-	mso-style-qformat:yes;
-	mso-style-type:export-only;
-	margin-top:0cm;
-	margin-right:0cm;
-	margin-bottom:0cm;
-	margin-left:36.0pt;
-	margin-bottom:.0001pt;
-	mso-add-space:auto;
-	line-height:107%;
-	mso-pagination:widow-orphan;
-	font-size:14.0pt;
-	mso-bidi-font-size:11.0pt;
-	font-family:"Times New Roman",serif;
-	mso-fareast-font-family:Calibri;
-	mso-fareast-theme-font:minor-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:minor-bidi;}
-p.MsoListParagraphCxSpLast, li.MsoListParagraphCxSpLast, div.MsoListParagraphCxSpLast
-	{mso-style-priority:34;
-	mso-style-unhide:no;
-	mso-style-qformat:yes;
-	mso-style-type:export-only;
-	margin-top:0cm;
-	margin-right:0cm;
-	margin-bottom:8.0pt;
-	margin-left:36.0pt;
-	mso-add-space:auto;
-	line-height:107%;
-	mso-pagination:widow-orphan;
-	font-size:14.0pt;
-	mso-bidi-font-size:11.0pt;
-	font-family:"Times New Roman",serif;
-	mso-fareast-font-family:Calibri;
-	mso-fareast-theme-font:minor-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:minor-bidi;}
-span.Heading2Char
-	{mso-style-name:"Heading 2 Char";
-	mso-style-priority:9;
-	mso-style-unhide:no;
-	mso-style-locked:yes;
-	mso-style-link:"Heading 2";
-	mso-ansi-font-size:18.0pt;
-	mso-bidi-font-size:18.0pt;
-	font-family:"Times New Roman",serif;
-	mso-fareast-font-family:"Times New Roman";
-	mso-bidi-font-family:"Times New Roman";
-	font-weight:bold;}
-span.Heading3Char
-	{mso-style-name:"Heading 3 Char";
-	mso-style-priority:9;
-	mso-style-unhide:no;
-	mso-style-locked:yes;
-	mso-style-link:"Heading 3";
-	mso-ansi-font-size:13.5pt;
-	mso-bidi-font-size:13.5pt;
-	font-family:"Times New Roman",serif;
-	mso-fareast-font-family:"Times New Roman";
-	mso-bidi-font-family:"Times New Roman";
-	font-weight:bold;}
-span.SpellE
-	{mso-style-name:"";
-	mso-spl-e:yes;}
-span.GramE
-	{mso-style-name:"";
-	mso-gram-e:yes;}
-.MsoChpDefault
-	{mso-style-type:export-only;
-	mso-default-props:yes;
-	font-size:14.0pt;
-	mso-ansi-font-size:14.0pt;
-	mso-fareast-font-family:Calibri;
-	mso-fareast-theme-font:minor-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:minor-bidi;}
-.MsoPapDefault
-	{mso-style-type:export-only;
-	margin-bottom:8.0pt;
-	line-height:107%;}
-@page WordSection1
-	{size:612.0pt 792.0pt;
-	margin:72.0pt 72.0pt 72.0pt 72.0pt;
-	mso-header-margin:36.0pt;
-	mso-footer-margin:36.0pt;
-	mso-paper-source:0;}
-div.WordSection1
-	{page:WordSection1;}
- /* List Definitions */
- @list l0
-	{mso-list-id:94518900;
-	mso-list-template-ids:1780765912;}
-@list l0:level1
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0B7;
-	mso-level-tab-stop:36.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Symbol;}
-@list l0:level2
-	{mso-level-number-format:bullet;
-	mso-level-text:o;
-	mso-level-tab-stop:72.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:"Courier New";
-	mso-bidi-font-family:"Times New Roman";}
-@list l0:level3
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:108.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l0:level4
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:144.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l0:level5
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:180.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l0:level6
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:216.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l0:level7
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:252.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l0:level8
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:288.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l0:level9
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:324.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l1
-	{mso-list-id:448360775;
-	mso-list-template-ids:50124088;}
-@list l1:level1
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0B7;
-	mso-level-tab-stop:36.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Symbol;}
-@list l1:level2
-	{mso-level-number-format:bullet;
-	mso-level-text:o;
-	mso-level-tab-stop:72.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:"Courier New";
-	mso-bidi-font-family:"Times New Roman";}
-@list l1:level3
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:108.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l1:level4
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:144.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l1:level5
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:180.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l1:level6
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:216.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l1:level7
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:252.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l1:level8
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:288.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l1:level9
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:324.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l2
-	{mso-list-id:771823499;
-	mso-list-type:hybrid;
-	mso-list-template-ids:1367264458 -992463292 67698691 67698693 67698689 67698691 67698693 67698689 67698691 67698693;}
-@list l2:level1
-	{mso-level-start-at:0;
-	mso-level-number-format:bullet;
-	mso-level-text:-;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	font-family:"Times New Roman",serif;
-	mso-fareast-font-family:Calibri;
-	mso-fareast-theme-font:minor-latin;}
-@list l2:level2
-	{mso-level-number-format:bullet;
-	mso-level-text:o;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	font-family:"Courier New";}
-@list l2:level3
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	font-family:Wingdings;}
-@list l2:level4
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0B7;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	font-family:Symbol;}
-@list l2:level5
-	{mso-level-number-format:bullet;
-	mso-level-text:o;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	font-family:"Courier New";}
-@list l2:level6
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	font-family:Wingdings;}
-@list l2:level7
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0B7;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	font-family:Symbol;}
-@list l2:level8
-	{mso-level-number-format:bullet;
-	mso-level-text:o;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	font-family:"Courier New";}
-@list l2:level9
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:none;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	font-family:Wingdings;}
-@list l3
-	{mso-list-id:915287254;
-	mso-list-template-ids:-1594213534;}
-@list l3:level1
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0B7;
-	mso-level-tab-stop:36.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Symbol;}
-@list l3:level2
-	{mso-level-number-format:bullet;
-	mso-level-text:o;
-	mso-level-tab-stop:72.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:"Courier New";
-	mso-bidi-font-family:"Times New Roman";}
-@list l3:level3
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:108.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l3:level4
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:144.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l3:level5
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:180.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l3:level6
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:216.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l3:level7
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:252.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l3:level8
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:288.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l3:level9
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:324.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l4
-	{mso-list-id:992757941;
-	mso-list-template-ids:773456914;}
-@list l4:level1
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0B7;
-	mso-level-tab-stop:36.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Symbol;}
-@list l4:level2
-	{mso-level-number-format:bullet;
-	mso-level-text:o;
-	mso-level-tab-stop:72.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:"Courier New";
-	mso-bidi-font-family:"Times New Roman";}
-@list l4:level3
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:108.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l4:level4
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:144.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l4:level5
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:180.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l4:level6
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:216.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l4:level7
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:252.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l4:level8
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:288.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l4:level9
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:324.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l5
-	{mso-list-id:1069185945;
-	mso-list-template-ids:-529248068;}
-@list l5:level1
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0B7;
-	mso-level-tab-stop:36.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Symbol;}
-@list l5:level2
-	{mso-level-number-format:bullet;
-	mso-level-text:o;
-	mso-level-tab-stop:72.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:"Courier New";
-	mso-bidi-font-family:"Times New Roman";}
-@list l5:level3
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:108.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l5:level4
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:144.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l5:level5
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:180.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l5:level6
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:216.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l5:level7
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:252.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l5:level8
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:288.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l5:level9
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:324.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l6
-	{mso-list-id:1112555311;
-	mso-list-template-ids:1275521654;}
-@list l6:level1
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0B7;
-	mso-level-tab-stop:36.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Symbol;}
-@list l6:level2
-	{mso-level-number-format:bullet;
-	mso-level-text:o;
-	mso-level-tab-stop:72.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:"Courier New";
-	mso-bidi-font-family:"Times New Roman";}
-@list l6:level3
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:108.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l6:level4
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:144.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l6:level5
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:180.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l6:level6
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:216.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l6:level7
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:252.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l6:level8
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:288.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l6:level9
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:324.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l7
-	{mso-list-id:1204365751;
-	mso-list-template-ids:1052910384;}
-@list l7:level1
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0B7;
-	mso-level-tab-stop:36.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Symbol;}
-@list l7:level2
-	{mso-level-number-format:bullet;
-	mso-level-text:o;
-	mso-level-tab-stop:72.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:"Courier New";
-	mso-bidi-font-family:"Times New Roman";}
-@list l7:level3
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:108.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l7:level4
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:144.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l7:level5
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:180.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l7:level6
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:216.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l7:level7
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:252.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l7:level8
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:288.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l7:level9
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:324.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l8
-	{mso-list-id:1407845909;
-	mso-list-template-ids:562613838;}
-@list l8:level1
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0B7;
-	mso-level-tab-stop:36.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Symbol;}
-@list l8:level2
-	{mso-level-number-format:bullet;
-	mso-level-text:o;
-	mso-level-tab-stop:72.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:"Courier New";
-	mso-bidi-font-family:"Times New Roman";}
-@list l8:level3
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:108.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l8:level4
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:144.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l8:level5
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:180.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l8:level6
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:216.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l8:level7
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:252.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l8:level8
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:288.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l8:level9
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:324.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l9
-	{mso-list-id:1540246110;
-	mso-list-template-ids:-1624597128;}
-@list l9:level1
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0B7;
-	mso-level-tab-stop:36.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Symbol;}
-@list l9:level2
-	{mso-level-number-format:bullet;
-	mso-level-text:o;
-	mso-level-tab-stop:72.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:"Courier New";
-	mso-bidi-font-family:"Times New Roman";}
-@list l9:level3
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:108.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l9:level4
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:144.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l9:level5
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:180.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l9:level6
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:216.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l9:level7
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:252.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l9:level8
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:288.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-@list l9:level9
-	{mso-level-number-format:bullet;
-	mso-level-text:\F0A7;
-	mso-level-tab-stop:324.0pt;
-	mso-level-number-position:left;
-	text-indent:-18.0pt;
-	mso-ansi-font-size:10.0pt;
-	font-family:Wingdings;}
-ol
-	{margin-bottom:0cm;}
-ul
-	{margin-bottom:0cm;}
--->
-</style>
-<!--[if gte mso 10]>
-<style>
- /* Style Definitions */
- table.MsoNormalTable
-	{mso-style-name:"Table Normal";
-	mso-tstyle-rowband-size:0;
-	mso-tstyle-colband-size:0;
-	mso-style-noshow:yes;
-	mso-style-priority:99;
-	mso-style-parent:"";
-	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
-	mso-para-margin-top:0cm;
-	mso-para-margin-right:0cm;
-	mso-para-margin-bottom:8.0pt;
-	mso-para-margin-left:0cm;
-	line-height:107%;
-	mso-pagination:widow-orphan;
-	font-size:14.0pt;
-	mso-bidi-font-size:11.0pt;
-	font-family:"Times New Roman",serif;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:minor-bidi;}
-</style>
-<![endif]--><!--[if gte mso 9]><xml>
- <o:shapedefaults v:ext="edit" spidmax="1026"/>
-</xml><![endif]--><!--[if gte mso 9]><xml>
- <o:shapelayout v:ext="edit">
-  <o:idmap v:ext="edit" data="1"/>
- </o:shapelayout></xml><![endif]-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" lang="vi" xml:lang="vi" xmlns:fb="http://ogp.me/ns/fb#">
+<head><meta name="google-site-verification" content=""/><meta name="alexaVerifyID" content=""/><meta name="y_key" content=""/><meta name="msvalidate.01" content=""/><meta http-equiv="content-type" content="text/html; charset=UTF-8" /><meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" /><meta http-equiv="content-language" content="vi" /><meta name="robots" content="index,follow,noodp" /><meta name="googlebot" content="index,follow,noodp" /><meta name="msnbot" content="index,follow,noodp" /><meta name="revisit-after" content="1 days" /><meta name="geo.placename" content="Vietnamese" /><meta name="geo.region" content="VN" /><meta name="copyright" content="Copyright 2015" /><meta property="og:type" content="Website" /><meta name="fb:app_id" content=""/>
+
+    <title>Ứng dụng tủ sấy thí nghiệm </title>
+    <meta name="description" content="Ứng dụng lò nung, tủ sấy thí nghiệm trong các lĩnh vực công nghiệp, thực phẩm, linh kiện điện tử, y tế, sinh học, môi trường, nghiên cứu khoa học, ... cách chọn loại lò nung, tủ sấy Hàn Quốc" />
+    <meta name="keywords" content="Ứng dụng tủ sấy thí nghiệm " />
+    <meta property="og:title" content="Ứng dụng tủ sấy thí nghiệm " />
+    <meta property="og:description" content="Ứng dụng lò nung, tủ sấy thí nghiệm trong các lĩnh vực công nghiệp, thực phẩm, linh kiện điện tử, y tế, sinh học, môi trường, nghiên cứu khoa học, ... cách chọn loại lò nung, tủ sấy Hàn Quốc" />
+    <meta property="og:url" content="http://3bscitech.vn/ung-dung-tu-say-thi-nghiem-60875u.html"/>
+    <meta property="og:image" content="http://driver.gianhangvn.com/image/ung-dung-tu-say-thi-nghiem-855354j3833.jpg"/>
+    <link rel="canonical" href="http://3bscitech.vn/ung-dung-tu-say-thi-nghiem-60875u.html" />
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "NewsArticle",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "http://3bscitech.vn/ung-dung-tu-say-thi-nghiem-60875u.html"
+  },
+  "headline": "Ứng dụng tủ sấy thí nghiệm ",
+  "image": {
+    "@type": "ImageObject",
+    "url": "http://driver.gianhangvn.com/image/ung-dung-tu-say-thi-nghiem-855354j3833.jpg",
+    "height": 800,
+    "width": 800
+  },
+  "datePublished": "2/23/2018 12:00:00 AM",
+  "dateModified": "2/23/2018 11:14:39 AM",
+  "author": {
+    "@type": "Person",
+    "name": "John Doe"
+  },
+   "publisher": {
+    "@type": "Organization",
+    "name": "GianHangVN",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "http://gianhangvn.com/Resource/Image/logo-news.jpg",
+      "width": 600,
+      "height": 60
+    }
+  },
+  "description": "Ứng dụng lò nung, tủ sấy thí nghiệm trong các lĩnh vực công nghiệp, thực phẩm, linh kiện điện tử, y tế, sinh học, môi trường, nghiên cứu khoa học, ... cách chọn loại lò nung, tủ sấy Hàn Quốc"
+}
+</script>
+<link type="image/x-icon" href="http://gianhangvn.com/Resource/Icon/favico.ico" rel="shortcut icon"/><link href="/TemplateStyle/014/Skin01/Style.css?v1" type="text/css" rel="stylesheet" />
+    
+    <script type="text/javascript" src="/Template/014/JS/jquery.min.js"></script>
+    <script type="text/javascript" src="/Template/014/JS/jquery.smartmenus.js"></script>
+    <script type="text/javascript" src="/Template/014/JS/jquery.smartmenus.bootstrap.js"></script>
+    <script type="text/javascript" src="/Template/014/JS/jquery.carousel.js"></script>
+    <script type="text/javascript" src="/Template/014/JS/jquery.fancybox.min.js"></script>
+    <script type="text/javascript" src="/Template/014/JS/jquery.custom.js"></script>
+    <script type="text/javascript" src="/JS/AjaxPro.js"></script>
+    <script type="text/javascript" src="/JS/AjaxKhachHang.js?v5"></script>
+    <script type="text/javascript" src="/Template/014/Lang/vi.js"></script>
+<!--[if lt IE 9]>
+     <script type="text/javascript" src="/Template/014/JS/respond.min.js"></script>
+<![endif]-->
+<script>
+    (function (i, s, o, g, r, a, m) {
+        i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+            (i[r].q = i[r].q || []).push(arguments)
+        }, i[r].l = 1 * new Date(); a = s.createElement(o),
+        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+    })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+    ga('create', 'UA-70121611-2', 'auto');
+    ga('send', 'pageview');
+</script>
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js">
+  {lang: 'vi'}
+</script>
 </head>
+<body style="background:url('http://driver.gianhangvn.com/file/hinh-nen-hd-chuc-mung-nam-moi-2016-cuc-dep-hinh-anh-8-445005f3833.jpg');background-position:top;background-attachment:fixed;background-repeat:repeat;">
 
-<body lang=EN-US link=blue vlink="#954F72" style='tab-interval:36.0pt'>
+<div class="top group">
+	<div class="container group">
+        <div class="top-left">
+            <div class="addon">
+                <div style="float:right;">
+                    <div style="float:right;" class="g-plusone" data-size="medium" data-width="50" data-href="http://3bscitech.vn"></div>
+                </div>
+                <div style="float:right;padding:0 7px;" class="fb-like" data-href="http://3bscitech.vn" data-layout="button_count" data-action="like" data-colorscheme="light" data-show-faces="true" data-share="false"></div>
+            </div>
 
-<div class=WordSection1>
+        </div>
 
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;mso-outline-level:2;vertical-align:baseline'><span class=SpellE><b><span
-style='font-size:16.5pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
-"Times New Roman";color:blue'>&#7912;ng</span></b></span><b><span
-style='font-size:16.5pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
-"Times New Roman";color:blue'> <span class=SpellE>d&#7909;ng</span> t&#7911;
-s&#7845;y <span class=SpellE>lò</span> <span class=SpellE>nung</span>&nbsp;thí
-nghi&#7879;m</span></b><b><span style='font-size:10.5pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'><o:p></o:p></span></b></p>
+        <div class="top-right">
 
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'><o:p>&nbsp;</o:p></span></p>
+            	<div class="cart">
+                	<a href="/gio-hang.html">
+                    	<span class="icon"><em class="fa fa-shopping-cart"></em></span>
+                    	<span class="title-cart"><span lang="master_shopping">Giỏ hàng</span> (<span class="total-product">0</span>)</span>                        
+                    </a>
+                </div>
 
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;vertical-align:baseline'><b><i><u><span style='font-size:10.5pt;
-font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
-color:#222222'><a
-href="http://3bscitech.vn/tu-say-phong-thi-nghiem-han-quoc-sh-scientific-tiet-trung-dung-cu-y-te-60384u.html"
-target="_blank"><span style='color:mediumblue;text-decoration:none;text-underline:
-none'>T&#7911; s&#7845;y</span></a>,</span></u></i></b><i><span
-style='font-size:10.5pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
-"Times New Roman";color:#222222'>&nbsp;<span class=SpellE><a
-href="http://3bscitech.vn/lo-nung-samheung-sh-scientifc-329052s.html"
-target="_blank"><b><span style='color:mediumblue'>lò</span></b><b><span
-style='color:mediumblue'> nung</span></b></a></span>&nbsp;<span class=SpellE>trong</span>
-<span class=SpellE>phòng</span> thí nghi&#7879;m <span class=SpellE>&#273;&#432;&#7907;c</span>
-<span class=SpellE>s&#7917;</span> <span class=SpellE>d&#7909;ng</span> <span
-class=SpellE>trong</span> <span class=SpellE>các</span> <span class=SpellE>phòng</span>
-thí nghi&#7879;m &#7903; <span class=SpellE>ngành</span> <span class=SpellE>nh&#432;</span>
-<span class=SpellE>công</span> <span class=SpellE>ngh&#7879;</span> <span
-class=SpellE>sinh</span> <span class=SpellE>h&#7885;c</span>, <span
-class=SpellE>d&#432;&#7907;c</span> <span class=SpellE>ph&#7849;m</span> <span
-class=SpellE>và</span> <span class=SpellE>s&#7843;n</span> <span class=SpellE>xu&#7845;t</span>
-<span class=SpellE>nguyên</span> <span class=SpellE>li&#7879;u</span> <span
-class=SpellE>và</span> <span class=SpellE>công</span> <span class=SpellE>nghi&#7879;p</span>.
-<span class=SpellE>Các</span> <span class=SpellE>ngành</span> <span
-class=SpellE>này</span> <span class=SpellE>th&#432;&#7901;ng</span> <span
-class=SpellE>&#273;òi</span> <span class=SpellE>h&#7887;i</span> <span
-class=SpellE>quá</span> <span class=SpellE>trình</span> s&#7845;y, <span
-class=SpellE>n&#432;&#7899;ng</span>, <span class=SpellE>b&#7843;o</span> <span
-class=SpellE>d&#432;&#7905;ng</span>, &#7911; <span class=SpellE>và</span> <span
-class=SpellE>làm</span> <span class=SpellE>khô</span> <span class=SpellE>các</span>
-<span class=SpellE>v&#7853;t</span> <span class=SpellE>li&#7879;u</span> <span
-class=SpellE>có</span> <span class=SpellE>thành</span> <span class=SpellE>ph&#7847;n</span>
-<span class=SpellE>hóa</span> <span class=SpellE>h&#7885;c</span> <span
-class=SpellE>và</span> <span class=SpellE>ch&#7845;t</span> <span class=SpellE>khác</span>
-<span class=SpellE>nhau</span>. <span class=SpellE>Nhi&#7873;u</span> <span
-class=SpellE>&#7913;ng</span> <span class=SpellE>d&#7909;ng</span> <span
-class=SpellE>chuyên</span>&nbsp;<span class=SpellE>bi&#7879;t</span> <span
-class=SpellE>thì</span> <span class=SpellE>c&#7847;n</span> <span class=SpellE>các</span>
-<span class=SpellE>quá</span> <span class=SpellE>trình</span> <span
-class=SpellE>th&#7921;c</span> <span class=SpellE>hi&#7879;n</span> <span
-class=SpellE>và</span> <span class=SpellE>lò</span> <span class=SpellE>&#273;&#432;&#7907;c</span>
-<span class=SpellE>thi&#7871;t</span> <span class=SpellE>k&#7871;</span> <span
-class=SpellE>riêng</span> <span class=SpellE>&#273;&#7875;</span> <span
-class=SpellE>&#273;&#7843;m</span> <span class=SpellE>b&#7843;o</span> <span
-class=SpellE>vi&#7879;c</span> <span class=SpellE>nghi&#7879;n</span> <span
-class=SpellE>c&#7913;u</span>, <span class=SpellE>phát</span> <span
-class=SpellE>tri&#7875;n</span> <span class=SpellE>ho&#7863;c</span> <span
-class=SpellE>ki&#7875;m</span> <span class=SpellE>tra</span> <span
-class=SpellE>&#273;&#432;&#7907;c</span> <span class=SpellE>ti&#7871;n</span> <span
-class=SpellE>hành</span> <span class=SpellE>thu&#7853;n</span> <span
-class=SpellE>l&#7907;i</span>.&nbsp;</span></i><span style='font-size:10.5pt;
-font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
-color:#222222'><o:p></o:p></span></p>
+        </div>
 
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
+    </div>
+</div>
+<div class="header group">
+	<div class="container group">
 
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;mso-outline-level:3;vertical-align:baseline'><span class=SpellE><b><span
-style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
-"Times New Roman";color:#222222'>&#272;&#7883;nh</span></b></span><b><span
-style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
-"Times New Roman";color:#222222'> <span class=SpellE>ngh&#297;a</span> <span
-class=SpellE>c&#7911;a</span> <span class=SpellE>m&#7897;t</span> s&#7889; <span
-class=SpellE>thu&#7853;t</span> <span class=SpellE>ng&#7919;</span> <span
-class=SpellE>thông</span> <span class=SpellE>d&#7909;ng</span>.</span></b><b><span
-style='font-size:10.5pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
-"Times New Roman";color:#222222'><o:p></o:p></span></b></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;vertical-align:baseline'><b><span style='font-size:10.5pt;font-family:
-"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";color:#222222'>Baking:</span></b><span
-style='font-size:10.5pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
-"Times New Roman";color:#222222'>&nbsp;<span class=SpellE>là</span> <span
-class=SpellE>quá</span> <span class=SpellE>trình</span> <span class=SpellE><span
-class=GramE>làm</span></span><span class=GramE> &nbsp;<span class=SpellE>nóng</span></span>
-<span class=SpellE>v&#7853;t</span> <span class=SpellE>li&#7879;u</span> <span
-class=SpellE>mà</span> <span class=SpellE>không</span> <span class=SpellE>yêu</span>
-<span class=SpellE>c&#7847;u</span> <span class=SpellE>v&#7873;</span> <span
-class=SpellE>&#273;&#7891;</span> <span class=SpellE>&#7849;m</span>. <span
-class=SpellE>không</span> <span class=SpellE>b&#7883;</span> <span
-class=SpellE>hút</span> <span class=SpellE>&#7849;m</span>. <span class=SpellE>Các</span>
-<span class=SpellE>phòng</span> thí nghi&#7879;m <span class=SpellE>d&#432;&#7907;c</span>
-<span class=SpellE>ph&#7849;m</span>, <span class=SpellE>s&#7843;n</span> <span
-class=SpellE>xu&#7845;t</span> <span class=SpellE>và</span> <span class=SpellE>khoa</span>
-<span class=SpellE>h&#7885;c</span> <span class=SpellE>v&#7853;t</span> <span
-class=SpellE>li&#7879;u</span> <span class=SpellE>th&#432;&#7901;ng</span> <span
-class=SpellE>s&#7917;</span> <span class=SpellE>d&#7909;ng</span> <span
-class=SpellE>lò</span> s&#7845;y <span class=SpellE>t&#7921;</span> <span
-class=SpellE>nhiên</span> <span class=SpellE>cho</span> <span class=SpellE>lo&#7841;i</span>
-<span class=SpellE>&#7913;ng</span> <span class=SpellE>d&#7909;ng</span> <span
-class=SpellE>này</span>.<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;vertical-align:baseline'><b><span style='font-size:10.5pt;font-family:
-"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";color:#222222'>Curing:
-<span class=SpellE>l<span style='font-weight:normal'>à</span></span></span></b><span
-style='font-size:10.5pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
-"Times New Roman";color:#222222'> <span class=SpellE>quá</span> <span
-class=SpellE>trình</span> <span class=SpellE>làm</span> <span class=SpellE>c&#7913;ng</span>
-<span class=SpellE>thành</span> <span class=SpellE>ph&#7847;n</span> <span
-class=SpellE>hóa</span> <span class=SpellE>h&#7885;c</span> <span class=SpellE>c&#7911;a</span>
-<span class=SpellE>m&#7897;t</span> <span class=SpellE>ch&#7845;t</span> <span
-class=SpellE>thông</span> qua <span class=SpellE>ho&#7841;t</span> <span
-class=SpellE>&#273;&#7897;ng</span> <span class=SpellE>k&#7871;t</span> <span
-class=SpellE>h&#7907;p</span> <span class=SpellE>c&#7911;a</span> s&#7845;y <span
-class=SpellE>khô</span> <span class=SpellE>và</span> baking. <span
-class=SpellE>Quá</span> <span class=SpellE>trình</span> <span class=SpellE>này</span>
-<span class=SpellE>th&#432;&#7901;ng</span> <span class=SpellE>&#273;&#432;&#7907;c</span>
-<span class=SpellE>s&#7917;</span> <span class=SpellE>d&#7909;ng</span> <span
-class=SpellE>trong</span> <span class=SpellE>s&#7843;n</span> <span
-class=SpellE>xu&#7845;t</span> epoxies, <span class=SpellE>keo</span>, <span
-class=SpellE>nh&#7921;a</span> <span class=SpellE>và</span> <span class=SpellE>cao</span>
-<span class=SpellE>su</span> <span class=SpellE>trong</span> <span
-class=SpellE>nghiên</span> <span class=SpellE>c&#7913;u</span> polymer, <span
-class=SpellE>công</span> <span class=SpellE>ngh&#7879;</span> <span
-class=SpellE>nano</span> <span class=SpellE>và</span> <span class=SpellE>bán</span>
-<span class=SpellE>d&#7851;n</span>.<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;vertical-align:baseline'><b><span style='font-size:10.5pt;font-family:
-"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";color:#222222'>Annealing:&nbsp;</span></b><span
-class=SpellE><span style='font-size:10.5pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>là</span></span><span
-style='font-size:10.5pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
-"Times New Roman";color:#222222'> <span class=SpellE>quá</span> <span
-class=SpellE>trình</span> <span class=SpellE>làm</span> <span class=SpellE>nóng</span>
-<span class=SpellE>sau</span> <span class=SpellE>&#273;ó</span> <span
-class=SpellE>làm</span> <span class=SpellE>ngu&#7897;i</span> <span
-class=SpellE>v&#7853;t</span> <span class=SpellE>li&#7879;u</span> <span
-class=GramE>( <span class=SpellE>th&#7911;y</span></span> <span class=SpellE>tinh</span>
-<span class=SpellE>ho&#7863;c</span> <span class=SpellE>thép</span>) <span
-class=SpellE>v&#7899;i</span> <span class=SpellE>m&#7909;c</span> <span
-class=SpellE>&#273;ích</span> <span class=SpellE>làm</span> tang <span
-class=SpellE>tính</span> <span class=SpellE>d&#7867;o</span> <span
-class=SpellE>dai</span>. <span class=SpellE>R&#7845;t</span> <span
-class=SpellE>nhi&#7873;u</span> <span class=SpellE>&#7913;ng</span> <span
-class=SpellE>d&#7909;ng</span> <span class=SpellE>trong</span> <span
-class=SpellE>luy&#7879;n</span> <span class=SpellE>kim</span>, <span
-class=SpellE>s&#7843;n</span> <span class=SpellE>xu&#7845;t</span> <span
-class=SpellE>thi&#7871;t</span> <span class=SpellE>b&#7883;</span> y <span
-class=SpellE>t&#7871;</span> <span class=SpellE>và</span> <span class=SpellE>các</span>
-<span class=SpellE>ngành</span> <span class=SpellE>khoa</span> <span
-class=SpellE>h&#7885;c</span> <span class=SpellE>v&#7853;t</span> <span
-class=SpellE>li&#7879;u</span> <span class=SpellE>s&#7917;</span> <span
-class=SpellE>d&#7909;ng</span> <span class=SpellE>lò</span> <span class=SpellE>nung</span>
-<span class=SpellE>nhi&#7879;t</span> &#273;&#7897; <span class=SpellE>cao</span>
-<span class=SpellE>cho</span> <span class=SpellE>quá</span> <span class=SpellE>trình</span>
-<span class=SpellE>này</span>. <span class=SpellE>Lò</span> <span class=SpellE>nung</span>
-<span class=SpellE>phòng</span> <span class=SpellE>s&#7841;ch</span> <span
-class=SpellE>b&#7857;ng</span> <span class=SpellE>thép</span> <span
-class=SpellE>không</span> <span class=SpellE>g&#7881;</span> <span
-class=SpellE>&#273;&#432;&#7907;c</span> <span class=SpellE>ngành</span> <span
-class=SpellE>công</span> <span class=SpellE>nghi&#7879;p</span> <span
-class=SpellE>ch&#259;m</span> <span class=SpellE>sóc</span> <span class=SpellE>s&#7913;c</span>
-<span class=SpellE>kho&#7867;</span> <span class=SpellE>s&#7917;</span> <span
-class=SpellE>d&#7909;ng</span> <span class=SpellE>&#273;&#7875;</span> &#7911; <span
-class=SpellE>ch&#7845;t</span> <span class=SpellE>d&#7867;o</span> <span
-class=SpellE>lên</span> <span class=SpellE>&#7889;ng</span> <span class=SpellE>tiêm</span>
-<span class=SpellE>và</span> <span class=SpellE>&#7889;ng</span> <span
-class=SpellE>thông</span>.<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;vertical-align:baseline'><b><span style='font-size:10.5pt;font-family:
-"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";color:#222222'>Drying
-oven,</span></b><span style='font-size:10.5pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<span
-class=SpellE>là</span> t&#7911; <span class=SpellE>&#273;&#432;&#7907;c</span> <span
-class=SpellE>s&#7917;</span> <span class=SpellE>d&#7909;ng</span> <span
-class=SpellE>ph&#7893;</span> <span class=SpellE>bi&#7871;n</span> <span
-class=SpellE>trong</span> <span class=SpellE>phòng</span> thí nghi&#7879;m, <span
-class=SpellE>lo&#7841;i</span> <span class=SpellE>b&#7887;</span> &#273;&#7897;
-<span class=SpellE>&#7849;m</span> <span class=SpellE>t&#7915;</span> <span
-class=SpellE>các</span> <span class=SpellE>m&#7851;u</span>. <span
-class=SpellE>&#272;&#7889;i</span> <span class=SpellE>l&#432;u</span> <span
-class=SpellE>t&#7921;</span> <span class=SpellE>nhiên</span>, <span
-class=SpellE>&#273;&#7889;i</span> <span class=SpellE>l&#432;u</span> <span
-class=SpellE>c&#432;&#7905;ng</span> <span class=SpellE>b&#7913;c</span> <span
-class=SpellE>và</span> <span class=SpellE>lò</span> s&#7845;y <span
-class=SpellE>chân</span> <span class=SpellE>không</span> <span class=SpellE>&#273;&#432;&#7907;c</span>
-<span class=SpellE>s&#7917;</span> <span class=SpellE>d&#7909;ng</span> <span
-class=SpellE>cho</span> <span class=SpellE>các</span> <span class=SpellE>quy</span>
-<span class=SpellE>trình</span> s&#7845;y <span class=SpellE>tiêu</span> <span
-class=SpellE>chu&#7849;n</span> <span class=SpellE>b&#7903;i</span> <span
-class=SpellE>các</span> <span class=SpellE>phòng</span> thí nghi&#7879;m <span
-class=SpellE>môi</span> <span class=SpellE>tr&#432;&#7901;ng</span>, <span
-class=SpellE>sinh</span> <span class=SpellE>h&#7885;c</span> <span
-class=SpellE>và</span> <span class=SpellE>lâm</span> <span class=SpellE>sàng</span>.
-<span class=SpellE>Các</span> <span class=SpellE>m&#7851;u</span> <span
-class=SpellE>sinh</span> <span class=SpellE>h&#7885;c</span> <span
-class=SpellE>nh&#7841;y</span> <span class=SpellE>c&#7843;m</span> <span
-class=SpellE>v&#7899;i</span> &#273;&#7897; <span class=SpellE>&#7849;m</span> <span
-class=SpellE>quá</span> <span class=SpellE>cao</span> <span class=SpellE>ho&#7863;c</span>
-<span class=SpellE>kh&#7843;</span> <span class=SpellE>n&#259;ng</span> <span
-class=SpellE>ch&#7883;u</span> <span class=SpellE>nhi&#7879;t</span> <span
-class=SpellE>kém</span> <span class=SpellE>thì</span> <span class=SpellE>th&#432;&#7901;ng</span>
-<span class=SpellE>dùng</span> <span class=SpellE>các</span> t&#7911; s&#7845;y
-<span class=SpellE>áp</span> <span class=SpellE>su&#7845;t</span> <span
-class=SpellE>th&#7845;p</span> <span class=SpellE>ho&#7863;c</span> <span
-class=SpellE>chân</span> <span class=SpellE>không</span>. <span class=SpellE>Nh&#7919;ng</span>
-<span class=SpellE>lo&#7841;i</span> <span class=SpellE>lò</span> <span
-class=SpellE>nung</span> <span class=SpellE>này</span> <span class=SpellE>lo&#7841;i</span>
-<span class=SpellE>b&#7887;</span> &#273;&#7897; <span class=SpellE>&#7849;m</span>
-<span class=SpellE>và</span> <span class=SpellE>gi&#7843;m</span> <span
-class=SpellE>&#273;i&#7875;m</span> <span class=SpellE>sôi</span> <span
-class=SpellE>c&#7911;a</span> <span class=SpellE>n&#432;&#7899;c</span> <span
-class=SpellE>cho</span> <span class=SpellE>phép</span> <span class=SpellE>m&#7851;u</span>
-<span class=SpellE>&#273;&#432;&#7907;c</span> s&#7845;y <span class=SpellE>khô</span>
-&#7903; <span class=SpellE>nhi&#7879;t</span> &#273;&#7897; <span class=SpellE>th&#7845;p</span>
-<span class=SpellE>h&#417;n</span>.<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;vertical-align:baseline'><span class=SpellE><b><span style='font-size:
-12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
-color:#222222'>Các</span></b></span><b><span style='font-size:12.0pt;
-font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
-color:#222222'> <span class=SpellE>&#7913;ng</span> <span class=SpellE>d&#7909;ng</span>
-<span class=SpellE>c&#417;</span> <span class=SpellE>b&#7843;n</span> <span
-class=SpellE>và</span> <span class=SpellE>chuyên</span> <span class=SpellE>sâu</span>
-<span class=SpellE>c&#7911;a</span> t&#7911; s&#7845;y, <span class=SpellE>lò</span>
-<span class=SpellE>nung</span>.</span></b><span style='font-size:10.5pt;
-font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
-color:#222222'><o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:30.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:normal;
-mso-list:l5 level1 lfo2;tab-stops:list 36.0pt;vertical-align:baseline'><![if !supportLists]><span
-style='font-size:10.0pt;mso-bidi-font-size:10.5pt;font-family:Symbol;
-mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:#222222'><span
-style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span class=SpellE><b><span style='font-size:
-10.5pt;font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
-color:#222222'>Các</span></b></span><b><span style='font-size:10.5pt;
-font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
-color:#222222'> <span class=SpellE>&#7913;ng</span> <span class=SpellE>d&#7909;ng</span>
-<span class=SpellE>c&#417;</span> <span class=SpellE>b&#7843;n</span></span></b><span
-style='font-size:10.5pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
-"Times New Roman";color:#222222'>&nbsp;<span class=SpellE>c&#7911;a</span> <span
-class=SpellE>h&#7847;u</span> <span class=SpellE>h&#7871;t</span> <span
-class=SpellE>các</span> <span class=SpellE>lò</span> s&#7845;y <span
-class=SpellE>trong</span> <span class=SpellE>phòng</span> thí nghi&#7879;m bao <span
-class=SpellE>g&#7891;m</span> <span class=SpellE>s&#432;&#7903;i</span> <span
-class=SpellE>&#7845;m</span> <span class=SpellE>và</span> <span class=SpellE>làm</span>
-<span class=SpellE>khô</span> <span class=SpellE>&#273;&#7891;</span> <span
-class=SpellE>th&#7911;y</span> <span class=SpellE>tinh</span> <span
-class=SpellE>ho&#7863;c</span> <span class=SpellE>dùng</span> <span
-class=SpellE>&#273;&#7875;</span> <span class=SpellE>ti&#7879;t</span> <span
-class=SpellE>trùng</span> <span class=SpellE>các</span> <span class=SpellE>d&#7909;ng</span>
-<span class=SpellE>c&#7909;</span> thí nghi&#7879;m. <span class=SpellE>Lò</span>
-<span class=SpellE>trong</span> <span class=SpellE>phòng</span> thí
-nghi&#7879;m <span class=SpellE>c&#361;ng</span> <span class=SpellE>th&#432;&#7901;ng</span>
-<span class=SpellE>&#273;&#432;&#7907;c</span> <span class=SpellE>s&#7917;</span>
-<span class=SpellE>d&#7909;ng</span> <span class=SpellE>&#273;&#7875;</span> <span
-class=SpellE>th&#7921;c</span> <span class=SpellE>hi&#7879;n</span> <span
-class=SpellE>ki&#7875;m</span> <span class=SpellE>tra</span> <span
-class=SpellE>v&#7853;t</span> <span class=SpellE>li&#7879;u</span> <span
-class=SpellE>&#273;&#7875;</span> <span class=SpellE>xác</span> <span
-class=SpellE>&#273;&#7883;nh</span> &#273;&#7897; b&#7873;n kéo, <span
-class=SpellE>bi&#7871;n</span> <span class=SpellE>d&#7841;ng</span> <span
-class=SpellE>và</span> <span class=SpellE>kh&#7843;</span> <span class=SpellE>n&#259;ng</span>
-<span class=SpellE>ph&#7909;c</span> <span class=SpellE>h&#7891;i</span> <span
-class=SpellE>c&#7911;a</span> <span class=SpellE>nhi&#7873;u</span> <span
-class=SpellE>s&#7843;n</span> <span class=SpellE>ph&#7849;m</span> <span
-class=SpellE>ch&#7871;</span> <span class=SpellE>t&#7841;o</span>. <span
-class=SpellE>Các</span> <span class=SpellE>&#7913;ng</span> <span class=SpellE>d&#7909;ng</span>
-<span class=SpellE>c&#417;</span> <span class=SpellE>b&#7843;n</span> <span
-class=SpellE>c&#7911;a</span> <span class=SpellE>chúng</span> <span
-class=SpellE>dùng</span> <span class=SpellE>trong</span> <span class=SpellE>quá</span>
-<span class=SpellE>trình</span> <span class=SpellE>ki&#7875;m</span> <span
-class=SpellE>tra</span> <span class=SpellE>d&#432;&#7899;i</span> <span
-class=SpellE>&#273;ây</span>:<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:30.0pt;margin-bottom:.0001pt;line-height:normal;vertical-align:
-baseline'><span style='font-size:10.5pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:30.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:normal;
-mso-list:l9 level1 lfo3;tab-stops:list 36.0pt;vertical-align:baseline'><![if !supportLists]><span
-style='font-size:10.0pt;mso-bidi-font-size:10.5pt;font-family:Symbol;
-mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:#222222'><span
-style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span class=SpellE><span style='font-size:10.5pt;
-font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
-color:#222222'>Ki&#7875;m</span></span><span style='font-size:10.5pt;
-font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
-color:#222222'> <span class=SpellE>tra</span> <span class=SpellE>linh</span> <span
-class=SpellE>ki&#7879;n</span> <span class=SpellE>&#273;i&#7879;n</span> <span
-class=SpellE>t&#7917;</span>.<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:30.0pt;margin-bottom:.0001pt;line-height:normal;vertical-align:
-baseline'><span style='font-size:10.5pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:30.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:normal;
-mso-list:l8 level1 lfo4;tab-stops:list 36.0pt;vertical-align:baseline'><![if !supportLists]><span
-style='font-size:10.0pt;mso-bidi-font-size:10.5pt;font-family:Symbol;
-mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:#222222'><span
-style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span class=SpellE><span style='font-size:10.5pt;
-font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
-color:#222222'>Th&#7917;</span></span><span style='font-size:10.5pt;font-family:
-"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";color:#222222'>
-nghi&#7879;m <span class=SpellE>ki&#7875;m</span> <span class=SpellE>tra</span>
-<span class=SpellE>h&#7887;ng</span> <span class=SpellE>hóc</span> <span
-class=SpellE>s&#7899;m</span> <span class=SpellE>trong</span> <span
-class=SpellE>s&#7843;n</span> <span class=SpellE>xu&#7845;t</span> <span
-class=SpellE>các</span> <span class=SpellE>m&#7841;ch</span> <span
-class=SpellE>tích</span> <span class=SpellE>h&#7907;p</span><o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:30.0pt;margin-bottom:.0001pt;line-height:normal;vertical-align:
-baseline'><span style='font-size:10.5pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:30.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:normal;
-mso-list:l0 level1 lfo5;tab-stops:list 36.0pt;vertical-align:baseline'><![if !supportLists]><span
-style='font-size:10.0pt;mso-bidi-font-size:10.5pt;font-family:Symbol;
-mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:#222222'><span
-style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span class=SpellE><span style='font-size:10.5pt;
-font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
-color:#222222'>Ki&#7875;m</span></span><span style='font-size:10.5pt;
-font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
-color:#222222'> <span class=SpellE>tra</span> &#273;&#7897; <span class=SpellE>ch&#7855;c</span>
-<span class=SpellE>ch&#7855;n</span> <span class=SpellE>c&#7911;a</span> <span
-class=SpellE>m&#7889;i</span> <span class=SpellE>hàn</span> <span class=SpellE>trong</span>
-<span class=SpellE>b&#7843;ng</span> <span class=SpellE>m&#7841;ch</span><o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:30.0pt;margin-bottom:.0001pt;line-height:normal;vertical-align:
-baseline'><span style='font-size:10.5pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:30.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:normal;
-mso-list:l1 level1 lfo6;tab-stops:list 36.0pt;vertical-align:baseline'><![if !supportLists]><span
-style='font-size:10.0pt;mso-bidi-font-size:10.5pt;font-family:Symbol;
-mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:#222222'><span
-style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span class=SpellE><span style='font-size:10.5pt;
-font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
-color:#222222'>Mô</span></span><span style='font-size:10.5pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'> <span class=SpellE>ph&#7887;ng</span>
-<span class=SpellE>t&#259;ng</span> <span class=SpellE>t&#7889;c</span> <span
-class=SpellE>quá</span> <span class=SpellE>trình</span> <span class=SpellE>ph&#7843;n</span>
-<span class=SpellE>&#7913;ng</span> <span class=SpellE>hóa</span> <span
-class=SpellE>h&#7885;c</span> <span class=SpellE>và</span> <span class=SpellE>thay</span>
-<span class=SpellE>&#273;&#7893;i</span> <span class=SpellE>tính</span> <span
-class=SpellE>ch&#7845;t</span> <span class=SpellE>hoá</span> <span
-class=SpellE>h&#7885;c</span> <span class=SpellE>c&#7911;a</span> polymer <span
-class=SpellE>tiên</span> <span class=SpellE>ti&#7871;n</span>.<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:30.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:normal;
-mso-list:l6 level1 lfo7;tab-stops:list 36.0pt;vertical-align:baseline'><![if !supportLists]><span
-style='font-size:10.0pt;mso-bidi-font-size:10.5pt;font-family:Symbol;
-mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:#222222'><span
-style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span class=SpellE><b><span style='font-size:
-10.5pt;font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
-color:#222222'>Các</span></b></span><b><span style='font-size:10.5pt;
-font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
-color:#222222'> <span class=SpellE>&#7913;ng</span> <span class=SpellE>d&#7909;ng</span>
-<span class=SpellE>chuyên</span> <span class=SpellE>sâu</span></span></b><span
-style='font-size:10.5pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
-"Times New Roman";color:#222222'>&nbsp;<span class=SpellE>c&#7911;a</span>
-t&#7911; s&#7845;y <span class=SpellE>lò</span> <span class=SpellE>nung</span> <span
-class=SpellE>th&#432;&#7901;ng</span> <span class=SpellE>&#273;&#432;&#7907;c</span>
-<span class=SpellE>dùng</span> <span class=SpellE>trong</span> <span
-class=SpellE>các</span> <span class=SpellE>phòng</span> thí nghi&#7879;m <span
-class=SpellE>sinh</span> <span class=SpellE>h&#7885;c</span>, <span
-class=SpellE>pháp</span> y <span class=SpellE>và</span> <span class=SpellE>môi</span>
-<span class=SpellE>tr&#432;&#7901;ng</span>. <span class=SpellE>D&#432;&#7899;i</span>
-<span class=SpellE>&#273;ây</span> <span class=SpellE>là</span> <span
-class=SpellE>m&#7897;t</span> s&#7889; <span class=SpellE>ví</span> <span
-class=SpellE>d&#7909;</span> <span class=SpellE>v&#7873;</span> <span
-class=SpellE>cách</span> <span class=SpellE>mà</span> <span class=SpellE>các</span>
-<span class=SpellE>ngành</span> <span class=SpellE>khoa</span> <span
-class=SpellE>h&#7885;c</span> <span class=SpellE>t&#7921;</span> <span
-class=SpellE>nhiên</span> <span class=SpellE>&#273;ang</span> <span
-class=SpellE>s&#7917;</span> <span class=SpellE>d&#7909;ng</span> <span
-class=SpellE>&#273;&#7875;</span> <span class=SpellE>nâng</span> <span
-class=SpellE>cao</span> <span class=SpellE>t&#7889;c</span> &#273;&#7897; <span
-class=SpellE>nghiên</span> <span class=SpellE>c&#7913;u</span>:<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:30.0pt;margin-bottom:.0001pt;line-height:normal;vertical-align:
-baseline'><span style='font-size:10.5pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:30.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:normal;
-mso-list:l3 level1 lfo8;tab-stops:list 36.0pt;vertical-align:baseline'><![if !supportLists]><span
-style='font-size:10.0pt;mso-bidi-font-size:10.5pt;font-family:Symbol;
-mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:#222222'><span
-style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span class=SpellE><span style='font-size:10.5pt;
-font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
-color:#222222'>Phòng</span></span><span style='font-size:10.5pt;font-family:
-"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";color:#222222'>
-thí nghi&#7879;m <span class=SpellE>pháp</span> y <span class=SpellE>s&#7917;</span>
-<span class=SpellE>d&#7909;ng</span> t&#7911; s&#7845;y <span class=SpellE>chân</span>
-<span class=SpellE>không</span> <span class=SpellE>&#273;&#432;&#7907;c</span> <span
-class=SpellE>c&#7845;u</span> <span class=SpellE>hình</span> <span
-class=SpellE>&#273;&#7863;c</span> <span class=SpellE>bi&#7879;t</span> <span
-class=SpellE>nh&#432;</span> <span class=SpellE>các</span> <span class=SpellE>phòng</span>
-<span class=SpellE>phát</span> <span class=SpellE>tri&#7875;n</span> <span
-class=SpellE>vân</span> <span class=SpellE>tay</span>.<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:30.0pt;margin-bottom:.0001pt;line-height:normal;vertical-align:
-baseline'><span style='font-size:10.5pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:30.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:normal;
-mso-list:l4 level1 lfo9;tab-stops:list 36.0pt;vertical-align:baseline'><![if !supportLists]><span
-style='font-size:10.0pt;mso-bidi-font-size:10.5pt;font-family:Symbol;
-mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:#222222'><span
-style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span class=SpellE><span style='font-size:10.5pt;
-font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
-color:#222222'>Các</span></span><span style='font-size:10.5pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'> <span class=SpellE>phòng</span>
-thí nghi&#7879;m <span class=SpellE>sinh</span> <span class=SpellE>h&#7885;c</span>
-<span class=SpellE>s&#7917;</span> <span class=SpellE>d&#7909;ng</span>
-t&#7911; <span class=SpellE>&#273;&#7889;i</span> <span class=SpellE>l&#432;u</span>
-<span class=SpellE>t&#7921;</span> <span class=SpellE>nhiên</span> <span
-class=SpellE>&#273;&#7875;</span> <span class=SpellE>lo&#7841;i</span> <span
-class=SpellE>b&#7887;</span> <span class=SpellE>các</span> <span class=SpellE>ch&#7845;t</span>
-<span class=SpellE>gây</span> ô <span class=SpellE>nhi&#7877;m</span> vi <span
-class=SpellE>sinh</span> <span class=SpellE>trong</span> <span class=SpellE>phòng</span>
-thí nghi&#7879;m <span class=SpellE>và</span> <span class=SpellE>lò</span>
-s&#7845;y <span class=SpellE>chân</span> <span class=SpellE>không</span> <span
-class=SpellE>&#273;&#7875;</span> <span class=SpellE>dính</span> <span
-class=SpellE>ch&#7845;t</span> <span class=SpellE>n&#7873;n</span> <span
-class=SpellE>vào</span> <span class=SpellE>b&#7873;</span> <span class=SpellE>m&#7863;t</span>
-<span class=SpellE>c&#7911;a</span> <span class=SpellE>b&#7897;</span> <span
-class=SpellE>l&#7885;c</span> <span class=SpellE>và</span> <span class=SpellE>các</span>
-<span class=SpellE>m&#7851;u</span> <span class=SpellE>khác</span>.<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:30.0pt;margin-bottom:.0001pt;line-height:normal;vertical-align:
-baseline'><span style='font-size:10.5pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:30.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:normal;
-mso-list:l7 level1 lfo10;tab-stops:list 36.0pt;vertical-align:baseline'><![if !supportLists]><span
-style='font-size:10.0pt;mso-bidi-font-size:10.5pt;font-family:Symbol;
-mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:#222222'><span
-style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span class=SpellE><span style='font-size:10.5pt;
-font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
-color:#222222'>Các</span></span><span style='font-size:10.5pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'> <span class=SpellE>phòng</span>
-thí nghi&#7879;m <span class=SpellE>môi</span> <span class=SpellE>tr&#432;&#7901;ng</span>
-<span class=SpellE>làm</span> <span class=SpellE>khô</span> <span class=SpellE>m&#7851;u</span>
-<span class=SpellE>trong</span> <span class=SpellE>bu&#7891;ng</span> thí
-nghi&#7879;m, <span class=SpellE>cân</span> <span class=SpellE>tr&#7885;ng</span>
-<span class=SpellE>l&#432;&#7907;ng</span> <span class=SpellE>m&#7851;u</span> <span
-class=SpellE>tr&#432;&#7899;c</span> <span class=SpellE>và</span> <span
-class=SpellE>sau</span> <span class=SpellE>khi</span> s&#7845;y, <span
-class=SpellE>&#273;&#7875;</span> <span class=SpellE>xác</span> <span
-class=SpellE>&#273;&#7883;nh</span> &#273;&#7897; <span class=SpellE>&#7849;m</span>
-<span class=SpellE>c&#7911;a</span> <span class=SpellE>m&#7851;u</span>. <span
-class=SpellE>Lò</span> <span class=SpellE>&#273;&#7889;i</span> <span
-class=SpellE>l&#432;u</span> <span class=SpellE>t&#7921;</span> <span
-class=SpellE>nhiên</span> <span class=SpellE>và</span> <span class=SpellE>lò</span>
-baking <span class=SpellE>&#273;&#432;&#7907;c</span> <span class=SpellE>s&#7917;</span>
-<span class=SpellE>d&#7909;ng</span> <span class=SpellE>cho</span> <span
-class=SpellE>các</span> <span class=SpellE>quá</span> <span class=SpellE>trình</span>
-<span class=SpellE>này</span><o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;&nbsp;<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;mso-outline-level:3;vertical-align:baseline'><span class=SpellE><b><span
-style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
-"Times New Roman";color:#222222'>Cách</span></b></span><b><span
-style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
-"Times New Roman";color:#222222'> <span class=SpellE>ch&#7885;n</span> <span
-class=SpellE>lo&#7841;i</span> <span class=SpellE>lò</span> <span class=SpellE>nung</span>,
-t&#7911; s&#7845;y <span class=SpellE>trong</span> <span class=SpellE>phòng</span>
-thí nghi&#7879;m</span></b><b><span style='font-size:10.5pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'><o:p></o:p></span></b></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;vertical-align:baseline'><span class=SpellE><span style='font-size:10.5pt;
-font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
-color:#222222'>Khi</span></span><span style='font-size:10.5pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'> <span class=SpellE>xem</span>
-<span class=SpellE>xét</span> <span class=SpellE>lò</span> <span class=SpellE>nung</span>,
-t&#7911; s&#7845;y <span class=SpellE>phòng</span> thí nghi&#7879;m, <span
-class=SpellE>hãy</span> <span class=SpellE>tính</span> <span class=SpellE>&#273;&#7871;n</span>
-<span class=SpellE>các</span> <span class=SpellE>lo&#7841;i</span> <span
-class=SpellE>&#7913;ng</span> <span class=SpellE>d&#7909;ng</span> <span
-class=SpellE>ng&#432;&#7901;i</span> <span class=SpellE>dùng</span> <span
-class=SpellE>s&#7869;</span> <span class=SpellE>th&#7921;c</span> <span
-class=SpellE>hi&#7879;n</span> <span class=SpellE>nh&#432;</span> <span
-class=SpellE>yêu</span> <span class=SpellE>c&#7847;u</span> <span class=SpellE>v&#7873;</span>
-<span class=SpellE>nhi&#7879;t</span> &#273;&#7897; <span class=SpellE>cao</span>,
-<span class=SpellE>chân</span> <span class=SpellE>không</span>, <span
-class=SpellE>tr&#7885;ng</span> <span class=SpellE>l&#7921;c</span> <span
-class=SpellE>ho&#7863;c</span> <span class=SpellE>lò</span> <span class=SpellE>&#273;&#7889;i</span>
-<span class=SpellE>l&#432;u</span> <span class=SpellE>c&#417;</span> <span
-class=SpellE>h&#7885;c</span> <span class=SpellE>v&#7899;i</span> <span
-class=SpellE>các</span> <span class=SpellE>tính</span> <span class=SpellE>n&#259;ng</span>
-<span class=SpellE>có</span> <span class=SpellE>th&#7875;</span> <span
-class=SpellE>s&#7917;</span> <span class=SpellE>d&#7909;ng</span> <span
-class=SpellE>chung</span> <span class=SpellE>và</span> <span class=SpellE>các</span>
-<span class=SpellE>tính</span> <span class=SpellE>n&#259;ng</span> <span
-class=SpellE>chuyên</span> <span class=SpellE>d&#7909;ng</span> <span
-class=SpellE>cho</span> <span class=SpellE>m&#7909;c</span> <span class=SpellE>&#273;ích</span>
-<span class=SpellE>chính</span>. <span class=SpellE>Nh&#7919;ng</span> <span
-class=SpellE>lo&#7841;i</span> <span class=SpellE>lò</span> <span class=SpellE>này</span>
-<span class=SpellE>ch&#7911;</span> <span class=SpellE>y&#7871;u</span> <span
-class=SpellE>&#273;&#432;&#7907;c</span> <span class=SpellE>s&#7917;</span> <span
-class=SpellE>d&#7909;ng</span> <span class=SpellE>trong</span> <span
-class=SpellE>phòng</span> thí nghi&#7879;m <span class=SpellE>lâm</span> <span
-class=SpellE>sàng</span> <span class=SpellE>và</span> <span class=SpellE>d&#432;&#7907;c</span>
-<span class=SpellE>ph&#7849;m</span>. <span class=SpellE>Lò</span> <span
-class=SpellE>c&#432;&#7905;ng</span> <span class=SpellE>b&#7913;c</span>, <span
-class=SpellE>ho&#7863;c</span> <span class=SpellE>lò</span> <span class=SpellE>&#273;a</span>
-<span class=SpellE>n&#259;ng</span> <span class=SpellE>v&#7899;i</span> <span
-class=SpellE>tính</span> <span class=SpellE>n&#259;ng</span> <span
-class=SpellE>ph&#7909;c</span> <span class=SpellE>h&#7891;i</span> <span
-class=SpellE>nhanh</span> <span class=SpellE>lý</span> <span class=SpellE>t&#432;&#7903;ng</span>
-<span class=SpellE>&#273;&#7875;</span> <span class=SpellE>làm</span> <span
-class=SpellE>khô</span> <span class=SpellE>&#273;&#7891;</span> <span
-class=SpellE>th&#7911;y</span> <span class=SpellE>tinh</span>. <span
-class=SpellE>Lò</span> s&#7845;y <span class=SpellE>ho&#7863;c</span> <span
-class=SpellE>nung</span> <span class=SpellE>chân</span> <span class=SpellE>không</span>
-<span class=SpellE>lý</span> <span class=SpellE>t&#432;&#7903;ng</span> <span
-class=SpellE>cho</span> <span class=SpellE>các</span> <span class=SpellE>v&#7853;t</span>
-<span class=SpellE>li&#7879;u</span> <span class=SpellE>&#273;òi</span> <span
-class=SpellE>h&#7887;i</span> <span class=SpellE>áp</span> <span class=SpellE>su&#7845;t</span>
-<span class=SpellE>th&#7845;p</span>. <span class=SpellE>Lò</span> <span
-class=SpellE>dùng</span> <span class=SpellE>trong</span> <span class=SpellE>phòng</span>
-<span class=SpellE>s&#7841;ch</span> <span class=SpellE>&#273;&#432;&#7907;c</span>
-<span class=SpellE>làm</span> <span class=SpellE>b&#7857;ng</span> <span
-class=SpellE>thép</span> <span class=SpellE>không</span> <span class=SpellE>g&#7881;</span>
-<span class=SpellE>có</span> <span class=SpellE>s&#7861;n</span> <span
-class=SpellE>b&#7897;</span> <span class=SpellE>l&#7885;c</span> HEPA <span
-class=SpellE>giúp</span> <span class=SpellE>&#273;áp</span> <span class=SpellE>&#7913;ng</span>
-<span class=SpellE>yêu</span> <span class=SpellE>c&#7847;u</span> <span
-class=SpellE>và</span> <span class=SpellE>tuân</span> <span class=SpellE>th&#7911;</span>
-<span class=SpellE>theo</span> ISO 5 (Class 100).<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<span
-class=SpellE>Xem</span> <span class=SpellE>&#273;&#7847;y</span> <span
-class=SpellE>&#273;&#7911;</span> <span class=SpellE>các</span> <span
-class=SpellE>s&#7843;n</span> <span class=SpellE>ph&#7849;m</span>:<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'><a
-href="http://3bscitech.vn/tu-say-thi-nghiem-samheung-han-quoc-sh-scientific-318642s.html"
-target="_blank"><b><i>T&#7911; s&#7845;y thí nghi&#7879;m <span class=SpellE>t&#7841;i</span>
-<span class=SpellE>&#273;ây</span></i></b></a><o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'><a
-href="http://3bscitech.vn/lo-nung-samheung-sh-scientifc-329052s.html"
-target="_blank"><span class=SpellE><b><i>Lò</i></b></span><b><i> <span
-class=SpellE>nung</span> thí nghi&#7879;m <span class=SpellE>t&#7841;i</span> <span
-class=SpellE>&#273;ây</span></i></b></a><o:p></o:p></span></p>
-
-<p class=MsoNormal><span style='font-family:"Arial",sans-serif'><o:p>&nbsp;</o:p></span></p>
-
+        <div class="logo">
+            <a title="CÔNG TY TNHH KHOA HỌC VÀ CÔNG NGHỆ 3B" href="http://3bscitech.vn"><img alt="CÔNG TY TNHH KHOA HỌC VÀ CÔNG NGHỆ 3B" class="img-logo" src="http://driver.gianhangvn.com/file/logo-3bscitech_new-670635f3833.png"/></a>
+        </div>
+        <div class="banner">
+            <object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" width="1180" style="max-width:100%;" ><param name="quality" value="high"><param name="movie" value="/file/banner-3b-moi-672504f3833.swf"><embed  pluginspage="http://www.macromedia.com/go/getflashplayer" quality="high" src="/file/banner-3b-moi-672504f3833.swf" type="application/x-shockwave-flash" width="1180" style="max-width:100%;"></object>
+        </div>
+    </div>
+</div>
+<div class="menu group">
+	<div class="container group">
+        <a href="javascript:void(0);" class="navbar-toggle" data-toggle="collapse" data-target="#nav-menu-top"><span class="fa fa-bars"></span></a><div class="navbar-collapse collapse" id="nav-menu-top"><ul class="nav navbar-nav"><li><a title="Trang chủ" href="/" target="">Trang chủ</a></li><li><a title="Sản phẩm" href="/san-pham.html" target="">Sản phẩm<span class="caret"></span></a><ul class="dropdown-menu"><li><a title="Thiết bị kiểm tra vải địa, nhựa, cao su" href="/thiet-bi-thi-nghiem-vai-dia-nhua-cao-su-320702s.html" target="">MÁY THỬ NGHIỆM NHỰA-CAO SU</a></li><li><a title="Thiết bị kiểm tra ngành dệt may" href="/thiet-bi-thi-nghiem-nganh-det-may-336548s.html" target="">MÁY THỬ NGHIỆM DỆT MAY<span class="caret"></span></a><ul class="dropdown-menu"><li><a title="Thiết bị kiểm tra xơ Fiber" href="/thiet-bi-kiem-tra-xo-fiber-337832s.html" target="">Thiết bị kiểm tra xơ Fiber</a></li><li><a title="Thiết bị kiểm tra sợi Yarn" href="/thiet-bi-kiem-tra-soi-yarn-337852s.html" target="">Thiết bị kiểm tra sợi Yarn</a></li><li><a title="Thiết bị kiểm tra vải Fabric và ngành dệt may" href="/thiet-bi-kiem-tra-vai-fabric-va-nganh-det-may-338097s.html" target="">Thiết bị kiểm tra vải Fabric và ngành dệt may</a></li></ul></li><li><a title="Thiết bị kiểm tra đất, đá, kim loại" href="/thiet-bi-kiem-tra-dat-da-kim-loai-335585s.html" target="">MÁY THỬ NGHIỆM KIM LOẠI</a></li><li><a title="Thiết bị thí nghiệm kiểm tra cáp điện" href="/thiet-bi-thi-nghiem-kiem-tra-cap-dien-352053s.html" target="">MÁY THỬ NGHIỆM CÁP ĐIỆN</a></li><li><a title="Tủ sấy Samheung" href="/tu-say-samheung-sh-scientific-han-quoc-318641s.html" target="">TỦ SẤY SH SHSCIENTIFIC<span class="caret"></span></a><ul class="dropdown-menu"><li><a title="Tủ sấy thí nghiệm" href="/tu-say-thi-nghiem-samheung-han-quoc-sh-scientific-318642s.html" target="">Tủ sấy thí nghiệm SH SCIENTIFIC</a></li><li><a title="Tủ sấy công nghiệp samheung 1000L,  2000l" href="/tu-say-cong-nghiep-han-quoc-samheung-sh-scientific-318643s.html" target="">Tủ sấy công nghiệp SH SCIENTIFIC</a></li><li><a title="Tủ sấy phòng sạch" href="/tu-say-phong-sach-han-quoc-samheung-330081s.html" target="">Tủ sấy phòng sạch SH SCIENTIFIC</a></li><li><a title="Tủ sấy chân không Samheung" href="/tu-say-chan-khong-han-quoc-samheung-sh-scientific-393573s.html" target="">Tủ sấy chân không SH SCIENTIFIC</a></li></ul></li><li><a title="Lò Nung Samheung" href="/lo-nung-samheung-sh-scientifc-329052s.html" target="">LÒ NUNG SH SCIENTIFIC<span class="caret"></span></a><ul class="dropdown-menu"><li><a title="Lò nung 1050°C SH SCIENTIFIC " href="/lo-nung-1050-c-sh-scientific-han-quoc-gia-tot-bao-hanh-24-thang-394153s.html" target="">Lò nung 1050°C SH SCIENTIFIC </a></li><li><a title="Lò nung loại 1200°C" href="/lo-nung-samheung-1200-c-sh-scientific-han-quoc-329062s.html" target="">Lò nung 1200°C SH SCIENTIFIC </a></li><li><a title="Lò nung loại 1500°C" href="/lo-nung-samheung-1500-c-sh-scientific-han-quoc-329063s.html" target="">Lò nung 1500°C SH SCIENTIFIC</a></li><li><a title="Lò nung Samheung 1700/1800°C" href="/lo-nung-samheung-1800-c-sh-scientific-han-quoc-329064s.html" target="">Lò nung 1800°C SH SCIENTIFIC</a></li></ul></li><li><a title="Tủ môi trường" href="/tu-thu-nghiem-moi-truong-sh-scientific-han-quoc-319210s.html" target="">TỦ MÔI TRƯỜNG SH SCIENTIFIC<span class="caret"></span></a><ul class="dropdown-menu"><li><a title="Tủ thử nghiệm nhiệt độ SH SCIENTIFIC" href="/tu-thu-nghiem-nhiet-do-sh-scientific-han-quoc-cong-nghiep-394190s.html" target="">Tủ thử nhiệt độ SH SCIENTIFIC</a></li><li><a title="Tủ vi khí hậu SH SCIENTIFIC" href="/tu-vi-khi-hau-tu-moi-truong-thu-nghiem-nhiet-do-do-am-sh-scientific-394191s.html" target="">Tủ vi khí hậu SH SCIENTIFIC</a></li></ul></li></ul></li><li><a title="Giới thiệu" href="/gioi-thieu-64501n.html" target="">Giới thiệu</a></li><li><a title="DỊCH VỤ SỬA CHỮA THIẾT BỊ PHÒNG THÍ NGHIỆM" href="/dich-vu-sua-chua-thiet-bi-thi-nghiem-376467s.html" target="">SỬA CHỮA THIẾT BỊ THÍ NGHIỆM</a></li><li><a title="Góc kỹ thuật" href="/goc-ky-thuat-kiem-tra-vat-lieu-sat-thep-kim-loai-vai-garment-det-may-soi-n-368906t.html" target="">GÓC KỸ THUẬT<span class="caret"></span></a><ul class="dropdown-menu"><li><a title="Thí nghiệm vật liệu" href="/thi-nghiem-vat-lieu-368907t.html" target="">Thí nghiệm vật liệu</a></li><li><a title="Thiết bị vật liệu" href="/thi-nghiem-thiet-bi-vat-lieu-368908t.html" target="">Thiết bị vật liệu</a></li></ul></li><li><a title="Liên hệ" href="/lien-he.html" target="">Liên hệ</a></li></ul></div>
+        <div class="search-box">
+            <input class="text-search" type="text" id="txtTuKhoaTimKiem" name="txtTuKhoaTimKiem" placeholder="Tìm kiếm..." lang="master_search" />
+            <button type="button" name="submit_search" class="btn btn-search" onclick="javascript:SearchData();">
+			    <i class="fa fa-search"></i>
+		    </button>
+        </div>
+    </div>
 </div>
 
-</body>
 
+<div class="pathpage group">
+	<div class="container group">
+    	<ol class="breadcrumb"><li itemprop="child" itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" href="http://3bscitech.vn" title="Trang chủ"><span itemprop="title">Trang chủ</span></a></li><li itemprop="child" itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" title="GÓC KỸ THUẬT" href="http://3bscitech.vn/goc-ky-thuat-kiem-tra-vat-lieu-sat-thep-kim-loai-vai-garment-det-may-soi-n-368906t.html"><span itemprop="title">GÓC KỸ THUẬT</span></a></li><li itemprop="child" itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" title="Thiết bị vật liệu" href="http://3bscitech.vn/thi-nghiem-thiet-bi-vat-lieu-368908t.html"><span itemprop="title">Thiết bị vật liệu</span></a></li><li class="active" itemprop="child" itemscope itemtype="http://data-vocabulary.org/Breadcrumb"><a itemprop="url" title="Ứng dụng tủ sấy thí nghiệm" href="http://3bscitech.vn/ung-dung-tu-say-thi-nghiem-60875u.html"><span itemprop="title">Ứng dụng tủ sấy thí nghiệm</span></a></li></ol>
+    </div>
+</div>   
+
+<div class="main group">
+	<div class="container group">
+        <div class="col col-right">
+            
+    <div id="ctl00_MainContent_divMainContent">
+        
+    
+        <div class="box box-detail">
+            <div class="box-header">
+                <h1 class="box-title">Ứng dụng tủ sấy thí nghiệm</h1>
+            </div>
+            <div class="social-sharing">
+                <button type="button" class="btn btn-google-plus" onclick="javascript:OpenSocialSharing('google-plus', 'Ứng dụng tủ sấy thí nghiệm', 'http://3bscitech.vn/ung-dung-tu-say-thi-nghiem-60875u.html')">
+                    <i class="fa fa-google-plus"></i> Google+
+                </button>
+                <button type="button" class="btn btn-facebook" onclick="javascript:OpenSocialSharing('facebook', 'Ứng dụng tủ sấy thí nghiệm', 'http://3bscitech.vn/ung-dung-tu-say-thi-nghiem-60875u.html')">
+                    <i class="fa fa-facebook"></i> Share
+                </button>
+                <button type="button" class="btn btn-twitter" onclick="javascript:OpenSocialSharing('twitter', 'Ứng dụng tủ sấy thí nghiệm', 'http://3bscitech.vn/ung-dung-tu-say-thi-nghiem-60875u.html')">
+                    <i class="fa fa-twitter"></i> Tweet
+                </button>
+            </div>
+            <div class="box-content group">
+            	<p>&nbsp;</p>
+
+<h2><strong><span style="color:#0000FF;"><span style="font-size:22px;"><span style="font-family:arial,helvetica,sans-serif;">Ứng dụng tủ sấy lò nung&nbsp;thí nghiệm</span></span></span></strong></h2>
+
+<p><em><span style="font-family: arial, helvetica, sans-serif;"><img alt="Tủ sấy thí nghiệm" src="http://driver.gianhangvn.com/image/anh-dau-de-855354j3833.jpg" style="opacity: 0.9; width: 300px; margin: 0px 40px; float: right;" /></span></em></p>
+
+<div>&nbsp;
+<p>&nbsp;</p>
+
+<p><em><span style="font-family:arial,helvetica,sans-serif;"><strong><u><a href="http://3bscitech.vn/tu-say-phong-thi-nghiem-han-quoc-sh-scientific-tiet-trung-dung-cu-y-te-60384u.html" target="_blank"><span style="color:#0000CD;">Tủ sấy</span></a>,</u></strong> </span><a href="http://3bscitech.vn/lo-nung-samheung-sh-scientifc-329052s.html" target="_blank"><u><strong><span style="font-family:arial,helvetica,sans-serif;"><span style="color:#0000CD;">lò nung</span></span></strong></u></a><span style="font-family:arial,helvetica,sans-serif;"> trong phòng thí nghiệm được sử dụng trong các phòng thí nghiệm ở ngành như công nghệ sinh học, dược phẩm và sản xuất nguyên liệu và công nghiệp. Các ngành này thường đòi hỏi quá trình sấy, nướng, bảo dưỡng, ủ và làm khô các vật liệu có thành phần hóa học và chất khác nhau. Nhiều ứng dụng chuyên&nbsp;biệt thì cần các quá trình thực hiện và lò được thiết kế riêng để đảm bảo việc nghiện cứu, phát triển hoặc kiểm tra được tiến hành thuận lợi.&nbsp;</span></em></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<h3><span style="font-size:16px;"><strong><span style="font-family:arial,helvetica,sans-serif;">Định nghĩa của một số thuật ngữ thông dụng.</span></strong></span></h3>
+
+<p>&nbsp;</p>
+
+<p><span style="font-family:arial,helvetica,sans-serif;"><strong>Baking:</strong> là quá trình làm &nbsp;nóng vật liệu mà không yêu cầu về đồ ẩm. không bị hút ẩm. Các phòng thí nghiệm dược phẩm, sản xuất và khoa học vật liệu thường sử dụng lò sấy tự nhiên cho loại ứng dụng này.</span></p>
+
+<p>&nbsp;</p>
+
+<p><span style="font-family:arial,helvetica,sans-serif;"><strong>Curing: l</strong>à quá trình làm cứng thành phần hóa học của một chất thông qua hoạt động kết hợp của sấy khô và baking. Quá trình này thường được sử dụng trong sản xuất epoxies, keo, nhựa và cao su trong nghiên cứu polymer, công nghệ nano và bán dẫn.</span></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><span style="font-family:arial,helvetica,sans-serif;"><strong><img alt="tủ sấy chân không thí nghiệm" src="http://driver.gianhangvn.com/image/tu-say-chan-khong-855351j3833.jpg" style="width: 300px; float: left; margin: 20px 40px;" />Annealing: </strong>là quá trình làm nóng sau đó làm nguội vật liệu ( thủy tinh hoặc thép) với mục đích làm tang tính dẻo dai. Rất nhiều ứng dụng trong luyện kim, sản xuất thiết bị y tế và các ngành khoa học vật liệu sử dụng lò nung nhiệt độ cao cho quá trình này. Lò nung phòng sạch bằng thép không gỉ được ngành công nghiệp chăm sóc sức khoẻ sử dụng để ủ chất dẻo lên ống tiêm và ống thông.</span></p>
+
+<p>&nbsp;</p>
+
+<p><span style="font-family:arial,helvetica,sans-serif;"><strong>Drying oven,</strong> là tủ được sử dụng phổ biến trong phòng thí nghiệm, loại bỏ độ ẩm từ các mẫu. Đối lưu tự nhiên, đối lưu cưỡng bức và lò sấy chân không được sử dụng cho các quy trình sấy tiêu chuẩn bởi các phòng thí nghiệm môi trường, sinh học và lâm sàng. Các mẫu sinh học nhạy cảm với độ ẩm quá cao hoặc khả năng chịu nhiệt kém thì thường dùng các tủ sấy áp suất thấp hoặc chân không. Những loại lò nung này loại bỏ độ ẩm và giảm điểm sôi của nước cho phép mẫu được sấy khô ở nhiệt độ thấp hơn.</span></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p><span style="font-size:16px;"><strong><span style="font-family:arial,helvetica,sans-serif;">Các ứng dụng cơ bản và chuyên sâu của tủ sấy, lò nung.<img alt="tủ sấy thí nghiệm cơ bản" src="http://driver.gianhangvn.com/image/tu-say-tu-nhien-855355j3833.jpg" style="width: 250px; float: right; margin: 20px 30px;" /></span></strong></span></p>
+
+<p>&nbsp;</p>
+
+<ul>
+	<li style="margin-left: 40px;"><span style="font-family:arial,helvetica,sans-serif;"><strong>Các ứng dụng cơ bản</strong> của hầu hết các lò sấy trong phòng thí nghiệm bao gồm sưởi ấm và làm khô đồ thủy tinh hoặc dùng để tiệt trùng các dụng cụ thí nghiệm. Lò trong phòng thí nghiệm cũng thường được sử dụng để thực hiện kiểm tra vật liệu để xác định độ bền kéo, biến dạng và khả năng phục hồi của nhiều sản phẩm chế tạo. Các ứng dụng cơ bản của chúng dùng trong quá trình kiểm tra dưới đây:</span></li>
+</ul>
+
+<p style="margin-left: 40px;">&nbsp;</p>
+
+<ul>
+	<li style="margin-left: 40px;"><span style="font-family:arial,helvetica,sans-serif;">Kiểm tra linh kiện điện tử.</span></li>
+</ul>
+
+<p style="margin-left: 40px;">&nbsp;</p>
+
+<ul>
+	<li style="margin-left: 40px;"><span style="font-family:arial,helvetica,sans-serif;">Thử nghiệm kiểm tra hỏng hóc sớm trong sản xuất các mạch tích hợp</span></li>
+</ul>
+
+<p style="margin-left: 40px;">&nbsp;</p>
+
+<ul>
+	<li style="margin-left: 40px;"><span style="font-family:arial,helvetica,sans-serif;">Kiểm tra độ chắc chắn của mối hàn trong bảng mạch</span></li>
+</ul>
+
+<p style="margin-left: 40px;">&nbsp;</p>
+
+<ul>
+	<li style="margin-left: 40px;"><span style="font-family:arial,helvetica,sans-serif;">Mô phỏng tăng tốc quá trình phản ứng hóa học và thay đổi tính chất hoá học của polymer tiên tiến.</span></li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<ul>
+	<li style="margin-left: 40px;"><span style="font-family:arial,helvetica,sans-serif;"><strong><img alt="tủ sấy thí nghiệm hepa class 100 ISO" src="http://driver.gianhangvn.com/image/tu-say-phong-sach-class-100-hepa-855352j3833.jpg" style="width: 300px; float: right; margin: 20px 30px;" />Các ứng dụng chuyên sâu</strong> của tủ sấy lò nung thường được dùng trong các phòng thí nghiệm sinh học, pháp y và môi trường. Dưới đây là một số ví dụ về cách mà các ngành khoa học tự nhiên đang sử dụng để nâng cao tốc độ nghiên cứu:</span></li>
+</ul>
+
+<p style="margin-left: 40px;">&nbsp;</p>
+
+<ul>
+	<li style="margin-left: 40px;"><span style="font-family:arial,helvetica,sans-serif;">Phòng thí nghiệm pháp y sử dụng tủ sấy chân không được cấu hình đặc biệt như các phòng phát triển vân tay.</span></li>
+</ul>
+
+<p style="margin-left: 40px;">&nbsp;</p>
+
+<ul>
+	<li style="margin-left: 40px;"><span style="font-family:arial,helvetica,sans-serif;">Các phòng thí nghiệm sinh học sử dụng tủ đối lưu tự nhiên để loại bỏ các chất gây ô nhiễm vi sinh trong phòng thí nghiệm và lò sấy chân không để dính chất nền vào bề mặt của bộ lọc và các mẫu khác.</span></li>
+</ul>
+
+<p style="margin-left: 40px;">&nbsp;</p>
+
+<ul>
+	<li style="margin-left: 40px;"><span style="font-family:arial,helvetica,sans-serif;">Các phòng thí nghiệm môi trường làm khô mẫu trong buồng thí nghiệm, cân trọng lượng mẫu trước và sau khi sấy, để xác định độ ẩm của mẫu. Lò đối lưu tự nhiên và lò baking được sử dụng cho các quá trình này</span></li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<h3><span style="font-size:16px;"><strong><span style="font-family:arial,helvetica,sans-serif;"><img alt="Drying oven, funace oven" src="http://driver.gianhangvn.com/image/tu-say-co-ban-855353j3833.jpg" style="width: 250px; float: left; margin: 20px 70px;" />Cách chọn loại lò nung, tủ sấy trong phòng thí nghiệm</span></strong></span></h3>
+
+<p>&nbsp;</p>
+
+<p><span style="font-family:arial,helvetica,sans-serif;">Khi xem xét lò nung, tủ sấy phòng thí nghiệm, hãy tính đến các loại ứng dụng người dùng sẽ thực hiện như yêu cầu về nhiệt độ cao, chân không, trọng lực hoặc lò đối lưu cơ học với các tính năng có thể sử dụng chung và các tính năng chuyên dụng cho mục đích chính. Những loại lò này chủ yếu được sử dụng trong phòng thí nghiệm lâm sàng và dược phẩm. Lò cưỡng bức, hoặc lò đa năng với tính năng phục hồi nhanh lý tưởng để làm khô đồ thủy tinh. Lò sấy hoặc nung chân không lý tưởng cho các vật liệu đòi hỏi áp suất thấp. Lò dùng trong phòng sạch được làm bằng thép không gỉ có sẵn bộ lọc HEPA giúp đáp ứng yêu cầu và tuân thủ theo ISO 5 (Class 100).</span></p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+
+<p>Xem đầy đủ các sản phẩm:</p>
+
+<p>&nbsp;</p>
+
+<p><a href="http://3bscitech.vn/tu-say-thi-nghiem-samheung-han-quoc-sh-scientific-318642s.html" target="_blank"><span style="color:#0000FF;"><u><em><strong>Tủ sấy thí nghiệm tại đây</strong></em></u></span></a></p>
+
+<p>&nbsp;</p>
+
+<p><a href="http://3bscitech.vn/lo-nung-samheung-sh-scientifc-329052s.html" target="_blank"><u><em><strong><span style="color:#0000FF;">Lò nung thí nghiệm tại đây</span></strong></em></u></a></p>
+
+<p>&nbsp;</p>
+</div>
+
+            </div>
+        </div>
+
+        <div class="box box-right">
+            <div class="box-header">
+                <h4 class="box-title" lang="detailnews_morenews">Tin tức khác</h4>
+            </div>
+            <div class="box-content group is-padding">
+                <ul class="list-group" style="padding-left:10px;">
+
+				        <li><h3 class="name"><a class="arrow" href="/ung-dung-tu-say-chan-khong-60542u.html" title="ỨNG DỤNG TỦ SẤY CHÂN KHÔNG">ỨNG DỤNG TỦ SẤY CHÂN KHÔNG</a></h3></li>
+
+				        <li><h3 class="name"><a class="arrow" href="/cau-tao-tu-say-chan-khong-thi-nghiem-60543u.html" title="CẤU TẠO TỦ SẤY CHÂN KHÔNG THÍ NGHIỆM">CẤU TẠO TỦ SẤY CHÂN KHÔNG THÍ NGHIỆM</a></h3></li>
+
+				        <li><h3 class="name"><a class="arrow" href="/tu-say-phong-thi-nghiem-han-quoc-sh-scientific-tiet-trung-dung-cu-y-te-60384u.html" title="Tủ sấy phòng thí nghiệm">Tủ sấy phòng thí nghiệm</a></h3></li>
+
+				        <li><h3 class="name"><a class="arrow" href="/may-keo-nen-van-nang-la-gi-va-ung-dung-thi-nghiem-52293u.html" title="Máy kéo nén vạn năng là gì và ứng dụng thí nghiệm">Máy kéo nén vạn năng là gì và ứng dụng thí nghiệm</a></h3></li>
+
+                </ul>
+            </div>
+        </div></div>
+
+        </div>
+        <div id="ctl00_divLeftModule" class="col col-left">
+<div class="box box-left">
+    <div class="box-header collapse-title">
+        <h4 class="box-title">Máy thử nghiệm vật liệu</h4>
+    </div>
+    <div class="box-content group collapse-content">
+        <ul class="nav vertical-menu has-block"><li><a title="Thiết bị kiểm tra vải địa, nhựa, cao su" href="/thiet-bi-thi-nghiem-vai-dia-nhua-cao-su-320702s.html" target="">MÁY THỬ NGHIỆM NHỰA-CAO SU </a></li><li><a title="Thiết bị kiểm tra ngành dệt may" href="/thiet-bi-thi-nghiem-nganh-det-may-336548s.html" target="">MÁY THỬ NGHIỆM DỆT MAY<span class="caret"></span></a><ul class="dropdown-menu"><li><a title="Thiết bị kiểm tra xơ Fiber" href="/thiet-bi-kiem-tra-xo-fiber-337832s.html" target="">Thiết bị kiểm tra xơ Fiber </a></li><li><a title="Thiết bị kiểm tra sợi Yarn" href="/thiet-bi-kiem-tra-soi-yarn-337852s.html" target="">Thiết bị kiểm tra sợi Yarn </a></li><li><a title="Thiết bị kiểm tra vải Fabric và ngành dệt may" href="/thiet-bi-kiem-tra-vai-fabric-va-nganh-det-may-338097s.html" target="">Thiết bị kiểm tra vải Fabric và ngành dệt may </a></li></ul></li><li><a title="Thiết bị kiểm tra đất, đá, kim loại" href="/thiet-bi-kiem-tra-dat-da-kim-loai-335585s.html" target="">MÁY THỬ NGHIỆM KIM LOẠI </a></li><li><a title="Thiết bị thí nghiệm kiểm tra cáp điện" href="/thiet-bi-thi-nghiem-kiem-tra-cap-dien-352053s.html" target="">MÁY THỬ NGHIỆM CÁP ĐIỆN </a></li><li><a title="Tủ sấy Samheung" href="/tu-say-samheung-sh-scientific-han-quoc-318641s.html" target="">TỦ SẤY SH SHSCIENTIFIC<span class="caret"></span></a><ul class="dropdown-menu"><li><a title="Tủ sấy thí nghiệm" href="/tu-say-thi-nghiem-samheung-han-quoc-sh-scientific-318642s.html" target="">Tủ sấy thí nghiệm SH SCIENTIFIC </a></li><li><a title="Tủ sấy công nghiệp samheung 1000L,  2000l" href="/tu-say-cong-nghiep-han-quoc-samheung-sh-scientific-318643s.html" target="">Tủ sấy công nghiệp SH SCIENTIFIC </a></li><li><a title="Tủ sấy phòng sạch" href="/tu-say-phong-sach-han-quoc-samheung-330081s.html" target="">Tủ sấy phòng sạch SH SCIENTIFIC </a></li><li><a title="Tủ sấy chân không Samheung" href="/tu-say-chan-khong-han-quoc-samheung-sh-scientific-393573s.html" target="">Tủ sấy chân không SH SCIENTIFIC </a></li></ul></li><li><a title="Lò Nung Samheung" href="/lo-nung-samheung-sh-scientifc-329052s.html" target="">LÒ NUNG SH SCIENTIFIC<span class="caret"></span></a><ul class="dropdown-menu"><li><a title="Lò nung 1050°C SH SCIENTIFIC " href="/lo-nung-1050-c-sh-scientific-han-quoc-gia-tot-bao-hanh-24-thang-394153s.html" target="">Lò nung 1050°C SH SCIENTIFIC  </a></li><li><a title="Lò nung loại 1200°C" href="/lo-nung-samheung-1200-c-sh-scientific-han-quoc-329062s.html" target="">Lò nung 1200°C SH SCIENTIFIC  </a></li><li><a title="Lò nung loại 1500°C" href="/lo-nung-samheung-1500-c-sh-scientific-han-quoc-329063s.html" target="">Lò nung 1500°C SH SCIENTIFIC </a></li><li><a title="Lò nung Samheung 1700/1800°C" href="/lo-nung-samheung-1800-c-sh-scientific-han-quoc-329064s.html" target="">Lò nung 1800°C SH SCIENTIFIC </a></li></ul></li><li><a title="Tủ môi trường" href="/tu-thu-nghiem-moi-truong-sh-scientific-han-quoc-319210s.html" target="">TỦ MÔI TRƯỜNG SH SCIENTIFIC<span class="caret"></span></a><ul class="dropdown-menu"><li><a title="Tủ thử nghiệm nhiệt độ SH SCIENTIFIC" href="/tu-thu-nghiem-nhiet-do-sh-scientific-han-quoc-cong-nghiep-394190s.html" target="">Tủ thử nhiệt độ SH SCIENTIFIC </a></li><li><a title="Tủ vi khí hậu SH SCIENTIFIC" href="/tu-vi-khi-hau-tu-moi-truong-thu-nghiem-nhiet-do-do-am-sh-scientific-394191s.html" target="">Tủ vi khí hậu SH SCIENTIFIC </a></li></ul></li></ul>
+    </div>
+</div>
+
+<div class="box box-left">
+    <div class="box-header collapse-title">
+        <h4 class="box-title">Phòng Kinh doanh</h4>
+    </div>
+    <div class="box-content group collapse-content">
+
+
+        <div class="support-online">
+            <a href="tel:vuquyba" title="Mr. Ba"><img alt="Mr. Ba" src="http://gianhangvn.com/Resource/Online/icon-call-1.png" /></a>
+            <p class="online-text">
+                Mr. Ba - 0948.27.99.88
+            </p>
+        </div>
+
+
+        <div class="support-online">
+            <a href="tel:duy@3bscitech.com.vn" title="Mr. Duy"><img alt="Mr. Duy" src="http://gianhangvn.com/Resource/Online/icon-call-1.png" /></a>
+            <p class="online-text">
+                Mr. Duy -  0917.517.147
+            </p>
+        </div>
+
+
+        <div class="support-online">
+            <a href="skype:juzo_nguyen?chat" title="Mr. Chung"><img alt="Mr. Chung" src="http://gianhangvn.com/Resource/Online/skype-1.png" /></a>
+            <p class="online-text">
+                Mr. Chung - 098.222.0581
+            </p>
+        </div>
+
+
+    </div>
+</div>
+<div class="box box-left">
+    <div class="box-header collapse-title">
+        <h4 class="box-title">Thống kê</h4>
+    </div>
+    <div class="box-content group is-padding collapse-content">
+        <ul class="list-group statistic">
+            <li id="statistic-online">
+                <span class="statistic-text" lang="md_statistic_online">Đang online</span>
+                <span class="statistic-number">5</span>
+            </li>
+            <li id="statistic-today">
+                <span class="statistic-text today" lang="md_statistic_today">Hôm nay</span>
+                <span class="statistic-number">235</span>
+            </li>
+            <li id="statistic-yesterday">
+                <span class="statistic-text yesterday" lang="md_statistic_yesterday">Hôm qua</span>
+                <span class="statistic-number">404</span>
+            </li>
+            <li id="statistic-week">
+                <span class="statistic-text week" lang="md_statistic_week">Trong tuần</span>
+                <span class="statistic-number">639</span>
+            </li>
+            <li id="statistic-month">
+                <span class="statistic-text month" lang="md_statistic_month">Trong tháng</span>
+                <span class="statistic-number">14,579</span>
+            </li>                        
+            <li id="statistic-sum">
+                <span class="statistic-text total" lang="md_statistic_sum">Tổng cộng</span>
+                <span class="statistic-number">401,788</span>
+            </li>
+        </ul>
+    </div>
+</div></div>
+    </div>
+    <div id="ctl00_divDoiTac" class="container group"></div>
+</div>
+<div class="footer group">
+	<div class="container group">
+        <div class="col col_6 footer-block">
+<h4 class="title-footer-block">CÔNG TY TNHH KHOA HỌC VÀ CÔNG NGHỆ 3B</h4>
+
+<ul class="list-group">
+	<li>Trụ sở: Số 40, Ngách 143/146, Ngõ 143 Nguyễn Chính, Phường Thịnh Liệt, Quận Hoàng Mai, TP Hà Nội</li>
+	<li>Tel: 024321.217.26 - 024321.911.29</li>
+	<li>Fax: 0243 212 1726</li>
+	<li>Hotline: 0948.27.99.88 - 0917.517.147 - 0982.220.581</li>
+	<li>Mã số doanh nghiệp: 0106804307</li>
+</ul>
+</div>
+
+<div class="col col_6 footer-block">
+<h4 class="title-footer-block">CÔNG TY TNHH KHOA HỌC VÀ CÔNG NGHỆ 3B</h4>
+
+<ul class="list-group">
+	<li>VPGD: <span style="color:#FFFFFF;"><span style="font-family: arial, sans-serif;">Phòng 1206, Tầng 12, Tòa nhà N04T1, Khu Ngoại Giao Đoàn, Phường Xuân Tảo, Quận Bắc Từ Liêm, TP Hà Nội</span></span></li>
+	<li>Tel: 024321.217.26 - 024321.911.29</li>
+	<li>Fax: 0243 212 1726</li>
+	<li>Hotline: 0948.27.99.88 - 0917.517.147 - 0982.220.581</li>
+	<li>Mã số doanh nghiệp: 0106804307</li>
+</ul>
+
+<p>&nbsp;</p>
+
+<p>&nbsp;</p>
+</div>
+<!--Start of Tawk.to Script--><script type="text/javascript">
+var Tawk_API=Tawk_API||{}, Tawk_LoadStart=new Date();
+(function(){
+var s1=document.createElement("script"),s0=document.getElementsByTagName("script")[0];
+s1.async=true;
+s1.src='https://embed.tawk.to/56ef79f60c81c52a742c0492/default';
+s1.charset='UTF-8';
+s1.setAttribute('crossorigin','*');
+s0.parentNode.insertBefore(s1,s0);
+})();
+</script><!--End of Tawk.to Script--><script></script><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-70121611-2', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<meta content="Dịch vụ sửa chữa bảo dưỡng hiệu chuẩn thiết bị phòng thí nghiệm Miền Bắc" name="DC.title" />
+<meta content="VN-HN" name="geo.region" />
+<meta content="Miền Bắc" name="geo.placename" />
+<meta content="14;108" name="geo.position" />
+<meta content="14, 108" name="ICBM" />
+    </div>
+</div>
+<div class="copyright group">
+	<div class="container group">
+    	<div class="col col_9">
+            <p class="copy-right">
+&nbsp;
+            </p>
+        </div>
+<div class="col col_3"><p class="designedby">Designed by <a  title="Gian hàng trực tuyến Việt Nam" href="http://gianhangvn.com">GianHangVN</a></p></div>
+    </div>
+</div>
+<div id="ctl00_divAdLeftModule" class="adv-leftslider">
+
+<a href="javascript:void(0);" class="fancybox-close adv-close" id="advCloseLeftAdvert" style="right:-3px;"></a>
+</div>    
+<div id="ctl00_divAdRightModule" class="adv-rightslider">
+
+<a href="javascript:void(0);" class="fancybox-close adv-close" id="advCloseRightAdvert" style="left:-5px;"></a>
+</div>
+<p id="back-top"><a href="javascript:void();" title="Scroll To Top"><i class="fa fa-angle-up"></i>Top</a></p>
+<a class="btn-call-now" href="tel:02432121726" onclick="goog_report_conversion('tel:02432121726')"><em class="fa fa-phone">&nbsp; </em></a>  
+
+<a class="btn-shopping-cart" href="/gio-hang.html"><em class="fa fa-shopping-cart">&nbsp;</em><span class="btn-shopping-cart-number">(<span class="total-product">0</span>)</span></a>  
+
+
+<script type="text/javascript">
+    window.fbAsyncInit = function () {
+        FB.init({
+            appId: '',
+            xfbml: true,
+            version: 'v2.9'
+        });
+    };
+    (function (d, s, id) {
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) { return; }
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/vi_VN/sdk.js";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
+    var keylang = 'vi';
+    function FormatNumber(pNumber) {
+        var num = pNumber.toString().replace(/\$|\,/g, '');
+        if (isNaN(num)) {
+            num = "";
+        }
+        sign = (num == (num = Math.abs(num)));
+        num = Math.floor(num * 100 + 0.50000000001);
+        num = Math.floor(num / 100).toString();
+        for (var i = 0; i < Math.floor((num.length - (1 + i)) / 3) ; i++) {
+            num = num.substring(0, num.length - (4 * i + 3)) + ',' + num.substring(num.length - (4 * i + 3));
+        }
+        return (((sign) ? '' : '-') + num);
+    }
+
+    function IsCheckValidTuKhoaTimKiem() {
+        var valid = true;
+        
+        if ($("#txtTuKhoaTimKiem").val().trim().length == 0) {
+            valid = false;
+            alert(ObjLangs["master_msg01"]);
+            $("#txtTuKhoaTimKiem").focus();
+        }
+        else if ($("#txtTuKhoaTimKiem").val().trim().length < 3) {
+            valid = false;
+            alert(ObjLangs["master_msg02"]);
+            $("#txtTuKhoaTimKiem").focus();
+        }
+        return valid;
+    }
+    
+    function AddSanPhamToGioHang(pIDSanPham, pSoLuong) {
+        var SoSanPham = AjaxKhachHang.AddSanPhamToGioHang(pIDSanPham, pSoLuong).value;
+        if (SoSanPham != null && SoSanPham > 0) {
+            $(".total-product").html(SoSanPham);
+            alert(ObjLangs["master_msg03"]);
+        }
+        else {
+            alert(ObjLangs["master_msg04"]);
+        }
+    }
+
+    function SearchData(){
+        if (IsCheckValidTuKhoaTimKiem()) {
+            var textsearch = $("#txtTuKhoaTimKiem").val().trim();
+            window.location.href = "http://3bscitech.vn/san-pham.html?txt=" + textsearch;
+        }
+    }
+
+    $(document).ready(function () {
+        if (window.parent != window && location.href.toLowerCase().indexOf('gianhangvn.com') != -1) {
+            alert('Trang web bạn đang vào chưa được tích hợp tên miền chính thức với hệ thống của GianHangVN.Com.');
+            window.open(location.href, '_top', '');
+        }
+
+        $("#txtTuKhoaTimKiem").keypress(function (event) {
+            if (event.which == 13) {
+                SearchData();
+            }
+        });
+
+        //Click event Left Advert banner
+        $('#advCloseLeftAdvert').click(function () {
+            $(this).parent().addClass("none");
+            AjaxKhachHang.CloseLeftAdvert();
+        });
+
+        //Click event Right Advert banner
+        $('#advCloseRightAdvert').click(function () {
+            $(this).parent().addClass("none");
+            AjaxKhachHang.CloseRightAdvert();
+        });
+
+        $(".fancybox").fancybox();
+
+        $('*[lang]').each(function () {
+            if (this.tagName.toLowerCase() == 'input') {
+                if (!$(this).val()) {
+                    $(this).attr("placeholder", ObjLangs[$(this).attr('lang')]);
+                }
+            }
+            else {
+                $(this).html(ObjLangs[$(this).attr('lang')])
+            }
+        });
+    });
+
+</script>
+</body>
 </html>
