@@ -1,5 +1,4 @@
-# tu-say-lo-nung-thi-nghiem
-Cung cấp tủ sấy lò nung thí nghiệm hãng SH SCIENTIFIC
+
 <html xmlns:v="urn:schemas-microsoft-com:vml"
 xmlns:o="urn:schemas-microsoft-com:office:office"
 xmlns:w="urn:schemas-microsoft-com:office:word"
@@ -13,29 +12,20 @@ xmlns="http://www.w3.org/TR/REC-html40">
 <meta name=Originator content="Microsoft Word 15">
 <link rel=File-List
 href="&#7912;ng%20d&#7909;ng%20t&#7911;%20s&#7845;y%20thí%20nghi&#7879;m_files/filelist.xml">
-<link rel=Edit-Time-Data
-href="&#7912;ng%20d&#7909;ng%20t&#7911;%20s&#7845;y%20thí%20nghi&#7879;m_files/editdata.mso">
-<!--[if !mso]>
-<style>
-v\:* {behavior:url(#default#VML);}
-o\:* {behavior:url(#default#VML);}
-w\:* {behavior:url(#default#VML);}
-.shape {behavior:url(#default#VML);}
-</style>
-<![endif]--><!--[if gte mso 9]><xml>
+<!--[if gte mso 9]><xml>
  <o:DocumentProperties>
   <o:Author>nguyen juzo</o:Author>
   <o:LastAuthor>nguyen juzo</o:LastAuthor>
-  <o:Revision>2</o:Revision>
-  <o:TotalTime>430</o:TotalTime>
+  <o:Revision>3</o:Revision>
+  <o:TotalTime>438</o:TotalTime>
   <o:Created>2018-02-27T02:29:00Z</o:Created>
-  <o:LastSaved>2018-02-27T02:29:00Z</o:LastSaved>
+  <o:LastSaved>2018-02-27T02:37:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Words>680</o:Words>
-  <o:Characters>3880</o:Characters>
+  <o:Words>679</o:Words>
+  <o:Characters>3876</o:Characters>
   <o:Lines>32</o:Lines>
   <o:Paragraphs>9</o:Paragraphs>
-  <o:CharactersWithSpaces>4551</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>4546</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -48,6 +38,8 @@ href="&#7912;ng%20d&#7909;ng%20t&#7911;%20s&#7845;y%20thí%20nghi&#7879;m_files/
 href="&#7912;ng%20d&#7909;ng%20t&#7911;%20s&#7845;y%20thí%20nghi&#7879;m_files/colorschememapping.xml">
 <!--[if gte mso 9]><xml>
  <w:WordDocument>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
   <w:TrackMoves>false</w:TrackMoves>
   <w:TrackFormatting/>
   <w:PunctuationKerning/>
@@ -859,6 +851,12 @@ span.Heading3Char
 	mso-fareast-font-family:"Times New Roman";
 	mso-bidi-font-family:"Times New Roman";
 	font-weight:bold;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
 .MsoChpDefault
 	{mso-style-type:export-only;
 	mso-default-props:yes;
@@ -1680,43 +1678,14 @@ ul
 normal;mso-outline-level:2;vertical-align:baseline'><b><span style='font-size:
 16.5pt;font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
 color:blue'><br>
-&#7912;ng d&#7909;ng t&#7911; s&#7845;y lò nung&nbsp;thí nghi&#7879;m</span></b><b><span
-style='font-size:10.5pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
-"Times New Roman";color:#222222'><o:p></o:p></span></b></p>
+<span class=SpellE>&#7912;ng</span> <span class=SpellE>d&#7909;ng</span>
+t&#7911; s&#7845;y <span class=SpellE>lò</span> <span class=SpellE>nung</span>&nbsp;thí
+nghi&#7879;m</span></b><b><span style='font-size:10.5pt;font-family:"Tahoma",sans-serif;
+mso-fareast-font-family:"Times New Roman";color:#222222'><o:p></o:p></span></b></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;vertical-align:baseline'><i style='mso-bidi-font-style:normal'><span
-style='font-size:10.5pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
-"Times New Roman";color:#222222;mso-no-proof:yes'><!--[if gte vml 1]><v:shapetype
- id="_x0000_t75" coordsize="21600,21600" o:spt="75" o:preferrelative="t"
- path="m@4@5l@4@11@9@11@9@5xe" filled="f" stroked="f">
- <v:stroke joinstyle="miter"/>
- <v:formulas>
-  <v:f eqn="if lineDrawn pixelLineWidth 0"/>
-  <v:f eqn="sum @0 1 0"/>
-  <v:f eqn="sum 0 0 @1"/>
-  <v:f eqn="prod @2 1 2"/>
-  <v:f eqn="prod @3 21600 pixelWidth"/>
-  <v:f eqn="prod @3 21600 pixelHeight"/>
-  <v:f eqn="sum @0 0 1"/>
-  <v:f eqn="prod @6 1 2"/>
-  <v:f eqn="prod @7 21600 pixelWidth"/>
-  <v:f eqn="sum @8 21600 0"/>
-  <v:f eqn="prod @7 21600 pixelHeight"/>
-  <v:f eqn="sum @10 21600 0"/>
- </v:formulas>
- <v:path o:extrusionok="f" gradientshapeok="t" o:connecttype="rect"/>
- <o:lock v:ext="edit" aspectratio="t"/>
-</v:shapetype><v:shape id="Picture_x0020_5" o:spid="_x0000_i1029" type="#_x0000_t75"
- alt="T&#7911; s&#7845;y thí nghi&#7879;m" style='width:231pt;height:318.75pt;
- visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="&#7912;ng%20d&#7909;ng%20t&#7911;%20s&#7845;y%20thí%20nghi&#7879;m_files/image001.jpg"
-  o:title="T&#7911; s&#7845;y thí nghi&#7879;m"/>
-</v:shape><![endif]--><![if !vml]><img width=308 height=425
-src="&#7912;ng%20d&#7909;ng%20t&#7911;%20s&#7845;y%20thí%20nghi&#7879;m_files/image001.jpg"
-alt="T&#7911; s&#7845;y thí nghi&#7879;m" v:shapes="Picture_x0020_5"><![endif]></span></i><span
-style='font-size:10.5pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
-"Times New Roman";color:#222222'><o:p></o:p></span></p>
+normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Tahoma",sans-serif;
+mso-fareast-font-family:"Times New Roman";color:#222222'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
 normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Tahoma",sans-serif;
@@ -1734,24 +1703,52 @@ href="http://3bscitech.vn/tu-say-phong-thi-nghiem-han-quoc-sh-scientific-tiet-tr
 target="_blank"><span style='color:mediumblue;text-decoration:none;text-underline:
 none'>T&#7911; s&#7845;y</span></a>,</span></u></i></b><i><span
 style='font-size:10.5pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
-"Times New Roman";color:#222222'>&nbsp;</span></i><i><span style='font-size:
-10.5pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:"Times New Roman";
-color:#222222'><a
+"Times New Roman";color:#222222'>&nbsp;</span></i><span class=SpellE><i><span
+style='font-size:10.5pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
+"Times New Roman";color:#222222'><a
 href="http://3bscitech.vn/lo-nung-samheung-sh-scientifc-329052s.html"
-target="_blank"><b><span style='font-family:"Arial",sans-serif;color:mediumblue'>lò
-nung</span></b></a></span></i><i><span style='font-size:10.5pt;font-family:
-"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;trong
-phòng thí nghi&#7879;m &#273;&#432;&#7907;c s&#7917; d&#7909;ng trong các phòng
-thí nghi&#7879;m &#7903; ngành nh&#432; công ngh&#7879; sinh h&#7885;c,
-d&#432;&#7907;c ph&#7849;m và s&#7843;n xu&#7845;t nguyên li&#7879;u và công
-nghi&#7879;p. Các ngành này th&#432;&#7901;ng &#273;òi h&#7887;i quá trình
-s&#7845;y, n&#432;&#7899;ng, b&#7843;o d&#432;&#7905;ng, &#7911; và làm khô các
-v&#7853;t li&#7879;u có thành ph&#7847;n hóa h&#7885;c và ch&#7845;t khác nhau.
-Nhi&#7873;u &#7913;ng d&#7909;ng chuyên&nbsp;bi&#7879;t thì c&#7847;n các quá
-trình th&#7921;c hi&#7879;n và lò &#273;&#432;&#7907;c thi&#7871;t k&#7871;
-riêng &#273;&#7875; &#273;&#7843;m b&#7843;o vi&#7879;c nghi&#7879;n c&#7913;u,
-phát tri&#7875;n ho&#7863;c ki&#7875;m tra &#273;&#432;&#7907;c ti&#7871;n hành
-thu&#7853;n l&#7907;i.&nbsp;</span></i><span style='font-size:10.5pt;
+target="_blank"><b><span style='font-family:"Arial",sans-serif;color:mediumblue'>lò</span></b><b><span
+style='font-family:"Arial",sans-serif;color:mediumblue'> nung</span></b></a></span></i></span><i><span
+style='font-size:10.5pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
+"Times New Roman";color:#222222'>&nbsp;<span class=SpellE>trong</span> <span
+class=SpellE>phòng</span> thí nghi&#7879;m <span class=SpellE>&#273;&#432;&#7907;c</span>
+<span class=SpellE>s&#7917;</span> <span class=SpellE>d&#7909;ng</span> <span
+class=SpellE>trong</span> <span class=SpellE>các</span> <span class=SpellE>phòng</span>
+thí nghi&#7879;m &#7903; <span class=SpellE>ngành</span> <span class=SpellE>nh&#432;</span>
+<span class=SpellE>công</span> <span class=SpellE>ngh&#7879;</span> <span
+class=SpellE>sinh</span> <span class=SpellE>h&#7885;c</span>, <span
+class=SpellE>d&#432;&#7907;c</span> <span class=SpellE>ph&#7849;m</span> <span
+class=SpellE>và</span> <span class=SpellE>s&#7843;n</span> <span class=SpellE>xu&#7845;t</span>
+<span class=SpellE>nguyên</span> <span class=SpellE>li&#7879;u</span> <span
+class=SpellE>và</span> <span class=SpellE>công</span> <span class=SpellE>nghi&#7879;p</span>.
+<span class=SpellE>Các</span> <span class=SpellE>ngành</span> <span
+class=SpellE>này</span> <span class=SpellE>th&#432;&#7901;ng</span> <span
+class=SpellE>&#273;òi</span> <span class=SpellE>h&#7887;i</span> <span
+class=SpellE>quá</span> <span class=SpellE>trình</span> s&#7845;y, <span
+class=SpellE>n&#432;&#7899;ng</span>, <span class=SpellE>b&#7843;o</span> <span
+class=SpellE>d&#432;&#7905;ng</span>, &#7911; <span class=SpellE>và</span> <span
+class=SpellE>làm</span> <span class=SpellE>khô</span> <span class=SpellE>các</span>
+<span class=SpellE>v&#7853;t</span> <span class=SpellE>li&#7879;u</span> <span
+class=SpellE>có</span> <span class=SpellE>thành</span> <span class=SpellE>ph&#7847;n</span>
+<span class=SpellE>hóa</span> <span class=SpellE>h&#7885;c</span> <span
+class=SpellE>và</span> <span class=SpellE>ch&#7845;t</span> <span class=SpellE>khác</span>
+<span class=SpellE>nhau</span>. <span class=SpellE>Nhi&#7873;u</span> <span
+class=SpellE>&#7913;ng</span> <span class=SpellE>d&#7909;ng</span> <span
+class=SpellE>chuyên</span>&nbsp;<span class=SpellE>bi&#7879;t</span> <span
+class=SpellE>thì</span> <span class=SpellE>c&#7847;n</span> <span class=SpellE>các</span>
+<span class=SpellE>quá</span> <span class=SpellE>trình</span> <span
+class=SpellE>th&#7921;c</span> <span class=SpellE>hi&#7879;n</span> <span
+class=SpellE>và</span> <span class=SpellE>lò</span> <span class=SpellE>&#273;&#432;&#7907;c</span>
+<span class=SpellE>thi&#7871;t</span> <span class=SpellE>k&#7871;</span> <span
+class=SpellE>riêng</span> <span class=SpellE>&#273;&#7875;</span> <span
+class=SpellE>&#273;&#7843;m</span> <span class=SpellE>b&#7843;o</span> <span
+class=SpellE>vi&#7879;c</span> <span class=SpellE>nghi&#7879;n</span> <span
+class=SpellE>c&#7913;u</span>, <span class=SpellE>phát</span> <span
+class=SpellE>tri&#7875;n</span> <span class=SpellE>ho&#7863;c</span> <span
+class=SpellE>ki&#7875;m</span> <span class=SpellE>tra</span> <span
+class=SpellE>&#273;&#432;&#7907;c</span> <span class=SpellE>ti&#7871;n</span> <span
+class=SpellE>hành</span> <span class=SpellE>thu&#7853;n</span> <span
+class=SpellE>l&#7907;i</span>.&nbsp;</span></i><span style='font-size:10.5pt;
 font-family:"Tahoma",sans-serif;mso-fareast-font-family:"Times New Roman";
 color:#222222'><o:p></o:p></span></p>
 
@@ -1764,12 +1761,16 @@ normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Tahom
 mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;mso-outline-level:3;vertical-align:baseline'><b><span style='font-size:
-12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
-color:#222222'>&#272;&#7883;nh ngh&#297;a c&#7911;a m&#7897;t s&#7889;
-thu&#7853;t ng&#7919; thông d&#7909;ng.</span></b><b><span style='font-size:
-10.5pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:"Times New Roman";
-color:#222222'><o:p></o:p></span></b></p>
+normal;mso-outline-level:3;vertical-align:baseline'><span class=SpellE><b><span
+style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
+"Times New Roman";color:#222222'>&#272;&#7883;nh</span></b></span><b><span
+style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
+"Times New Roman";color:#222222'> <span class=SpellE>ngh&#297;a</span> <span
+class=SpellE>c&#7911;a</span> <span class=SpellE>m&#7897;t</span> s&#7889; <span
+class=SpellE>thu&#7853;t</span> <span class=SpellE>ng&#7919;</span> <span
+class=SpellE>thông</span> <span class=SpellE>d&#7909;ng</span>.</span></b><b><span
+style='font-size:10.5pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
+"Times New Roman";color:#222222'><o:p></o:p></span></b></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
 normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Tahoma",sans-serif;
@@ -1779,12 +1780,25 @@ mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span
 normal;vertical-align:baseline'><b><span style='font-size:10.5pt;font-family:
 "Arial",sans-serif;mso-fareast-font-family:"Times New Roman";color:#222222'>Baking:</span></b><span
 style='font-size:10.5pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
-"Times New Roman";color:#222222'>&nbsp;là quá trình làm &nbsp;nóng v&#7853;t
-li&#7879;u mà không yêu c&#7847;u v&#7873; &#273;&#7891; &#7849;m. không
-b&#7883; hút &#7849;m. Các phòng thí nghi&#7879;m d&#432;&#7907;c ph&#7849;m,
-s&#7843;n xu&#7845;t và khoa h&#7885;c v&#7853;t li&#7879;u th&#432;&#7901;ng
-s&#7917; d&#7909;ng lò s&#7845;y t&#7921; nhiên cho lo&#7841;i &#7913;ng
-d&#7909;ng này.</span><span style='font-size:10.5pt;font-family:"Tahoma",sans-serif;
+"Times New Roman";color:#222222'>&nbsp;<span class=SpellE>là</span> <span
+class=SpellE>quá</span> <span class=SpellE>trình</span> <span class=SpellE><span
+class=GramE>làm</span></span><span class=GramE> &nbsp;<span class=SpellE>nóng</span></span>
+<span class=SpellE>v&#7853;t</span> <span class=SpellE>li&#7879;u</span> <span
+class=SpellE>mà</span> <span class=SpellE>không</span> <span class=SpellE>yêu</span>
+<span class=SpellE>c&#7847;u</span> <span class=SpellE>v&#7873;</span> <span
+class=SpellE>&#273;&#7891;</span> <span class=SpellE>&#7849;m</span>. <span
+class=SpellE>không</span> <span class=SpellE>b&#7883;</span> <span
+class=SpellE>hút</span> <span class=SpellE>&#7849;m</span>. <span class=SpellE>Các</span>
+<span class=SpellE>phòng</span> thí nghi&#7879;m <span class=SpellE>d&#432;&#7907;c</span>
+<span class=SpellE>ph&#7849;m</span>, <span class=SpellE>s&#7843;n</span> <span
+class=SpellE>xu&#7845;t</span> <span class=SpellE>và</span> <span class=SpellE>khoa</span>
+<span class=SpellE>h&#7885;c</span> <span class=SpellE>v&#7853;t</span> <span
+class=SpellE>li&#7879;u</span> <span class=SpellE>th&#432;&#7901;ng</span> <span
+class=SpellE>s&#7917;</span> <span class=SpellE>d&#7909;ng</span> <span
+class=SpellE>lò</span> s&#7845;y <span class=SpellE>t&#7921;</span> <span
+class=SpellE>nhiên</span> <span class=SpellE>cho</span> <span class=SpellE>lo&#7841;i</span>
+<span class=SpellE>&#7913;ng</span> <span class=SpellE>d&#7909;ng</span> <span
+class=SpellE>này</span>.</span><span style='font-size:10.5pt;font-family:"Tahoma",sans-serif;
 mso-fareast-font-family:"Times New Roman";color:#222222'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
@@ -1794,85 +1808,29 @@ mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
 normal;vertical-align:baseline'><b><span style='font-size:10.5pt;font-family:
 "Arial",sans-serif;mso-fareast-font-family:"Times New Roman";color:#222222'>Curing:
-l</span></b><span style='font-size:10.5pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>à quá trình làm
-c&#7913;ng thành ph&#7847;n hóa h&#7885;c c&#7911;a m&#7897;t ch&#7845;t thông
-qua ho&#7841;t &#273;&#7897;ng k&#7871;t h&#7907;p c&#7911;a s&#7845;y khô và
-baking. Quá trình này th&#432;&#7901;ng &#273;&#432;&#7907;c s&#7917;
-d&#7909;ng trong s&#7843;n xu&#7845;t epoxies, keo, nh&#7921;a và cao su trong
-nghiên c&#7913;u polymer, công ngh&#7879; nano và bán d&#7851;n.</span><span
-style='font-size:10.5pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
-"Times New Roman";color:#222222'><o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Tahoma",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Tahoma",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Tahoma",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Tahoma",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Tahoma",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;vertical-align:baseline'><b style='mso-bidi-font-weight:normal'><span
+<span class=SpellE>l<span style='font-weight:normal'>à</span></span></span></b><span
 style='font-size:10.5pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
-"Times New Roman";color:#222222;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
- id="Picture_x0020_4" o:spid="_x0000_i1028" type="#_x0000_t75" alt="t&#7911; s&#7845;y chân không thí nghi&#7879;m"
- style='width:225pt;height:188.25pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="&#7912;ng%20d&#7909;ng%20t&#7911;%20s&#7845;y%20thí%20nghi&#7879;m_files/image002.jpg"
-  o:title="t&#7911; s&#7845;y chân không thí nghi&#7879;m"/>
-</v:shape><![endif]--><![if !vml]><img border=0 width=300 height=251
-src="&#7912;ng%20d&#7909;ng%20t&#7911;%20s&#7845;y%20thí%20nghi&#7879;m_files/image002.jpg"
-alt="t&#7911; s&#7845;y chân không thí nghi&#7879;m" v:shapes="Picture_x0020_4"><![endif]></span></b><b><span
-style='font-size:10.5pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
-"Times New Roman";color:#222222'>Annealing:&nbsp;</span></b><span
-style='font-size:10.5pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
-"Times New Roman";color:#222222'>là quá trình làm nóng sau &#273;ó làm
-ngu&#7897;i v&#7853;t li&#7879;u ( th&#7911;y tinh ho&#7863;c thép) v&#7899;i
-m&#7909;c &#273;ích làm tang tính d&#7867;o dai. R&#7845;t nhi&#7873;u
-&#7913;ng d&#7909;ng trong luy&#7879;n kim, s&#7843;n xu&#7845;t thi&#7871;t
-b&#7883; y t&#7871; và các ngành khoa h&#7885;c v&#7853;t li&#7879;u s&#7917;
-d&#7909;ng lò nung nhi&#7879;t &#273;&#7897; cao cho quá trình này. Lò nung
-phòng s&#7841;ch b&#7857;ng thép không g&#7881; &#273;&#432;&#7907;c ngành công
-nghi&#7879;p ch&#259;m sóc s&#7913;c kho&#7867; s&#7917; d&#7909;ng
-&#273;&#7875; &#7911; ch&#7845;t d&#7867;o lên &#7889;ng tiêm và &#7889;ng
-thông.</span><span style='font-size:10.5pt;font-family:"Tahoma",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'><o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Tahoma",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;vertical-align:baseline'><b><span style='font-size:10.5pt;font-family:
-"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";color:#222222'>Drying
-oven,</span></b><span style='font-size:10.5pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;là t&#7911; &#273;&#432;&#7907;c
-s&#7917; d&#7909;ng ph&#7893; bi&#7871;n trong phòng thí nghi&#7879;m,
-lo&#7841;i b&#7887; &#273;&#7897; &#7849;m t&#7915; các m&#7851;u.
-&#272;&#7889;i l&#432;u t&#7921; nhiên, &#273;&#7889;i l&#432;u
-c&#432;&#7905;ng b&#7913;c và lò s&#7845;y chân không &#273;&#432;&#7907;c
-s&#7917; d&#7909;ng cho các quy trình s&#7845;y tiêu chu&#7849;n b&#7903;i các
-phòng thí nghi&#7879;m môi tr&#432;&#7901;ng, sinh h&#7885;c và lâm sàng. Các
-m&#7851;u sinh h&#7885;c nh&#7841;y c&#7843;m v&#7899;i &#273;&#7897; &#7849;m
-quá cao ho&#7863;c kh&#7843; n&#259;ng ch&#7883;u nhi&#7879;t kém thì
-th&#432;&#7901;ng dùng các t&#7911; s&#7845;y áp su&#7845;t th&#7845;p
-ho&#7863;c chân không. Nh&#7919;ng lo&#7841;i lò nung này lo&#7841;i b&#7887;
-&#273;&#7897; &#7849;m và gi&#7843;m &#273;i&#7875;m sôi c&#7911;a
-n&#432;&#7899;c cho phép m&#7851;u &#273;&#432;&#7907;c s&#7845;y khô &#7903;
-nhi&#7879;t &#273;&#7897; th&#7845;p h&#417;n.</span><span style='font-size:
-10.5pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:"Times New Roman";
+"Times New Roman";color:#222222'> <span class=SpellE>quá</span> <span
+class=SpellE>trình</span> <span class=SpellE>làm</span> <span class=SpellE>c&#7913;ng</span>
+<span class=SpellE>thành</span> <span class=SpellE>ph&#7847;n</span> <span
+class=SpellE>hóa</span> <span class=SpellE>h&#7885;c</span> <span class=SpellE>c&#7911;a</span>
+<span class=SpellE>m&#7897;t</span> <span class=SpellE>ch&#7845;t</span> <span
+class=SpellE>thông</span> qua <span class=SpellE>ho&#7841;t</span> <span
+class=SpellE>&#273;&#7897;ng</span> <span class=SpellE>k&#7871;t</span> <span
+class=SpellE>h&#7907;p</span> <span class=SpellE>c&#7911;a</span> s&#7845;y <span
+class=SpellE>khô</span> <span class=SpellE>và</span> baking. <span
+class=SpellE>Quá</span> <span class=SpellE>trình</span> <span class=SpellE>này</span>
+<span class=SpellE>th&#432;&#7901;ng</span> <span class=SpellE>&#273;&#432;&#7907;c</span>
+<span class=SpellE>s&#7917;</span> <span class=SpellE>d&#7909;ng</span> <span
+class=SpellE>trong</span> <span class=SpellE>s&#7843;n</span> <span
+class=SpellE>xu&#7845;t</span> epoxies, <span class=SpellE>keo</span>, <span
+class=SpellE>nh&#7921;a</span> <span class=SpellE>và</span> <span class=SpellE>cao</span>
+<span class=SpellE>su</span> <span class=SpellE>trong</span> <span
+class=SpellE>nghiên</span> <span class=SpellE>c&#7913;u</span> polymer, <span
+class=SpellE>công</span> <span class=SpellE>ngh&#7879;</span> <span
+class=SpellE>nano</span> <span class=SpellE>và</span> <span class=SpellE>bán</span>
+<span class=SpellE>d&#7851;n</span>.</span><span style='font-size:10.5pt;
+font-family:"Tahoma",sans-serif;mso-fareast-font-family:"Times New Roman";
 color:#222222'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
@@ -1888,21 +1846,136 @@ normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Tahom
 mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;vertical-align:baseline'><b><span style='font-size:12.0pt;font-family:
-"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";color:#222222'>Các
-&#7913;ng d&#7909;ng c&#417; b&#7843;n và chuyên sâu c&#7911;a t&#7911;
-s&#7845;y, lò nung.</span></b><b style='mso-bidi-font-weight:normal'><span
-style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
-"Times New Roman";color:#222222;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
- id="Picture_x0020_3" o:spid="_x0000_i1027" type="#_x0000_t75" alt="t&#7911; s&#7845;y thí nghi&#7879;m c&#417; b&#7843;n"
- style='width:159pt;height:225pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="&#7912;ng%20d&#7909;ng%20t&#7911;%20s&#7845;y%20thí%20nghi&#7879;m_files/image003.jpg"
-  o:title="t&#7911; s&#7845;y thí nghi&#7879;m c&#417; b&#7843;n"/>
-</v:shape><![endif]--><![if !vml]><img border=0 width=212 height=300
-src="&#7912;ng%20d&#7909;ng%20t&#7911;%20s&#7845;y%20thí%20nghi&#7879;m_files/image003.jpg"
-alt="t&#7911; s&#7845;y thí nghi&#7879;m c&#417; b&#7843;n" v:shapes="Picture_x0020_3"><![endif]></span></b><span
-style='font-size:10.5pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
-"Times New Roman";color:#222222'><o:p></o:p></span></p>
+normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Tahoma",sans-serif;
+mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Tahoma",sans-serif;
+mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+normal;vertical-align:baseline'><b><span style='font-size:10.5pt;font-family:
+"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";color:#222222'>Annealing:&nbsp;</span></b><span
+class=SpellE><span style='font-size:10.5pt;font-family:"Arial",sans-serif;
+mso-fareast-font-family:"Times New Roman";color:#222222'>là</span></span><span
+style='font-size:10.5pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
+"Times New Roman";color:#222222'> <span class=SpellE>quá</span> <span
+class=SpellE>trình</span> <span class=SpellE>làm</span> <span class=SpellE>nóng</span>
+<span class=SpellE>sau</span> <span class=SpellE>&#273;ó</span> <span
+class=SpellE>làm</span> <span class=SpellE>ngu&#7897;i</span> <span
+class=SpellE>v&#7853;t</span> <span class=SpellE>li&#7879;u</span> <span
+class=GramE>( <span class=SpellE>th&#7911;y</span></span> <span class=SpellE>tinh</span>
+<span class=SpellE>ho&#7863;c</span> <span class=SpellE>thép</span>) <span
+class=SpellE>v&#7899;i</span> <span class=SpellE>m&#7909;c</span> <span
+class=SpellE>&#273;ích</span> <span class=SpellE>làm</span> tang <span
+class=SpellE>tính</span> <span class=SpellE>d&#7867;o</span> <span
+class=SpellE>dai</span>. <span class=SpellE>R&#7845;t</span> <span
+class=SpellE>nhi&#7873;u</span> <span class=SpellE>&#7913;ng</span> <span
+class=SpellE>d&#7909;ng</span> <span class=SpellE>trong</span> <span
+class=SpellE>luy&#7879;n</span> <span class=SpellE>kim</span>, <span
+class=SpellE>s&#7843;n</span> <span class=SpellE>xu&#7845;t</span> <span
+class=SpellE>thi&#7871;t</span> <span class=SpellE>b&#7883;</span> y <span
+class=SpellE>t&#7871;</span> <span class=SpellE>và</span> <span class=SpellE>các</span>
+<span class=SpellE>ngành</span> <span class=SpellE>khoa</span> <span
+class=SpellE>h&#7885;c</span> <span class=SpellE>v&#7853;t</span> <span
+class=SpellE>li&#7879;u</span> <span class=SpellE>s&#7917;</span> <span
+class=SpellE>d&#7909;ng</span> <span class=SpellE>lò</span> <span class=SpellE>nung</span>
+<span class=SpellE>nhi&#7879;t</span> &#273;&#7897; <span class=SpellE>cao</span>
+<span class=SpellE>cho</span> <span class=SpellE>quá</span> <span class=SpellE>trình</span>
+<span class=SpellE>này</span>. <span class=SpellE>Lò</span> <span class=SpellE>nung</span>
+<span class=SpellE>phòng</span> <span class=SpellE>s&#7841;ch</span> <span
+class=SpellE>b&#7857;ng</span> <span class=SpellE>thép</span> <span
+class=SpellE>không</span> <span class=SpellE>g&#7881;</span> <span
+class=SpellE>&#273;&#432;&#7907;c</span> <span class=SpellE>ngành</span> <span
+class=SpellE>công</span> <span class=SpellE>nghi&#7879;p</span> <span
+class=SpellE>ch&#259;m</span> <span class=SpellE>sóc</span> <span class=SpellE>s&#7913;c</span>
+<span class=SpellE>kho&#7867;</span> <span class=SpellE>s&#7917;</span> <span
+class=SpellE>d&#7909;ng</span> <span class=SpellE>&#273;&#7875;</span> &#7911; <span
+class=SpellE>ch&#7845;t</span> <span class=SpellE>d&#7867;o</span> <span
+class=SpellE>lên</span> <span class=SpellE>&#7889;ng</span> <span class=SpellE>tiêm</span>
+<span class=SpellE>và</span> <span class=SpellE>&#7889;ng</span> <span
+class=SpellE>thông</span>.</span><span style='font-size:10.5pt;font-family:
+"Tahoma",sans-serif;mso-fareast-font-family:"Times New Roman";color:#222222'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Tahoma",sans-serif;
+mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+normal;vertical-align:baseline'><b><span style='font-size:10.5pt;font-family:
+"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";color:#222222'>Drying
+oven,</span></b><span style='font-size:10.5pt;font-family:"Arial",sans-serif;
+mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<span
+class=SpellE>là</span> t&#7911; <span class=SpellE>&#273;&#432;&#7907;c</span> <span
+class=SpellE>s&#7917;</span> <span class=SpellE>d&#7909;ng</span> <span
+class=SpellE>ph&#7893;</span> <span class=SpellE>bi&#7871;n</span> <span
+class=SpellE>trong</span> <span class=SpellE>phòng</span> thí nghi&#7879;m, <span
+class=SpellE>lo&#7841;i</span> <span class=SpellE>b&#7887;</span> &#273;&#7897;
+<span class=SpellE>&#7849;m</span> <span class=SpellE>t&#7915;</span> <span
+class=SpellE>các</span> <span class=SpellE>m&#7851;u</span>. <span
+class=SpellE>&#272;&#7889;i</span> <span class=SpellE>l&#432;u</span> <span
+class=SpellE>t&#7921;</span> <span class=SpellE>nhiên</span>, <span
+class=SpellE>&#273;&#7889;i</span> <span class=SpellE>l&#432;u</span> <span
+class=SpellE>c&#432;&#7905;ng</span> <span class=SpellE>b&#7913;c</span> <span
+class=SpellE>và</span> <span class=SpellE>lò</span> s&#7845;y <span
+class=SpellE>chân</span> <span class=SpellE>không</span> <span class=SpellE>&#273;&#432;&#7907;c</span>
+<span class=SpellE>s&#7917;</span> <span class=SpellE>d&#7909;ng</span> <span
+class=SpellE>cho</span> <span class=SpellE>các</span> <span class=SpellE>quy</span>
+<span class=SpellE>trình</span> s&#7845;y <span class=SpellE>tiêu</span> <span
+class=SpellE>chu&#7849;n</span> <span class=SpellE>b&#7903;i</span> <span
+class=SpellE>các</span> <span class=SpellE>phòng</span> thí nghi&#7879;m <span
+class=SpellE>môi</span> <span class=SpellE>tr&#432;&#7901;ng</span>, <span
+class=SpellE>sinh</span> <span class=SpellE>h&#7885;c</span> <span
+class=SpellE>và</span> <span class=SpellE>lâm</span> <span class=SpellE>sàng</span>.
+<span class=SpellE>Các</span> <span class=SpellE>m&#7851;u</span> <span
+class=SpellE>sinh</span> <span class=SpellE>h&#7885;c</span> <span
+class=SpellE>nh&#7841;y</span> <span class=SpellE>c&#7843;m</span> <span
+class=SpellE>v&#7899;i</span> &#273;&#7897; <span class=SpellE>&#7849;m</span> <span
+class=SpellE>quá</span> <span class=SpellE>cao</span> <span class=SpellE>ho&#7863;c</span>
+<span class=SpellE>kh&#7843;</span> <span class=SpellE>n&#259;ng</span> <span
+class=SpellE>ch&#7883;u</span> <span class=SpellE>nhi&#7879;t</span> <span
+class=SpellE>kém</span> <span class=SpellE>thì</span> <span class=SpellE>th&#432;&#7901;ng</span>
+<span class=SpellE>dùng</span> <span class=SpellE>các</span> t&#7911; s&#7845;y
+<span class=SpellE>áp</span> <span class=SpellE>su&#7845;t</span> <span
+class=SpellE>th&#7845;p</span> <span class=SpellE>ho&#7863;c</span> <span
+class=SpellE>chân</span> <span class=SpellE>không</span>. <span class=SpellE>Nh&#7919;ng</span>
+<span class=SpellE>lo&#7841;i</span> <span class=SpellE>lò</span> <span
+class=SpellE>nung</span> <span class=SpellE>này</span> <span class=SpellE>lo&#7841;i</span>
+<span class=SpellE>b&#7887;</span> &#273;&#7897; <span class=SpellE>&#7849;m</span>
+<span class=SpellE>và</span> <span class=SpellE>gi&#7843;m</span> <span
+class=SpellE>&#273;i&#7875;m</span> <span class=SpellE>sôi</span> <span
+class=SpellE>c&#7911;a</span> <span class=SpellE>n&#432;&#7899;c</span> <span
+class=SpellE>cho</span> <span class=SpellE>phép</span> <span class=SpellE>m&#7851;u</span>
+<span class=SpellE>&#273;&#432;&#7907;c</span> s&#7845;y <span class=SpellE>khô</span>
+&#7903; <span class=SpellE>nhi&#7879;t</span> &#273;&#7897; <span class=SpellE>th&#7845;p</span>
+<span class=SpellE>h&#417;n</span>.</span><span style='font-size:10.5pt;
+font-family:"Tahoma",sans-serif;mso-fareast-font-family:"Times New Roman";
+color:#222222'><o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Tahoma",sans-serif;
+mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Tahoma",sans-serif;
+mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Tahoma",sans-serif;
+mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+normal;vertical-align:baseline'><span class=SpellE><b><span style='font-size:
+12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
+color:#222222'>Các</span></b></span><b><span style='font-size:12.0pt;
+font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
+color:#222222'> <span class=SpellE>&#7913;ng</span> <span class=SpellE>d&#7909;ng</span>
+<span class=SpellE>c&#417;</span> <span class=SpellE>b&#7843;n</span> <span
+class=SpellE>và</span> <span class=SpellE>chuyên</span> <span class=SpellE>sâu</span>
+<span class=SpellE>c&#7911;a</span> t&#7911; s&#7845;y, <span class=SpellE>lò</span>
+<span class=SpellE>nung</span>.</span></b><span style='font-size:10.5pt;
+font-family:"Tahoma",sans-serif;mso-fareast-font-family:"Times New Roman";
+color:#222222'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
 normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Tahoma",sans-serif;
@@ -1914,22 +1987,48 @@ mso-list:l5 level1 lfo2;tab-stops:list 36.0pt;vertical-align:baseline'><![if !su
 style='font-size:10.0pt;mso-bidi-font-size:10.5pt;font-family:Symbol;
 mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:#222222'><span
 style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><b><span style='font-size:10.5pt;font-family:
-"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";color:#222222'>Các
-&#7913;ng d&#7909;ng c&#417; b&#7843;n</span></b><span style='font-size:10.5pt;
+</span></span></span><![endif]><span class=SpellE><b><span style='font-size:
+10.5pt;font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
+color:#222222'>Các</span></b></span><b><span style='font-size:10.5pt;
 font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
-color:#222222'>&nbsp;c&#7911;a h&#7847;u h&#7871;t các lò s&#7845;y trong phòng
-thí nghi&#7879;m bao g&#7891;m s&#432;&#7903;i &#7845;m và làm khô
-&#273;&#7891; th&#7911;y tinh ho&#7863;c dùng &#273;&#7875; ti&#7879;t trùng
-các d&#7909;ng c&#7909; thí nghi&#7879;m. Lò trong phòng thí nghi&#7879;m
-c&#361;ng th&#432;&#7901;ng &#273;&#432;&#7907;c s&#7917; d&#7909;ng
-&#273;&#7875; th&#7921;c hi&#7879;n ki&#7875;m tra v&#7853;t li&#7879;u
-&#273;&#7875; xác &#273;&#7883;nh &#273;&#7897; b&#7873;n kéo, bi&#7871;n
-d&#7841;ng và kh&#7843; n&#259;ng ph&#7909;c h&#7891;i c&#7911;a nhi&#7873;u
-s&#7843;n ph&#7849;m ch&#7871; t&#7841;o. Các &#7913;ng d&#7909;ng c&#417;
-b&#7843;n c&#7911;a chúng dùng trong quá trình ki&#7875;m tra d&#432;&#7899;i
-&#273;ây:</span><span style='font-size:10.5pt;font-family:"Tahoma",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'><o:p></o:p></span></p>
+color:#222222'> <span class=SpellE>&#7913;ng</span> <span class=SpellE>d&#7909;ng</span>
+<span class=SpellE>c&#417;</span> <span class=SpellE>b&#7843;n</span></span></b><span
+style='font-size:10.5pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
+"Times New Roman";color:#222222'>&nbsp;<span class=SpellE>c&#7911;a</span> <span
+class=SpellE>h&#7847;u</span> <span class=SpellE>h&#7871;t</span> <span
+class=SpellE>các</span> <span class=SpellE>lò</span> s&#7845;y <span
+class=SpellE>trong</span> <span class=SpellE>phòng</span> thí nghi&#7879;m bao <span
+class=SpellE>g&#7891;m</span> <span class=SpellE>s&#432;&#7903;i</span> <span
+class=SpellE>&#7845;m</span> <span class=SpellE>và</span> <span class=SpellE>làm</span>
+<span class=SpellE>khô</span> <span class=SpellE>&#273;&#7891;</span> <span
+class=SpellE>th&#7911;y</span> <span class=SpellE>tinh</span> <span
+class=SpellE>ho&#7863;c</span> <span class=SpellE>dùng</span> <span
+class=SpellE>&#273;&#7875;</span> <span class=SpellE>ti&#7879;t</span> <span
+class=SpellE>trùng</span> <span class=SpellE>các</span> <span class=SpellE>d&#7909;ng</span>
+<span class=SpellE>c&#7909;</span> thí nghi&#7879;m. <span class=SpellE>Lò</span>
+<span class=SpellE>trong</span> <span class=SpellE>phòng</span> thí
+nghi&#7879;m <span class=SpellE>c&#361;ng</span> <span class=SpellE>th&#432;&#7901;ng</span>
+<span class=SpellE>&#273;&#432;&#7907;c</span> <span class=SpellE>s&#7917;</span>
+<span class=SpellE>d&#7909;ng</span> <span class=SpellE>&#273;&#7875;</span> <span
+class=SpellE>th&#7921;c</span> <span class=SpellE>hi&#7879;n</span> <span
+class=SpellE>ki&#7875;m</span> <span class=SpellE>tra</span> <span
+class=SpellE>v&#7853;t</span> <span class=SpellE>li&#7879;u</span> <span
+class=SpellE>&#273;&#7875;</span> <span class=SpellE>xác</span> <span
+class=SpellE>&#273;&#7883;nh</span> &#273;&#7897; b&#7873;n kéo, <span
+class=SpellE>bi&#7871;n</span> <span class=SpellE>d&#7841;ng</span> <span
+class=SpellE>và</span> <span class=SpellE>kh&#7843;</span> <span class=SpellE>n&#259;ng</span>
+<span class=SpellE>ph&#7909;c</span> <span class=SpellE>h&#7891;i</span> <span
+class=SpellE>c&#7911;a</span> <span class=SpellE>nhi&#7873;u</span> <span
+class=SpellE>s&#7843;n</span> <span class=SpellE>ph&#7849;m</span> <span
+class=SpellE>ch&#7871;</span> <span class=SpellE>t&#7841;o</span>. <span
+class=SpellE>Các</span> <span class=SpellE>&#7913;ng</span> <span class=SpellE>d&#7909;ng</span>
+<span class=SpellE>c&#417;</span> <span class=SpellE>b&#7843;n</span> <span
+class=SpellE>c&#7911;a</span> <span class=SpellE>chúng</span> <span
+class=SpellE>dùng</span> <span class=SpellE>trong</span> <span class=SpellE>quá</span>
+<span class=SpellE>trình</span> <span class=SpellE>ki&#7875;m</span> <span
+class=SpellE>tra</span> <span class=SpellE>d&#432;&#7899;i</span> <span
+class=SpellE>&#273;ây</span>:</span><span style='font-size:10.5pt;font-family:
+"Tahoma",sans-serif;mso-fareast-font-family:"Times New Roman";color:#222222'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
 margin-left:30.0pt;margin-bottom:.0001pt;line-height:normal;vertical-align:
@@ -1942,11 +2041,14 @@ mso-list:l9 level1 lfo3;tab-stops:list 36.0pt;vertical-align:baseline'><![if !su
 style='font-size:10.0pt;mso-bidi-font-size:10.5pt;font-family:Symbol;
 mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:#222222'><span
 style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:10.5pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>Ki&#7875;m tra linh
-ki&#7879;n &#273;i&#7879;n t&#7917;.</span><span style='font-size:10.5pt;
-font-family:"Tahoma",sans-serif;mso-fareast-font-family:"Times New Roman";
-color:#222222'><o:p></o:p></span></p>
+</span></span></span><![endif]><span class=SpellE><span style='font-size:10.5pt;
+font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
+color:#222222'>Ki&#7875;m</span></span><span style='font-size:10.5pt;
+font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
+color:#222222'> <span class=SpellE>tra</span> <span class=SpellE>linh</span> <span
+class=SpellE>ki&#7879;n</span> <span class=SpellE>&#273;i&#7879;n</span> <span
+class=SpellE>t&#7917;</span>.</span><span style='font-size:10.5pt;font-family:
+"Tahoma",sans-serif;mso-fareast-font-family:"Times New Roman";color:#222222'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
 margin-left:30.0pt;margin-bottom:.0001pt;line-height:normal;vertical-align:
@@ -1959,11 +2061,18 @@ mso-list:l8 level1 lfo4;tab-stops:list 36.0pt;vertical-align:baseline'><![if !su
 style='font-size:10.0pt;mso-bidi-font-size:10.5pt;font-family:Symbol;
 mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:#222222'><span
 style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:10.5pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>Th&#7917; nghi&#7879;m
-ki&#7875;m tra h&#7887;ng hóc s&#7899;m trong s&#7843;n xu&#7845;t các
-m&#7841;ch tích h&#7907;p</span><span style='font-size:10.5pt;font-family:"Tahoma",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'><o:p></o:p></span></p>
+</span></span></span><![endif]><span class=SpellE><span style='font-size:10.5pt;
+font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
+color:#222222'>Th&#7917;</span></span><span style='font-size:10.5pt;font-family:
+"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";color:#222222'>
+nghi&#7879;m <span class=SpellE>ki&#7875;m</span> <span class=SpellE>tra</span>
+<span class=SpellE>h&#7887;ng</span> <span class=SpellE>hóc</span> <span
+class=SpellE>s&#7899;m</span> <span class=SpellE>trong</span> <span
+class=SpellE>s&#7843;n</span> <span class=SpellE>xu&#7845;t</span> <span
+class=SpellE>các</span> <span class=SpellE>m&#7841;ch</span> <span
+class=SpellE>tích</span> <span class=SpellE>h&#7907;p</span></span><span
+style='font-size:10.5pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
+"Times New Roman";color:#222222'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
 margin-left:30.0pt;margin-bottom:.0001pt;line-height:normal;vertical-align:
@@ -1976,11 +2085,16 @@ mso-list:l0 level1 lfo5;tab-stops:list 36.0pt;vertical-align:baseline'><![if !su
 style='font-size:10.0pt;mso-bidi-font-size:10.5pt;font-family:Symbol;
 mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:#222222'><span
 style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:10.5pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>Ki&#7875;m tra
-&#273;&#7897; ch&#7855;c ch&#7855;n c&#7911;a m&#7889;i hàn trong b&#7843;ng
-m&#7841;ch</span><span style='font-size:10.5pt;font-family:"Tahoma",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'><o:p></o:p></span></p>
+</span></span></span><![endif]><span class=SpellE><span style='font-size:10.5pt;
+font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
+color:#222222'>Ki&#7875;m</span></span><span style='font-size:10.5pt;
+font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
+color:#222222'> <span class=SpellE>tra</span> &#273;&#7897; <span class=SpellE>ch&#7855;c</span>
+<span class=SpellE>ch&#7855;n</span> <span class=SpellE>c&#7911;a</span> <span
+class=SpellE>m&#7889;i</span> <span class=SpellE>hàn</span> <span class=SpellE>trong</span>
+<span class=SpellE>b&#7843;ng</span> <span class=SpellE>m&#7841;ch</span></span><span
+style='font-size:10.5pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
+"Times New Roman";color:#222222'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
 margin-left:30.0pt;margin-bottom:.0001pt;line-height:normal;vertical-align:
@@ -1993,10 +2107,18 @@ mso-list:l1 level1 lfo6;tab-stops:list 36.0pt;vertical-align:baseline'><![if !su
 style='font-size:10.0pt;mso-bidi-font-size:10.5pt;font-family:Symbol;
 mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:#222222'><span
 style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:10.5pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>Mô ph&#7887;ng
-t&#259;ng t&#7889;c quá trình ph&#7843;n &#7913;ng hóa h&#7885;c và thay
-&#273;&#7893;i tính ch&#7845;t hoá h&#7885;c c&#7911;a polymer tiên ti&#7871;n.</span><span
+</span></span></span><![endif]><span class=SpellE><span style='font-size:10.5pt;
+font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
+color:#222222'>Mô</span></span><span style='font-size:10.5pt;font-family:"Arial",sans-serif;
+mso-fareast-font-family:"Times New Roman";color:#222222'> <span class=SpellE>ph&#7887;ng</span>
+<span class=SpellE>t&#259;ng</span> <span class=SpellE>t&#7889;c</span> <span
+class=SpellE>quá</span> <span class=SpellE>trình</span> <span class=SpellE>ph&#7843;n</span>
+<span class=SpellE>&#7913;ng</span> <span class=SpellE>hóa</span> <span
+class=SpellE>h&#7885;c</span> <span class=SpellE>và</span> <span class=SpellE>thay</span>
+<span class=SpellE>&#273;&#7893;i</span> <span class=SpellE>tính</span> <span
+class=SpellE>ch&#7845;t</span> <span class=SpellE>hoá</span> <span
+class=SpellE>h&#7885;c</span> <span class=SpellE>c&#7911;a</span> polymer <span
+class=SpellE>tiên</span> <span class=SpellE>ti&#7871;n</span>.</span><span
 style='font-size:10.5pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
 "Times New Roman";color:#222222'><o:p></o:p></span></p>
 
@@ -2022,26 +2144,34 @@ mso-list:l6 level1 lfo7;tab-stops:list 36.0pt;vertical-align:baseline'><![if !su
 style='font-size:10.0pt;mso-bidi-font-size:10.5pt;font-family:Symbol;
 mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:#222222'><span
 style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><b style='mso-bidi-font-weight:normal'><span
+</span></span></span><![endif]><span class=SpellE><b><span style='font-size:
+10.5pt;font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
+color:#222222'>Các</span></b></span><b><span style='font-size:10.5pt;
+font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
+color:#222222'> <span class=SpellE>&#7913;ng</span> <span class=SpellE>d&#7909;ng</span>
+<span class=SpellE>chuyên</span> <span class=SpellE>sâu</span></span></b><span
 style='font-size:10.5pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
-"Times New Roman";color:#222222;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
- id="Picture_x0020_2" o:spid="_x0000_i1026" type="#_x0000_t75" alt="t&#7911; s&#7845;y thí nghi&#7879;m hepa class 100 ISO"
- style='width:225pt;height:195pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="&#7912;ng%20d&#7909;ng%20t&#7911;%20s&#7845;y%20thí%20nghi&#7879;m_files/image004.jpg"
-  o:title="t&#7911; s&#7845;y thí nghi&#7879;m hepa class 100 ISO"/>
-</v:shape><![endif]--><![if !vml]><img border=0 width=300 height=260
-src="&#7912;ng%20d&#7909;ng%20t&#7911;%20s&#7845;y%20thí%20nghi&#7879;m_files/image004.jpg"
-alt="t&#7911; s&#7845;y thí nghi&#7879;m hepa class 100 ISO" v:shapes="Picture_x0020_2"><![endif]></span></b><b><span
-style='font-size:10.5pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
-"Times New Roman";color:#222222'>Các &#7913;ng d&#7909;ng chuyên sâu</span></b><span
-style='font-size:10.5pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
-"Times New Roman";color:#222222'>&nbsp;c&#7911;a t&#7911; s&#7845;y lò nung
-th&#432;&#7901;ng &#273;&#432;&#7907;c dùng trong các phòng thí nghi&#7879;m
-sinh h&#7885;c, pháp y và môi tr&#432;&#7901;ng. D&#432;&#7899;i &#273;ây là
-m&#7897;t s&#7889; ví d&#7909; v&#7873; cách mà các ngành khoa h&#7885;c
-t&#7921; nhiên &#273;ang s&#7917; d&#7909;ng &#273;&#7875; nâng cao t&#7889;c
-&#273;&#7897; nghiên c&#7913;u:</span><span style='font-size:10.5pt;font-family:
-"Tahoma",sans-serif;mso-fareast-font-family:"Times New Roman";color:#222222'><o:p></o:p></span></p>
+"Times New Roman";color:#222222'>&nbsp;<span class=SpellE>c&#7911;a</span>
+t&#7911; s&#7845;y <span class=SpellE>lò</span> <span class=SpellE>nung</span> <span
+class=SpellE>th&#432;&#7901;ng</span> <span class=SpellE>&#273;&#432;&#7907;c</span>
+<span class=SpellE>dùng</span> <span class=SpellE>trong</span> <span
+class=SpellE>các</span> <span class=SpellE>phòng</span> thí nghi&#7879;m <span
+class=SpellE>sinh</span> <span class=SpellE>h&#7885;c</span>, <span
+class=SpellE>pháp</span> y <span class=SpellE>và</span> <span class=SpellE>môi</span>
+<span class=SpellE>tr&#432;&#7901;ng</span>. <span class=SpellE>D&#432;&#7899;i</span>
+<span class=SpellE>&#273;ây</span> <span class=SpellE>là</span> <span
+class=SpellE>m&#7897;t</span> s&#7889; <span class=SpellE>ví</span> <span
+class=SpellE>d&#7909;</span> <span class=SpellE>v&#7873;</span> <span
+class=SpellE>cách</span> <span class=SpellE>mà</span> <span class=SpellE>các</span>
+<span class=SpellE>ngành</span> <span class=SpellE>khoa</span> <span
+class=SpellE>h&#7885;c</span> <span class=SpellE>t&#7921;</span> <span
+class=SpellE>nhiên</span> <span class=SpellE>&#273;ang</span> <span
+class=SpellE>s&#7917;</span> <span class=SpellE>d&#7909;ng</span> <span
+class=SpellE>&#273;&#7875;</span> <span class=SpellE>nâng</span> <span
+class=SpellE>cao</span> <span class=SpellE>t&#7889;c</span> &#273;&#7897; <span
+class=SpellE>nghiên</span> <span class=SpellE>c&#7913;u</span>:</span><span
+style='font-size:10.5pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
+"Times New Roman";color:#222222'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
 margin-left:30.0pt;margin-bottom:.0001pt;line-height:normal;vertical-align:
@@ -2054,12 +2184,20 @@ mso-list:l3 level1 lfo8;tab-stops:list 36.0pt;vertical-align:baseline'><![if !su
 style='font-size:10.0pt;mso-bidi-font-size:10.5pt;font-family:Symbol;
 mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:#222222'><span
 style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:10.5pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>Phòng thí nghi&#7879;m
-pháp y s&#7917; d&#7909;ng t&#7911; s&#7845;y chân không &#273;&#432;&#7907;c
-c&#7845;u hình &#273;&#7863;c bi&#7879;t nh&#432; các phòng phát tri&#7875;n
-vân tay.</span><span style='font-size:10.5pt;font-family:"Tahoma",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'><o:p></o:p></span></p>
+</span></span></span><![endif]><span class=SpellE><span style='font-size:10.5pt;
+font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
+color:#222222'>Phòng</span></span><span style='font-size:10.5pt;font-family:
+"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";color:#222222'>
+thí nghi&#7879;m <span class=SpellE>pháp</span> y <span class=SpellE>s&#7917;</span>
+<span class=SpellE>d&#7909;ng</span> t&#7911; s&#7845;y <span class=SpellE>chân</span>
+<span class=SpellE>không</span> <span class=SpellE>&#273;&#432;&#7907;c</span> <span
+class=SpellE>c&#7845;u</span> <span class=SpellE>hình</span> <span
+class=SpellE>&#273;&#7863;c</span> <span class=SpellE>bi&#7879;t</span> <span
+class=SpellE>nh&#432;</span> <span class=SpellE>các</span> <span class=SpellE>phòng</span>
+<span class=SpellE>phát</span> <span class=SpellE>tri&#7875;n</span> <span
+class=SpellE>vân</span> <span class=SpellE>tay</span>.</span><span
+style='font-size:10.5pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
+"Times New Roman";color:#222222'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
 margin-left:30.0pt;margin-bottom:.0001pt;line-height:normal;vertical-align:
@@ -2072,15 +2210,28 @@ mso-list:l4 level1 lfo9;tab-stops:list 36.0pt;vertical-align:baseline'><![if !su
 style='font-size:10.0pt;mso-bidi-font-size:10.5pt;font-family:Symbol;
 mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:#222222'><span
 style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:10.5pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>Các phòng thí
-nghi&#7879;m sinh h&#7885;c s&#7917; d&#7909;ng t&#7911; &#273;&#7889;i
-l&#432;u t&#7921; nhiên &#273;&#7875; lo&#7841;i b&#7887; các ch&#7845;t gây ô
-nhi&#7877;m vi sinh trong phòng thí nghi&#7879;m và lò s&#7845;y chân không
-&#273;&#7875; dính ch&#7845;t n&#7873;n vào b&#7873; m&#7863;t c&#7911;a
-b&#7897; l&#7885;c và các m&#7851;u khác.</span><span style='font-size:10.5pt;
-font-family:"Tahoma",sans-serif;mso-fareast-font-family:"Times New Roman";
-color:#222222'><o:p></o:p></span></p>
+</span></span></span><![endif]><span class=SpellE><span style='font-size:10.5pt;
+font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
+color:#222222'>Các</span></span><span style='font-size:10.5pt;font-family:"Arial",sans-serif;
+mso-fareast-font-family:"Times New Roman";color:#222222'> <span class=SpellE>phòng</span>
+thí nghi&#7879;m <span class=SpellE>sinh</span> <span class=SpellE>h&#7885;c</span>
+<span class=SpellE>s&#7917;</span> <span class=SpellE>d&#7909;ng</span>
+t&#7911; <span class=SpellE>&#273;&#7889;i</span> <span class=SpellE>l&#432;u</span>
+<span class=SpellE>t&#7921;</span> <span class=SpellE>nhiên</span> <span
+class=SpellE>&#273;&#7875;</span> <span class=SpellE>lo&#7841;i</span> <span
+class=SpellE>b&#7887;</span> <span class=SpellE>các</span> <span class=SpellE>ch&#7845;t</span>
+<span class=SpellE>gây</span> ô <span class=SpellE>nhi&#7877;m</span> vi <span
+class=SpellE>sinh</span> <span class=SpellE>trong</span> <span class=SpellE>phòng</span>
+thí nghi&#7879;m <span class=SpellE>và</span> <span class=SpellE>lò</span>
+s&#7845;y <span class=SpellE>chân</span> <span class=SpellE>không</span> <span
+class=SpellE>&#273;&#7875;</span> <span class=SpellE>dính</span> <span
+class=SpellE>ch&#7845;t</span> <span class=SpellE>n&#7873;n</span> <span
+class=SpellE>vào</span> <span class=SpellE>b&#7873;</span> <span class=SpellE>m&#7863;t</span>
+<span class=SpellE>c&#7911;a</span> <span class=SpellE>b&#7897;</span> <span
+class=SpellE>l&#7885;c</span> <span class=SpellE>và</span> <span class=SpellE>các</span>
+<span class=SpellE>m&#7851;u</span> <span class=SpellE>khác</span>.</span><span
+style='font-size:10.5pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
+"Times New Roman";color:#222222'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
 margin-left:30.0pt;margin-bottom:.0001pt;line-height:normal;vertical-align:
@@ -2093,15 +2244,28 @@ mso-list:l7 level1 lfo10;tab-stops:list 36.0pt;vertical-align:baseline'><![if !s
 style='font-size:10.0pt;mso-bidi-font-size:10.5pt;font-family:Symbol;
 mso-fareast-font-family:Symbol;mso-bidi-font-family:Symbol;color:#222222'><span
 style='mso-list:Ignore'>·<span style='font:7.0pt "Times New Roman"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-</span></span></span><![endif]><span style='font-size:10.5pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>Các phòng thí
-nghi&#7879;m môi tr&#432;&#7901;ng làm khô m&#7851;u trong bu&#7891;ng thí
-nghi&#7879;m, cân tr&#7885;ng l&#432;&#7907;ng m&#7851;u tr&#432;&#7899;c và
-sau khi s&#7845;y, &#273;&#7875; xác &#273;&#7883;nh &#273;&#7897; &#7849;m
-c&#7911;a m&#7851;u. Lò &#273;&#7889;i l&#432;u t&#7921; nhiên và lò baking
-&#273;&#432;&#7907;c s&#7917; d&#7909;ng cho các quá trình này</span><span
-style='font-size:10.5pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
-"Times New Roman";color:#222222'><o:p></o:p></span></p>
+</span></span></span><![endif]><span class=SpellE><span style='font-size:10.5pt;
+font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
+color:#222222'>Các</span></span><span style='font-size:10.5pt;font-family:"Arial",sans-serif;
+mso-fareast-font-family:"Times New Roman";color:#222222'> <span class=SpellE>phòng</span>
+thí nghi&#7879;m <span class=SpellE>môi</span> <span class=SpellE>tr&#432;&#7901;ng</span>
+<span class=SpellE>làm</span> <span class=SpellE>khô</span> <span class=SpellE>m&#7851;u</span>
+<span class=SpellE>trong</span> <span class=SpellE>bu&#7891;ng</span> thí
+nghi&#7879;m, <span class=SpellE>cân</span> <span class=SpellE>tr&#7885;ng</span>
+<span class=SpellE>l&#432;&#7907;ng</span> <span class=SpellE>m&#7851;u</span> <span
+class=SpellE>tr&#432;&#7899;c</span> <span class=SpellE>và</span> <span
+class=SpellE>sau</span> <span class=SpellE>khi</span> s&#7845;y, <span
+class=SpellE>&#273;&#7875;</span> <span class=SpellE>xác</span> <span
+class=SpellE>&#273;&#7883;nh</span> &#273;&#7897; <span class=SpellE>&#7849;m</span>
+<span class=SpellE>c&#7911;a</span> <span class=SpellE>m&#7851;u</span>. <span
+class=SpellE>Lò</span> <span class=SpellE>&#273;&#7889;i</span> <span
+class=SpellE>l&#432;u</span> <span class=SpellE>t&#7921;</span> <span
+class=SpellE>nhiên</span> <span class=SpellE>và</span> <span class=SpellE>lò</span>
+baking <span class=SpellE>&#273;&#432;&#7907;c</span> <span class=SpellE>s&#7917;</span>
+<span class=SpellE>d&#7909;ng</span> <span class=SpellE>cho</span> <span
+class=SpellE>các</span> <span class=SpellE>quá</span> <span class=SpellE>trình</span>
+<span class=SpellE>này</span></span><span style='font-size:10.5pt;font-family:
+"Tahoma",sans-serif;mso-fareast-font-family:"Times New Roman";color:#222222'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
 normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Tahoma",sans-serif;
@@ -2116,46 +2280,83 @@ normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Tahom
 mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;mso-outline-level:3;vertical-align:baseline'><b style='mso-bidi-font-weight:
-normal'><span style='font-size:12.0pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222;mso-no-proof:yes'><!--[if gte vml 1]><v:shape
- id="Picture_x0020_1" o:spid="_x0000_i1025" type="#_x0000_t75" alt="Drying oven, funace oven"
- style='width:409.5pt;height:592.5pt;visibility:visible;mso-wrap-style:square'>
- <v:imagedata src="&#7912;ng%20d&#7909;ng%20t&#7911;%20s&#7845;y%20thí%20nghi&#7879;m_files/image005.jpg"
-  o:title="Drying oven, funace oven"/>
-</v:shape><![endif]--><![if !vml]><img border=0 width=546 height=790
-src="&#7912;ng%20d&#7909;ng%20t&#7911;%20s&#7845;y%20thí%20nghi&#7879;m_files/image005.jpg"
-alt="Drying oven, funace oven" v:shapes="Picture_x0020_1"><![endif]></span></b><b><span
+normal;mso-outline-level:3;vertical-align:baseline'><span class=SpellE><b><span
 style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
-"Times New Roman";color:#222222'>Cách ch&#7885;n lo&#7841;i lò nung, t&#7911;
-s&#7845;y trong phòng thí nghi&#7879;m</span></b><b><span style='font-size:
+"Times New Roman";color:#222222'>Cách</span></b></span><b><span
+style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
+"Times New Roman";color:#222222'> <span class=SpellE>ch&#7885;n</span> <span
+class=SpellE>lo&#7841;i</span> <span class=SpellE>lò</span> <span class=SpellE>nung</span>,
+t&#7911; s&#7845;y <span class=SpellE>trong</span> <span class=SpellE>phòng</span>
+thí nghi&#7879;m</span></b><b><span style='font-size:10.5pt;font-family:"Tahoma",sans-serif;
+mso-fareast-font-family:"Times New Roman";color:#222222'><o:p></o:p></span></b></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Tahoma",sans-serif;
+mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+normal;vertical-align:baseline'><span class=SpellE><span style='font-size:10.5pt;
+font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
+color:#222222'>Khi</span></span><span style='font-size:10.5pt;font-family:"Arial",sans-serif;
+mso-fareast-font-family:"Times New Roman";color:#222222'> <span class=SpellE>xem</span>
+<span class=SpellE>xét</span> <span class=SpellE>lò</span> <span class=SpellE>nung</span>,
+t&#7911; s&#7845;y <span class=SpellE>phòng</span> thí nghi&#7879;m, <span
+class=SpellE>hãy</span> <span class=SpellE>tính</span> <span class=SpellE>&#273;&#7871;n</span>
+<span class=SpellE>các</span> <span class=SpellE>lo&#7841;i</span> <span
+class=SpellE>&#7913;ng</span> <span class=SpellE>d&#7909;ng</span> <span
+class=SpellE>ng&#432;&#7901;i</span> <span class=SpellE>dùng</span> <span
+class=SpellE>s&#7869;</span> <span class=SpellE>th&#7921;c</span> <span
+class=SpellE>hi&#7879;n</span> <span class=SpellE>nh&#432;</span> <span
+class=SpellE>yêu</span> <span class=SpellE>c&#7847;u</span> <span class=SpellE>v&#7873;</span>
+<span class=SpellE>nhi&#7879;t</span> &#273;&#7897; <span class=SpellE>cao</span>,
+<span class=SpellE>chân</span> <span class=SpellE>không</span>, <span
+class=SpellE>tr&#7885;ng</span> <span class=SpellE>l&#7921;c</span> <span
+class=SpellE>ho&#7863;c</span> <span class=SpellE>lò</span> <span class=SpellE>&#273;&#7889;i</span>
+<span class=SpellE>l&#432;u</span> <span class=SpellE>c&#417;</span> <span
+class=SpellE>h&#7885;c</span> <span class=SpellE>v&#7899;i</span> <span
+class=SpellE>các</span> <span class=SpellE>tính</span> <span class=SpellE>n&#259;ng</span>
+<span class=SpellE>có</span> <span class=SpellE>th&#7875;</span> <span
+class=SpellE>s&#7917;</span> <span class=SpellE>d&#7909;ng</span> <span
+class=SpellE>chung</span> <span class=SpellE>và</span> <span class=SpellE>các</span>
+<span class=SpellE>tính</span> <span class=SpellE>n&#259;ng</span> <span
+class=SpellE>chuyên</span> <span class=SpellE>d&#7909;ng</span> <span
+class=SpellE>cho</span> <span class=SpellE>m&#7909;c</span> <span class=SpellE>&#273;ích</span>
+<span class=SpellE>chính</span>. <span class=SpellE>Nh&#7919;ng</span> <span
+class=SpellE>lo&#7841;i</span> <span class=SpellE>lò</span> <span class=SpellE>này</span>
+<span class=SpellE>ch&#7911;</span> <span class=SpellE>y&#7871;u</span> <span
+class=SpellE>&#273;&#432;&#7907;c</span> <span class=SpellE>s&#7917;</span> <span
+class=SpellE>d&#7909;ng</span> <span class=SpellE>trong</span> <span
+class=SpellE>phòng</span> thí nghi&#7879;m <span class=SpellE>lâm</span> <span
+class=SpellE>sàng</span> <span class=SpellE>và</span> <span class=SpellE>d&#432;&#7907;c</span>
+<span class=SpellE>ph&#7849;m</span>. <span class=SpellE>Lò</span> <span
+class=SpellE>c&#432;&#7905;ng</span> <span class=SpellE>b&#7913;c</span>, <span
+class=SpellE>ho&#7863;c</span> <span class=SpellE>lò</span> <span class=SpellE>&#273;a</span>
+<span class=SpellE>n&#259;ng</span> <span class=SpellE>v&#7899;i</span> <span
+class=SpellE>tính</span> <span class=SpellE>n&#259;ng</span> <span
+class=SpellE>ph&#7909;c</span> <span class=SpellE>h&#7891;i</span> <span
+class=SpellE>nhanh</span> <span class=SpellE>lý</span> <span class=SpellE>t&#432;&#7903;ng</span>
+<span class=SpellE>&#273;&#7875;</span> <span class=SpellE>làm</span> <span
+class=SpellE>khô</span> <span class=SpellE>&#273;&#7891;</span> <span
+class=SpellE>th&#7911;y</span> <span class=SpellE>tinh</span>. <span
+class=SpellE>Lò</span> s&#7845;y <span class=SpellE>ho&#7863;c</span> <span
+class=SpellE>nung</span> <span class=SpellE>chân</span> <span class=SpellE>không</span>
+<span class=SpellE>lý</span> <span class=SpellE>t&#432;&#7903;ng</span> <span
+class=SpellE>cho</span> <span class=SpellE>các</span> <span class=SpellE>v&#7853;t</span>
+<span class=SpellE>li&#7879;u</span> <span class=SpellE>&#273;òi</span> <span
+class=SpellE>h&#7887;i</span> <span class=SpellE>áp</span> <span class=SpellE>su&#7845;t</span>
+<span class=SpellE>th&#7845;p</span>. <span class=SpellE>Lò</span> <span
+class=SpellE>dùng</span> <span class=SpellE>trong</span> <span class=SpellE>phòng</span>
+<span class=SpellE>s&#7841;ch</span> <span class=SpellE>&#273;&#432;&#7907;c</span>
+<span class=SpellE>làm</span> <span class=SpellE>b&#7857;ng</span> <span
+class=SpellE>thép</span> <span class=SpellE>không</span> <span class=SpellE>g&#7881;</span>
+<span class=SpellE>có</span> <span class=SpellE>s&#7861;n</span> <span
+class=SpellE>b&#7897;</span> <span class=SpellE>l&#7885;c</span> HEPA <span
+class=SpellE>giúp</span> <span class=SpellE>&#273;áp</span> <span class=SpellE>&#7913;ng</span>
+<span class=SpellE>yêu</span> <span class=SpellE>c&#7847;u</span> <span
+class=SpellE>và</span> <span class=SpellE>tuân</span> <span class=SpellE>th&#7911;</span>
+<span class=SpellE>theo</span> ISO 5 (Class 100).</span><span style='font-size:
 10.5pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:"Times New Roman";
-color:#222222'><o:p></o:p></span></b></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Tahoma",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>Khi xem xét lò nung,
-t&#7911; s&#7845;y phòng thí nghi&#7879;m, hãy tính &#273;&#7871;n các
-lo&#7841;i &#7913;ng d&#7909;ng ng&#432;&#7901;i dùng s&#7869; th&#7921;c
-hi&#7879;n nh&#432; yêu c&#7847;u v&#7873; nhi&#7879;t &#273;&#7897; cao, chân
-không, tr&#7885;ng l&#7921;c ho&#7863;c lò &#273;&#7889;i l&#432;u c&#417;
-h&#7885;c v&#7899;i các tính n&#259;ng có th&#7875; s&#7917; d&#7909;ng chung
-và các tính n&#259;ng chuyên d&#7909;ng cho m&#7909;c &#273;ích chính.
-Nh&#7919;ng lo&#7841;i lò này ch&#7911; y&#7871;u &#273;&#432;&#7907;c s&#7917;
-d&#7909;ng trong phòng thí nghi&#7879;m lâm sàng và d&#432;&#7907;c ph&#7849;m.
-Lò c&#432;&#7905;ng b&#7913;c, ho&#7863;c lò &#273;a n&#259;ng v&#7899;i tính
-n&#259;ng ph&#7909;c h&#7891;i nhanh lý t&#432;&#7903;ng &#273;&#7875; làm khô
-&#273;&#7891; th&#7911;y tinh. Lò s&#7845;y ho&#7863;c nung chân không lý
-t&#432;&#7903;ng cho các v&#7853;t li&#7879;u &#273;òi h&#7887;i áp su&#7845;t
-th&#7845;p. Lò dùng trong phòng s&#7841;ch &#273;&#432;&#7907;c làm b&#7857;ng
-thép không g&#7881; có s&#7861;n b&#7897; l&#7885;c HEPA giúp &#273;áp
-&#7913;ng yêu c&#7847;u và tuân th&#7911; theo ISO 5 (Class 100).</span><span
-style='font-size:10.5pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
-"Times New Roman";color:#222222'><o:p></o:p></span></p>
+color:#222222'><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
 normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Tahoma",sans-serif;
@@ -2170,9 +2371,12 @@ normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Tahom
 mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Tahoma",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>Xem &#273;&#7847;y
-&#273;&#7911; các s&#7843;n ph&#7849;m:<o:p></o:p></span></p>
+normal;vertical-align:baseline'><span class=SpellE><span style='font-size:10.5pt;
+font-family:"Tahoma",sans-serif;mso-fareast-font-family:"Times New Roman";
+color:#222222'>Xem</span></span><span style='font-size:10.5pt;font-family:"Tahoma",sans-serif;
+mso-fareast-font-family:"Times New Roman";color:#222222'> <span class=SpellE>&#273;&#7847;y</span>
+<span class=SpellE>&#273;&#7911;</span> <span class=SpellE>các</span> <span
+class=SpellE>s&#7843;n</span> <span class=SpellE>ph&#7849;m</span>:<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
 normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Tahoma",sans-serif;
@@ -2182,7 +2386,8 @@ mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span
 normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Tahoma",sans-serif;
 mso-fareast-font-family:"Times New Roman";color:#222222'><a
 href="http://3bscitech.vn/tu-say-thi-nghiem-samheung-han-quoc-sh-scientific-318642s.html"
-target="_blank"><b><i>T&#7911; s&#7845;y thí nghi&#7879;m t&#7841;i &#273;ây</i></b></a><o:p></o:p></span></p>
+target="_blank"><b><i>T&#7911; s&#7845;y thí nghi&#7879;m <span class=SpellE>t&#7841;i</span>
+<span class=SpellE>&#273;ây</span></i></b></a><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
 normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Tahoma",sans-serif;
@@ -2192,7 +2397,9 @@ mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span
 normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Tahoma",sans-serif;
 mso-fareast-font-family:"Times New Roman";color:#222222'><a
 href="http://3bscitech.vn/lo-nung-samheung-sh-scientifc-329052s.html"
-target="_blank"><b><i>Lò nung thí nghi&#7879;m t&#7841;i &#273;ây</i></b></a><o:p></o:p></span></p>
+target="_blank"><span class=SpellE><b><i>Lò</i></b></span><b><i> <span
+class=SpellE>nung</span> thí nghi&#7879;m <span class=SpellE>t&#7841;i</span> <span
+class=SpellE>&#273;ây</span></i></b></a><o:p></o:p></span></p>
 
 <p class=MsoNormal><o:p>&nbsp;</o:p></p>
 
