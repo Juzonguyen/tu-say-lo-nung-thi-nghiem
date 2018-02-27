@@ -16,16 +16,16 @@ href="&#7912;ng%20d&#7909;ng%20t&#7911;%20s&#7845;y%20thí%20nghi&#7879;m_files/
  <o:DocumentProperties>
   <o:Author>nguyen juzo</o:Author>
   <o:LastAuthor>nguyen juzo</o:LastAuthor>
-  <o:Revision>5</o:Revision>
-  <o:TotalTime>443</o:TotalTime>
+  <o:Revision>8</o:Revision>
+  <o:TotalTime>448</o:TotalTime>
   <o:Created>2018-02-27T02:29:00Z</o:Created>
-  <o:LastSaved>2018-02-27T02:42:00Z</o:LastSaved>
+  <o:LastSaved>2018-02-27T02:51:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Words>675</o:Words>
-  <o:Characters>3851</o:Characters>
-  <o:Lines>32</o:Lines>
-  <o:Paragraphs>9</o:Paragraphs>
-  <o:CharactersWithSpaces>4517</o:CharactersWithSpaces>
+  <o:Words>671</o:Words>
+  <o:Characters>3826</o:Characters>
+  <o:Lines>31</o:Lines>
+  <o:Paragraphs>8</o:Paragraphs>
+  <o:CharactersWithSpaces>4489</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -1668,18 +1668,22 @@ ul
 <div class=WordSection1>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;mso-outline-level:2;vertical-align:baseline'><span class=SpellE><b><span
-style='font-size:16.5pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
-"Times New Roman";color:blue'>&#7912;ng</span></b></span><b><span
-style='font-size:16.5pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
-"Times New Roman";color:blue'> <span class=SpellE>d&#7909;ng</span> t&#7911;
-s&#7845;y <span class=SpellE>lò</span> <span class=SpellE>nung</span>&nbsp;thí
-nghi&#7879;m</span></b><b><span style='font-size:10.5pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'><o:p></o:p></span></b></p>
+normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Arial",sans-serif;
+mso-fareast-font-family:"Times New Roman";color:#4472C4;mso-themecolor:accent5'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'><o:p>&nbsp;</o:p></span></p>
+normal;vertical-align:baseline'><span class=SpellE><b><u><span
+style='font-size:16.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
+"Times New Roman";color:red;mso-bidi-font-style:italic'>&#7912;ng</span></u></b></span><b><u><span
+style='font-size:16.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
+"Times New Roman";color:red;mso-bidi-font-style:italic'> <span class=SpellE>d&#7909;ng</span>
+t&#7911; s&#7845;y <span class=SpellE>lò</span> <span class=SpellE>nung</span>
+thí nghi&#7879;m<o:p></o:p></span></u></b></p>
+
+<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
+normal;vertical-align:baseline'><b><i><u><span style='font-size:10.5pt;
+font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
+color:#222222'><o:p><span style='text-decoration:none'>&nbsp;</span></o:p></span></u></i></b></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
 normal;vertical-align:baseline'><b><i><u><span style='font-size:10.5pt;
@@ -1730,13 +1734,11 @@ class=SpellE>tri&#7875;n</span> <span class=SpellE>ho&#7863;c</span> <span
 class=SpellE>ki&#7875;m</span> <span class=SpellE>tra</span> <span
 class=SpellE>&#273;&#432;&#7907;c</span> <span class=SpellE>ti&#7871;n</span> <span
 class=SpellE>hành</span> <span class=SpellE>thu&#7853;n</span> <span
-class=SpellE>l&#7907;i</span>.&nbsp;</span></i><span style='font-size:10.5pt;
-font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
-color:#222222'><o:p></o:p></span></p>
+class=SpellE>l&#7907;i</span>.&nbsp;<o:p></o:p></span></i></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
 normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
+mso-fareast-font-family:"Times New Roman";color:#222222'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
 normal;mso-outline-level:3;vertical-align:baseline'><span class=SpellE><b><span
@@ -1746,13 +1748,12 @@ style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
 "Times New Roman";color:#222222'> <span class=SpellE>ngh&#297;a</span> <span
 class=SpellE>c&#7911;a</span> <span class=SpellE>m&#7897;t</span> s&#7889; <span
 class=SpellE>thu&#7853;t</span> <span class=SpellE>ng&#7919;</span> <span
-class=SpellE>thông</span> <span class=SpellE>d&#7909;ng</span>.</span></b><b><span
-style='font-size:10.5pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
-"Times New Roman";color:#222222'><o:p></o:p></span></b></p>
+class=SpellE>thông</span> <span class=SpellE>d&#7909;ng</span>.<o:p></o:p></span></b></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
+normal;mso-outline-level:3;vertical-align:baseline'><b><span style='font-size:
+10.5pt;font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
+color:#222222'><o:p>&nbsp;</o:p></span></b></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
 normal;vertical-align:baseline'><b><span style='font-size:10.5pt;font-family:
@@ -1779,10 +1780,6 @@ class=SpellE>nhiên</span> <span class=SpellE>cho</span> <span class=SpellE>lo&#
 class=SpellE>này</span>.<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
 normal;vertical-align:baseline'><b><span style='font-size:10.5pt;font-family:
 "Arial",sans-serif;mso-fareast-font-family:"Times New Roman";color:#222222'>Curing:
 <span class=SpellE>l<span style='font-weight:normal'>à</span></span></span></b><span
@@ -1807,10 +1804,6 @@ class=SpellE>nghiên</span> <span class=SpellE>c&#7913;u</span> polymer, <span
 class=SpellE>công</span> <span class=SpellE>ngh&#7879;</span> <span
 class=SpellE>nano</span> <span class=SpellE>và</span> <span class=SpellE>bán</span>
 <span class=SpellE>d&#7851;n</span>.<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
 normal;vertical-align:baseline'><b><span style='font-size:10.5pt;font-family:
@@ -1854,10 +1847,6 @@ class=SpellE>ch&#7845;t</span> <span class=SpellE>d&#7867;o</span> <span
 class=SpellE>lên</span> <span class=SpellE>&#7889;ng</span> <span class=SpellE>tiêm</span>
 <span class=SpellE>và</span> <span class=SpellE>&#7889;ng</span> <span
 class=SpellE>thông</span>.<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
 normal;vertical-align:baseline'><b><span style='font-size:10.5pt;font-family:
@@ -1910,7 +1899,7 @@ class=SpellE>cho</span> <span class=SpellE>phép</span> <span class=SpellE>m&#78
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
 normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
+mso-fareast-font-family:"Times New Roman";color:#222222'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
 normal;vertical-align:baseline'><span class=SpellE><b><span style='font-size:
@@ -1921,13 +1910,11 @@ color:#222222'> <span class=SpellE>&#7913;ng</span> <span class=SpellE>d&#7909;n
 <span class=SpellE>c&#417;</span> <span class=SpellE>b&#7843;n</span> <span
 class=SpellE>và</span> <span class=SpellE>chuyên</span> <span class=SpellE>sâu</span>
 <span class=SpellE>c&#7911;a</span> t&#7911; s&#7845;y, <span class=SpellE>lò</span>
-<span class=SpellE>nung</span>.</span></b><span style='font-size:10.5pt;
-font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
-color:#222222'><o:p></o:p></span></p>
+<span class=SpellE>nung</span>.<o:p></o:p></span></b></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
 normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
+mso-fareast-font-family:"Times New Roman";color:#222222'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
 margin-left:30.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:normal;
@@ -1978,11 +1965,6 @@ class=SpellE>tra</span> <span class=SpellE>d&#432;&#7899;i</span> <span
 class=SpellE>&#273;ây</span>:<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:30.0pt;margin-bottom:.0001pt;line-height:normal;vertical-align:
-baseline'><span style='font-size:10.5pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
 margin-left:30.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:normal;
 mso-list:l9 level1 lfo3;tab-stops:list 36.0pt;vertical-align:baseline'><![if !supportLists]><span
 style='font-size:10.0pt;mso-bidi-font-size:10.5pt;font-family:Symbol;
@@ -1995,11 +1977,6 @@ font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
 color:#222222'> <span class=SpellE>tra</span> <span class=SpellE>linh</span> <span
 class=SpellE>ki&#7879;n</span> <span class=SpellE>&#273;i&#7879;n</span> <span
 class=SpellE>t&#7917;</span>.<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:30.0pt;margin-bottom:.0001pt;line-height:normal;vertical-align:
-baseline'><span style='font-size:10.5pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
 margin-left:30.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:normal;
@@ -2019,11 +1996,6 @@ class=SpellE>các</span> <span class=SpellE>m&#7841;ch</span> <span
 class=SpellE>tích</span> <span class=SpellE>h&#7907;p</span><o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:30.0pt;margin-bottom:.0001pt;line-height:normal;vertical-align:
-baseline'><span style='font-size:10.5pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
 margin-left:30.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:normal;
 mso-list:l0 level1 lfo5;tab-stops:list 36.0pt;vertical-align:baseline'><![if !supportLists]><span
 style='font-size:10.0pt;mso-bidi-font-size:10.5pt;font-family:Symbol;
@@ -2037,11 +2009,6 @@ color:#222222'> <span class=SpellE>tra</span> &#273;&#7897; <span class=SpellE>c
 <span class=SpellE>ch&#7855;n</span> <span class=SpellE>c&#7911;a</span> <span
 class=SpellE>m&#7889;i</span> <span class=SpellE>hàn</span> <span class=SpellE>trong</span>
 <span class=SpellE>b&#7843;ng</span> <span class=SpellE>m&#7841;ch</span><o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:30.0pt;margin-bottom:.0001pt;line-height:normal;vertical-align:
-baseline'><span style='font-size:10.5pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
 margin-left:30.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:normal;
@@ -2061,10 +2028,6 @@ class=SpellE>h&#7885;c</span> <span class=SpellE>và</span> <span class=SpellE>t
 class=SpellE>ch&#7845;t</span> <span class=SpellE>hoá</span> <span
 class=SpellE>h&#7885;c</span> <span class=SpellE>c&#7911;a</span> polymer <span
 class=SpellE>tiên</span> <span class=SpellE>ti&#7871;n</span>.<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
 margin-left:30.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:normal;
@@ -2100,11 +2063,6 @@ class=SpellE>cao</span> <span class=SpellE>t&#7889;c</span> &#273;&#7897; <span
 class=SpellE>nghiên</span> <span class=SpellE>c&#7913;u</span>:<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:30.0pt;margin-bottom:.0001pt;line-height:normal;vertical-align:
-baseline'><span style='font-size:10.5pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
 margin-left:30.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:normal;
 mso-list:l3 level1 lfo8;tab-stops:list 36.0pt;vertical-align:baseline'><![if !supportLists]><span
 style='font-size:10.0pt;mso-bidi-font-size:10.5pt;font-family:Symbol;
@@ -2122,11 +2080,6 @@ class=SpellE>&#273;&#7863;c</span> <span class=SpellE>bi&#7879;t</span> <span
 class=SpellE>nh&#432;</span> <span class=SpellE>các</span> <span class=SpellE>phòng</span>
 <span class=SpellE>phát</span> <span class=SpellE>tri&#7875;n</span> <span
 class=SpellE>vân</span> <span class=SpellE>tay</span>.<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:30.0pt;margin-bottom:.0001pt;line-height:normal;vertical-align:
-baseline'><span style='font-size:10.5pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
 margin-left:30.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:normal;
@@ -2154,11 +2107,6 @@ class=SpellE>vào</span> <span class=SpellE>b&#7873;</span> <span class=SpellE>m
 <span class=SpellE>c&#7911;a</span> <span class=SpellE>b&#7897;</span> <span
 class=SpellE>l&#7885;c</span> <span class=SpellE>và</span> <span class=SpellE>các</span>
 <span class=SpellE>m&#7851;u</span> <span class=SpellE>khác</span>.<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
-margin-left:30.0pt;margin-bottom:.0001pt;line-height:normal;vertical-align:
-baseline'><span style='font-size:10.5pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
 margin-left:30.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:normal;
@@ -2190,7 +2138,7 @@ class=SpellE>các</span> <span class=SpellE>quá</span> <span class=SpellE>trìn
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
 normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;&nbsp;<o:p></o:p></span></p>
+mso-fareast-font-family:"Times New Roman";color:#222222'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
 normal;mso-outline-level:3;vertical-align:baseline'><span class=SpellE><b><span
@@ -2200,12 +2148,12 @@ style='font-size:12.0pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
 "Times New Roman";color:#222222'> <span class=SpellE>ch&#7885;n</span> <span
 class=SpellE>lo&#7841;i</span> <span class=SpellE>lò</span> <span class=SpellE>nung</span>,
 t&#7911; s&#7845;y <span class=SpellE>trong</span> <span class=SpellE>phòng</span>
-thí nghi&#7879;m</span></b><b><span style='font-size:10.5pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'><o:p></o:p></span></b></p>
+thí nghi&#7879;m<o:p></o:p></span></b></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
+normal;mso-outline-level:3;vertical-align:baseline'><b><span style='font-size:
+10.5pt;font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
+color:#222222'><o:p>&nbsp;</o:p></span></b></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
 normal;vertical-align:baseline'><span class=SpellE><span style='font-size:10.5pt;
@@ -2275,7 +2223,7 @@ mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
 normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Arial",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
+mso-fareast-font-family:"Times New Roman";color:#222222'><o:p>&nbsp;</o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
 normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Arial",sans-serif;
