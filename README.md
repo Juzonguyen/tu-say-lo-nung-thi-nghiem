@@ -1,4 +1,10 @@
 
+<html xmlns:v="urn:schemas-microsoft-com:vml"
+xmlns:o="urn:schemas-microsoft-com:office:office"
+xmlns:w="urn:schemas-microsoft-com:office:word"
+xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
+xmlns="http://www.w3.org/TR/REC-html40">
+
 <head>
 <meta http-equiv=Content-Type content="text/html; charset=windows-1252">
 <meta name=ProgId content=Word.Document>
@@ -10,16 +16,16 @@ href="&#7912;ng%20d&#7909;ng%20t&#7911;%20s&#7845;y%20thí%20nghi&#7879;m_files/
  <o:DocumentProperties>
   <o:Author>nguyen juzo</o:Author>
   <o:LastAuthor>nguyen juzo</o:LastAuthor>
-  <o:Revision>3</o:Revision>
-  <o:TotalTime>438</o:TotalTime>
+  <o:Revision>4</o:Revision>
+  <o:TotalTime>441</o:TotalTime>
   <o:Created>2018-02-27T02:29:00Z</o:Created>
-  <o:LastSaved>2018-02-27T02:37:00Z</o:LastSaved>
+  <o:LastSaved>2018-02-27T02:40:00Z</o:LastSaved>
   <o:Pages>1</o:Pages>
-  <o:Words>679</o:Words>
-  <o:Characters>3876</o:Characters>
+  <o:Words>675</o:Words>
+  <o:Characters>3851</o:Characters>
   <o:Lines>32</o:Lines>
   <o:Paragraphs>9</o:Paragraphs>
-  <o:CharactersWithSpaces>4546</o:CharactersWithSpaces>
+  <o:CharactersWithSpaces>4517</o:CharactersWithSpaces>
   <o:Version>16.00</o:Version>
  </o:DocumentProperties>
  <o:OfficeDocumentSettings>
@@ -1669,25 +1675,18 @@ ul
 <div class=WordSection1>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;mso-outline-level:2;vertical-align:baseline'><b><span style='font-size:
-16.5pt;font-family:"Arial",sans-serif;mso-fareast-font-family:"Times New Roman";
-color:blue'><br>
-<span class=SpellE>&#7912;ng</span> <span class=SpellE>d&#7909;ng</span>
-t&#7911; s&#7845;y <span class=SpellE>lò</span> <span class=SpellE>nung</span>&nbsp;thí
+normal;mso-outline-level:2;vertical-align:baseline'><span class=SpellE><b><span
+style='font-size:16.5pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
+"Times New Roman";color:blue'>&#7912;ng</span></b></span><b><span
+style='font-size:16.5pt;font-family:"Arial",sans-serif;mso-fareast-font-family:
+"Times New Roman";color:blue'> <span class=SpellE>d&#7909;ng</span> t&#7911;
+s&#7845;y <span class=SpellE>lò</span> <span class=SpellE>nung</span>&nbsp;thí
 nghi&#7879;m</span></b><b><span style='font-size:10.5pt;font-family:"Tahoma",sans-serif;
 mso-fareast-font-family:"Times New Roman";color:#222222'><o:p></o:p></span></b></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
 normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Tahoma",sans-serif;
 mso-fareast-font-family:"Times New Roman";color:#222222'><o:p>&nbsp;</o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Tahoma",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Tahoma",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
 normal;vertical-align:baseline'><b><i><u><span style='font-size:10.5pt;
@@ -1745,10 +1744,6 @@ class=SpellE>hành</span> <span class=SpellE>thu&#7853;n</span> <span
 class=SpellE>l&#7907;i</span>.&nbsp;</span></i><span style='font-size:10.5pt;
 font-family:"Tahoma",sans-serif;mso-fareast-font-family:"Times New Roman";
 color:#222222'><o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Tahoma",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
 normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Tahoma",sans-serif;
@@ -1826,22 +1821,6 @@ class=SpellE>nano</span> <span class=SpellE>và</span> <span class=SpellE>bán</
 <span class=SpellE>d&#7851;n</span>.</span><span style='font-size:10.5pt;
 font-family:"Tahoma",sans-serif;mso-fareast-font-family:"Times New Roman";
 color:#222222'><o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Tahoma",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Tahoma",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Tahoma",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Tahoma",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
 normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Tahoma",sans-serif;
@@ -1945,14 +1924,6 @@ class=SpellE>cho</span> <span class=SpellE>phép</span> <span class=SpellE>m&#78
 <span class=SpellE>h&#417;n</span>.</span><span style='font-size:10.5pt;
 font-family:"Tahoma",sans-serif;mso-fareast-font-family:"Times New Roman";
 color:#222222'><o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Tahoma",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Tahoma",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
 normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Tahoma",sans-serif;
@@ -2120,18 +2091,6 @@ style='font-size:10.5pt;font-family:"Tahoma",sans-serif;mso-fareast-font-family:
 normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Tahoma",sans-serif;
 mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
 
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Tahoma",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Tahoma",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Tahoma",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
-
 <p class=MsoNormal style='margin-top:0cm;margin-right:0cm;margin-bottom:0cm;
 margin-left:30.0pt;margin-bottom:.0001pt;text-indent:-18.0pt;line-height:normal;
 mso-list:l6 level1 lfo7;tab-stops:list 36.0pt;vertical-align:baseline'><![if !supportLists]><span
@@ -2263,15 +2222,7 @@ class=SpellE>các</span> <span class=SpellE>quá</span> <span class=SpellE>trìn
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
 normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Tahoma",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Tahoma",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Tahoma",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
+mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;&nbsp;<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
 normal;mso-outline-level:3;vertical-align:baseline'><span class=SpellE><b><span
@@ -2362,14 +2313,9 @@ mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
 normal;vertical-align:baseline'><span style='font-size:10.5pt;font-family:"Tahoma",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<o:p></o:p></span></p>
-
-<p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
-normal;vertical-align:baseline'><span class=SpellE><span style='font-size:10.5pt;
-font-family:"Tahoma",sans-serif;mso-fareast-font-family:"Times New Roman";
-color:#222222'>Xem</span></span><span style='font-size:10.5pt;font-family:"Tahoma",sans-serif;
-mso-fareast-font-family:"Times New Roman";color:#222222'> <span class=SpellE>&#273;&#7847;y</span>
-<span class=SpellE>&#273;&#7911;</span> <span class=SpellE>các</span> <span
+mso-fareast-font-family:"Times New Roman";color:#222222'>&nbsp;<span
+class=SpellE>Xem</span> <span class=SpellE>&#273;&#7847;y</span> <span
+class=SpellE>&#273;&#7911;</span> <span class=SpellE>các</span> <span
 class=SpellE>s&#7843;n</span> <span class=SpellE>ph&#7849;m</span>:<o:p></o:p></span></p>
 
 <p class=MsoNormal style='margin-bottom:0cm;margin-bottom:.0001pt;line-height:
